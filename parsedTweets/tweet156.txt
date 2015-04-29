@@ -1,0 +1,106 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825313394700
+"id_str":"593475825313394688"
+"text":"#BattleAlert See @ANGRYFAN007 @MzLeta_Truth @UNCLEHENNYAFM #ANGRYFANSRADIO #AFM http://t.co/3HAIFl3gUf | http://t.co/Td7VwEqbio #1000Network"
+"source":"<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2164794857
+"id_str":"2164794857"
+"name":"Dcloud9-DEVI8TOR"
+"screen_name":"Dcloud9DEVI8TOR"
+"location":"Universe"
+"url":"http://www.Reverbnation.com/Devi8tors"
+"description":"CLOUD 9:Producer of (Realusion Show)
+ on WU WORLD Radio/KILLARMY DJ
+ Jersey city grown
+now known as D/cloud9:DEVI8TOR ￼Founder of DV8TORS"
+"protected":false
+"verified":false
+"followers_count":1801
+"friends_count":1352
+"listed_count":44
+"favourites_count":55
+"statuses_count":64368
+"created_at":"Sat Nov 02 12:38:12 +0000 2013"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/378800000850235070/42f081723fcff17878cc688909c0d0e6_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000850235070/42f081723fcff17878cc688909c0d0e6_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2164794857/1412127074"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"BattleAlert"
+"indices":[0
+12]}
+{"text":"ANGRYFANSRADIO"
+"indices":[59
+74]}
+{"text":"AFM"
+"indices":[75
+79]}
+{"text":"1000Network"
+"indices":[128
+140]}]
+"trends":[]
+"urls":[{"url":"http://t.co/3HAIFl3gUf"
+"expanded_url":"http://goo.gl/1KQZ7R"
+"display_url":"goo.gl/1KQZ7R"
+"indices":[80
+102]}
+{"url":"http://t.co/Td7VwEqbio"
+"expanded_url":"http://goo.gl/z83Tm1"
+"display_url":"goo.gl/z83Tm1"
+"indices":[105
+127]}]
+"user_mentions":[{"screen_name":"ANGRYFAN007"
+"name":"CAPS "
+"id":1659087529
+"id_str":"1659087529"
+"indices":[17
+29]}
+{"screen_name":"MzLeta_Truth"
+"name":"WingedTruth_Dolo"
+"id":2336718012
+"id_str":"2336718012"
+"indices":[30
+43]}
+{"screen_name":"UNCLEHENNYAFM"
+"name":"UNCLE HENNY"
+"id":20657103
+"id_str":"20657103"
+"indices":[44
+58]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"und"
+"timestamp_ms":"1430330637659"}

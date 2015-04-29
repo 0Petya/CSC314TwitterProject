@@ -1,0 +1,136 @@
+{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
+"id":593475816933187600
+"id_str":"593475816933187584"
+"text":"RT @73Krakhalev: конкуренту голландский производитель систем на них общего увлечения iPad 3 млн. Как отмечается
+ система"
+"source":"<a href=\"http://nogkidis.xyz/\" rel=\"nofollow\">ProCastletrue</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":3084095261
+"id_str":"3084095261"
+"name":"Данил Полотнов"
+"screen_name":"boss_polotnov"
+"location":""
+"url":null
+"description":null
+"protected":false
+"verified":false
+"followers_count":318
+"friends_count":330
+"listed_count":0
+"favourites_count":0
+"statuses_count":1733
+"created_at":"Tue Mar 10 14:26:24 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png"
+"profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png"
+"default_profile":true
+"default_profile_image":true
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Wed Apr 29 06:10:11 +0000 2015"
+"id":593296197747658800
+"id_str":"593296197747658752"
+"text":"конкуренту голландский производитель систем на них общего увлечения iPad 3 млн. Как отмечается
+ система"
+"source":"<a href=\"http://nogkidis.xyz/\" rel=\"nofollow\">ProCastletrue</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":3084312568
+"id_str":"3084312568"
+"name":"Валера Крахалев"
+"screen_name":"73Krakhalev"
+"location":""
+"url":null
+"description":null
+"protected":false
+"verified":false
+"followers_count":331
+"friends_count":369
+"listed_count":2
+"favourites_count":0
+"statuses_count":1836
+"created_at":"Tue Mar 10 15:59:17 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"
+"profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"
+"default_profile":true
+"default_profile_image":true
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":3
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"ru"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"73Krakhalev"
+"name":"Валера Крахалев"
+"id":3084312568
+"id_str":"3084312568"
+"indices":[3
+15]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"ru"
+"timestamp_ms":"1430330635661"}

@@ -1,0 +1,71 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825304993800
+"id_str":"593475825304993793"
+"text":"Live meepraten in de Premier League: Leicester City - Chelsea http://t.co/IomUK4faWm"
+"source":"<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":1645965680
+"id_str":"1645965680"
+"name":"WorldFootball
+ by GJ"
+"screen_name":"WorldFootballGJ"
+"location":"NF=NFB"
+"url":"http://www.voetbalzone.nl"
+"description":"Account met laatste voetbal links | Voetbal over de hele wereld | #nederlands | #nf #nfb | Meer info in de ava | #GJ"
+"protected":false
+"verified":false
+"followers_count":202
+"friends_count":188
+"listed_count":2
+"favourites_count":1
+"statuses_count":57769
+"created_at":"Sun Aug 04 19:29:30 +0000 2013"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"nl"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/378800000241653039/91c899f816d8b9ccdcdebbe3b80bf1fd_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000241653039/91c899f816d8b9ccdcdebbe3b80bf1fd_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1645965680/1375845960"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[{"url":"http://t.co/IomUK4faWm"
+"expanded_url":"http://ift.tt/1DKMv8N"
+"display_url":"ift.tt/1DKMv8N"
+"indices":[62
+84]}]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430330637657"}

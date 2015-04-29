@@ -1,0 +1,67 @@
+{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
+"id":593475816924827600
+"id_str":"593475816924827649"
+"text":"tirei 10 na prova de estatística
+ aaaaaah &lt;3 hj vou saber a nota de ACP"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":55847679
+"id_str":"55847679"
+"name":"bianco"
+"screen_name":"_icarobianco"
+"location":"manaus-brasil"
+"url":"http://instagram.com/_icarobianco"
+"description":"TPR | Evanescence | PATD | Britney Spears. ♡"
+"protected":false
+"verified":false
+"followers_count":1733
+"friends_count":1342
+"listed_count":3
+"favourites_count":3531
+"statuses_count":69867
+"created_at":"Sat Jul 11 14:58:36 +0000 2009"
+"utc_offset":-10800
+"time_zone":"Brasilia"
+"geo_enabled":true
+"lang":"pt"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"4ABA98"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000181517373/-fjQmFQD.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000181517373/-fjQmFQD.jpeg"
+"profile_background_tile":true
+"profile_link_color":"DD2E44"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"FEA187"
+"profile_text_color":"FF7F78"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/589498052089610240/w0D3wSlu_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/589498052089610240/w0D3wSlu_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/55847679/1425228334"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"pt"
+"timestamp_ms":"1430330635659"}

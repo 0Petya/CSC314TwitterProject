@@ -1,0 +1,72 @@
+{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
+"id":592769135437860900
+"id_str":"592769135437860864"
+"text":"Get your hats ready and join us this Saturday for our Bulleit Derby Day brunch! Doors open at 10am - Derby attire... http://t.co/zbIJgfRRKi"
+"source":"<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":807522486
+"id_str":"807522486"
+"name":"Lincoln South Boston"
+"screen_name":"LincolnSouthBos"
+"location":"South Boston
+ MA"
+"url":"http://www.lincolnsouthboston.com"
+"description":"Southie resident. Lover of pizza
+ beer & good food. Come visit us!"
+"protected":false
+"verified":false
+"followers_count":2799
+"friends_count":1390
+"listed_count":47
+"favourites_count":809
+"statuses_count":1798
+"created_at":"Thu Sep 06 20:15:24 +0000 2012"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/2678159999/cf208698c90b0ec7f159942d2fe7e48c_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/2678159999/cf208698c90b0ec7f159942d2fe7e48c_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/807522486/1353355237"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[{"url":"http://t.co/zbIJgfRRKi"
+"expanded_url":"http://fb.me/7qoPABc6g"
+"display_url":"fb.me/7qoPABc6g"
+"indices":[117
+139]}]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430162149663"}

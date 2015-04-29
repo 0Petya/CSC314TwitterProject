@@ -1,0 +1,68 @@
+{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
+"id":592769135450415100
+"id_str":"592769135450415106"
+"text":"np: Knochenfabrik -  Ameisenstaat"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":269396594
+"id_str":"269396594"
+"name":"El Kalista"
+"screen_name":"syndikalista"
+"location":"Berlin-Neukölln"
+"url":"http://copperanarchist.com"
+"description":"United Anarchist Aviation Service! Genossenschafter
+ Wirtschaftsingenieur
+ Sekretär | Der Zukunft entgegen! frank.pott@jabber.ccc.de"
+"protected":false
+"verified":false
+"followers_count":905
+"friends_count":281
+"listed_count":47
+"favourites_count":6349
+"statuses_count":40876
+"created_at":"Sun Mar 20 17:59:03 +0000 2011"
+"utc_offset":-7200
+"time_zone":"Greenland"
+"geo_enabled":false
+"lang":"de"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/595893811/mqctdkrcsfvia297y22u.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/595893811/mqctdkrcsfvia297y22u.jpeg"
+"profile_background_tile":false
+"profile_link_color":"E01638"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/530285802282967040/M_Cbtvla_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/530285802282967040/M_Cbtvla_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/269396594/1387996682"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"de"
+"timestamp_ms":"1430162149666"}

@@ -1,0 +1,69 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825342750700
+"id_str":"593475825342750720"
+"text":"Why We Need a Global Human/Technology Manifesto: It’s not true to say society’s heading for a technological di... http://t.co/qZLC7dewm0"
+"source":"<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2376595645
+"id_str":"2376595645"
+"name":"Drugs Mania"
+"screen_name":"Allaboutmdma"
+"location":""
+"url":null
+"description":"Do you like drugs ?"
+"protected":false
+"verified":false
+"followers_count":28
+"friends_count":9
+"listed_count":13
+"favourites_count":0
+"statuses_count":37856
+"created_at":"Fri Mar 07 04:57:52 +0000 2014"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/441800478238588928/MItRXDwE_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/441800478238588928/MItRXDwE_normal.jpeg"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[{"url":"http://t.co/qZLC7dewm0"
+"expanded_url":"http://wrd.cm/1EpAxE0"
+"display_url":"wrd.cm/1EpAxE0"
+"indices":[114
+136]}]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430330637666"}

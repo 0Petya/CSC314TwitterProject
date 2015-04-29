@@ -1,0 +1,69 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825338560500
+"id_str":"593475825338560512"
+"text":"&lt;3"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":1491759535
+"id_str":"1491759535"
+"name":"Colorada Feliz :)"
+"screen_name":"marciakuneck"
+"location":"Jaguari- RS"
+"url":null
+"description":"Imagine uma nova história para sua vida e acredite nela
+ colorada
+ 19 anos
+ Relacionamento Sério :)"
+"protected":false
+"verified":false
+"followers_count":60
+"friends_count":143
+"listed_count":0
+"favourites_count":14
+"statuses_count":240
+"created_at":"Sat Jun 08 01:56:09 +0000 2013"
+"utc_offset":-10800
+"time_zone":"Brasilia"
+"geo_enabled":false
+"lang":"pt"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"94D487"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000084828773/18e40ebcfe9dbf63d37edbc4d457dc21.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000084828773/18e40ebcfe9dbf63d37edbc4d457dc21.jpeg"
+"profile_background_tile":true
+"profile_link_color":"FF00FF"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/535756229482516480/RUdKsdws_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/535756229482516480/RUdKsdws_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1491759535/1413742738"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"und"
+"timestamp_ms":"1430330637665"}

@@ -1,0 +1,81 @@
+{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
+"id":592753348069224400
+"id_str":"592753348069224450"
+"text":"What I just found! Three Things Other Games Should Steal From Alan Wake http://t.co/b3Noakm2a8 #TopPick"
+"source":"<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":13940582
+"id_str":"13940582"
+"name":"Adam Dechanel"
+"screen_name":"AdamDechanel"
+"location":"London
+ UK/New York
+ USA"
+"url":"http://www.clockworkdigitalstudios.com"
+"description":"A writer
+ artist
+ producer & publisher. Worked with DC Comics
+ Evcol
+ Disney
+ Okai Collier
+ Marvel & Warner Bros. Love my comics
+ tech & dog Odie"
+"protected":false
+"verified":false
+"followers_count":2040
+"friends_count":753
+"listed_count":190
+"favourites_count":14772
+"statuses_count":106017
+"created_at":"Mon Feb 25 13:59:40 +0000 2008"
+"utc_offset":3600
+"time_zone":"London"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"022330"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme15/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme15/bg.png"
+"profile_background_tile":false
+"profile_link_color":"007AB3"
+"profile_sidebar_border_color":"A8C7F7"
+"profile_sidebar_fill_color":"C0DFEC"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/581391944733077505/lGUDwpcG_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/581391944733077505/lGUDwpcG_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/13940582/1427657160"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"TopPick"
+"indices":[95
+103]}]
+"trends":[]
+"urls":[{"url":"http://t.co/b3Noakm2a8"
+"expanded_url":"http://ift.tt/1OwlyjA"
+"display_url":"ift.tt/1OwlyjA"
+"indices":[72
+94]}]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430158385661"}

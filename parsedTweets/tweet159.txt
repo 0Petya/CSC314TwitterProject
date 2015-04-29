@@ -1,0 +1,88 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825309241300
+"id_str":"593475825309241346"
+"text":"O mundo é real
+ as pessoas que são falsas.😉👊"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2178705290
+"id_str":"2178705290"
+"name":"♫ℳc ℳenor Do ℳdc"
+"screen_name":"McMenorDoMDC"
+"location":""
+"url":"http://instagram.com/mcmenordomdc"
+"description":"Basta ter fé e acreditar..."
+"protected":false
+"verified":false
+"followers_count":318
+"friends_count":578
+"listed_count":0
+"favourites_count":3262
+"statuses_count":6111
+"created_at":"Wed Nov 06 19:56:20 +0000 2013"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":true
+"lang":"pt"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"131516"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/477782576409493505/szxs8Ej1.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/477782576409493505/szxs8Ej1.jpeg"
+"profile_background_tile":true
+"profile_link_color":"111111"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/540128350782889984/HK9s0YRt_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/540128350782889984/HK9s0YRt_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2178705290/1417611691"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":{"type":"Point"
+"coordinates":[-23.964886
+-46.369831]}
+"coordinates":{"type":"Point"
+"coordinates":[-46.369831
+-23.964886]}
+"place":{"id":"d1638a3be6a9ed61"
+"url":"https://api.twitter.com/1.1/geo/id/d1638a3be6a9ed61.json"
+"place_type":"city"
+"name":"São Vicente"
+"full_name":"São Vicente
+ São Paulo"
+"country_code":"BR"
+"country":"Brasil"
+"bounding_box":{"type":"Polygon"
+"coordinates":[[[-46.658389
+-24.011484]
+[-46.658389
+-23.899444]
+[-46.356622
+-23.899444]
+[-46.356622
+-24.011484]]]}
+"attributes":{}}
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"pt"
+"timestamp_ms":"1430330637658"}

@@ -1,0 +1,66 @@
+{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
+"id":593475821114925000
+"id_str":"593475821114925057"
+"text":"Muy apenas estoy segura de si tendré el Mario dorado"
+"source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":130052113
+"id_str":"130052113"
+"name":"☾Diana☽"
+"screen_name":"DianaCastill0"
+"location":"Part of your world"
+"url":"http://jesuisdiane.tumblr.com/"
+"description":"✨ ディアナ | 19 | Puella Magi | The Legend Of Zelda fan✨"
+"protected":false
+"verified":false
+"followers_count":54
+"friends_count":45
+"listed_count":2
+"favourites_count":405
+"statuses_count":1264
+"created_at":"Tue Apr 06 04:49:17 +0000 2010"
+"utc_offset":-18000
+"time_zone":"Central Time (US & Canada)"
+"geo_enabled":false
+"lang":"es"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"FFFFFF"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/500749542082347008/xJNBJAP6.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/500749542082347008/xJNBJAP6.jpeg"
+"profile_background_tile":true
+"profile_link_color":"FF88AA"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"265575"
+"profile_text_color":"64C5F2"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/591843021525680128/gShAuJVt_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/591843021525680128/gShAuJVt_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/130052113/1417674375"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"es"
+"timestamp_ms":"1430330636658"}

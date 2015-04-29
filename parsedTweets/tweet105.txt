@@ -1,0 +1,81 @@
+{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
+"id":593475821114916900
+"id_str":"593475821114916864"
+"text":"🎤💗🎤\n\ngo watch @HobbieStuart's cover of see you again:\nhttp://t.co/PKa9LDonyY\nthumbs up!\n#HobbieSeeYouAgainCover \nPls follow me?\n\n🎤💗🎤17"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2575168479
+"id_str":"2575168479"
+"name":"izzy "
+"screen_name":"fairycaylen"
+"location":"⠀☻t.o
+t.s
+s.k☻ ⠀j
+r
+s/6"
+"url":null
+"description":"⋆⠀˚ ⠀· ⠀. ⠀* ⠀✹⠀ ˚⠀ .⠀ ⋆"
+"protected":false
+"verified":false
+"followers_count":1841
+"friends_count":446
+"listed_count":1
+"favourites_count":4620
+"statuses_count":13945
+"created_at":"Sun Jun 01 11:25:08 +0000 2014"
+"utc_offset":3600
+"time_zone":"London"
+"geo_enabled":true
+"lang":"en-gb"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/492731738028654592/LuJ53Jf4.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/492731738028654592/LuJ53Jf4.jpeg"
+"profile_background_tile":false
+"profile_link_color":"000000"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/591003022769184769/3zvZ5riI_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/591003022769184769/3zvZ5riI_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2575168479/1429741075"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"HobbieSeeYouAgainCover"
+"indices":[88
+111]}]
+"trends":[]
+"urls":[{"url":"http://t.co/PKa9LDonyY"
+"expanded_url":"http://youtu.be/sWlzUorDdkQ"
+"display_url":"youtu.be/sWlzUorDdkQ"
+"indices":[54
+76]}]
+"user_mentions":[{"screen_name":"HobbieStuart"
+"name":"Hobbie Stuart"
+"id":228162163
+"id_str":"228162163"
+"indices":[14
+27]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430330636658"}

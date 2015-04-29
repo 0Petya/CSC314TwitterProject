@@ -1,0 +1,71 @@
+{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
+"id":593475821144277000
+"id_str":"593475821144276994"
+"text":"@mswaxg งั้นต้อง  ไวท์ ดั๊วะแล่ววว เสื้อซีทรูเบยยย"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":593475357619150800
+"in_reply_to_status_id_str":"593475357619150849"
+"in_reply_to_user_id":103579593
+"in_reply_to_user_id_str":"103579593"
+"in_reply_to_screen_name":"mswaxg"
+"user":{"id":103539441
+"id_str":"103539441"
+"name":"• 센 •"
+"screen_name":"AzHzii"
+"location":""
+"url":null
+"description":"쓥 ◡̈ $WAG SINCE 13.06.03 • 東京/福岡 • 요유육윤영 • 「What am i doin' with my life」"
+"protected":false
+"verified":false
+"followers_count":559
+"friends_count":254
+"listed_count":5
+"favourites_count":3597
+"statuses_count":73348
+"created_at":"Sun Jan 10 10:37:43 +0000 2010"
+"utc_offset":25200
+"time_zone":"Bangkok"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000107580525/db1c8be6d6f53bfe3e8497125ea7a16c.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000107580525/db1c8be6d6f53bfe3e8497125ea7a16c.jpeg"
+"profile_background_tile":false
+"profile_link_color":"FFCC00"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/592692119896195073/XBceLtrY_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592692119896195073/XBceLtrY_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/103539441/1429670791"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"mswaxg"
+"name":"슙이"
+"id":103579593
+"id_str":"103579593"
+"indices":[0
+7]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"th"
+"timestamp_ms":"1430330636665"}

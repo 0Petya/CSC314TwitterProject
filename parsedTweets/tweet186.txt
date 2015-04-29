@@ -1,0 +1,202 @@
+{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
+"id":592769135429451800
+"id_str":"592769135429451777"
+"text":"RT @ConSentidoTauri: #PremiosMinotauro @toros432 #TemporadaGrande @LaMexicoCom \nRejoneador más sobresaliente: @corselman Emiliano Gamero."
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":153933051
+"id_str":"153933051"
+"name":"Emiliano Gamero"
+"screen_name":"corselman"
+"location":"mexico df"
+"url":"http://www.emilianogamero.com"
+"description":"Amo a mi familia
+ amo a mis caballos
+ amo la vida
+ amo la libertad y el hecho de vivir cada dia como si fuera el final es mi forma de ser feliz..."
+"protected":false
+"verified":false
+"followers_count":2444
+"friends_count":864
+"listed_count":16
+"favourites_count":960
+"statuses_count":2035
+"created_at":"Wed Jun 09 23:11:04 +0000 2010"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"022330"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/113181581/16.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/113181581/16.jpg"
+"profile_background_tile":true
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"A8C7F7"
+"profile_sidebar_fill_color":"C0DFEC"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/563871107732623360/6qNY3UHN_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/563871107732623360/6qNY3UHN_normal.jpeg"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Mon Apr 27 18:06:27 +0000 2015"
+"id":592751679021387800
+"id_str":"592751679021387776"
+"text":"#PremiosMinotauro @toros432 #TemporadaGrande @LaMexicoCom \nRejoneador más sobresaliente: @corselman Emiliano Gamero."
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":371940374
+"id_str":"371940374"
+"name":"Con Sentido Taurino"
+"screen_name":"ConSentidoTauri"
+"location":"Mexico City"
+"url":"http://www.abcradio.com.mx"
+"description":"Programa taurino de O.E.M. ABC Radio 760 AM. Domingos 9pm. Opinión
+ polémica
+ entrevistas. Conducido por Carlos Flores con 16 años al aire."
+"protected":false
+"verified":false
+"followers_count":2105
+"friends_count":551
+"listed_count":10
+"favourites_count":326
+"statuses_count":5436
+"created_at":"Sun Sep 11 20:19:15 +0000 2011"
+"utc_offset":-18000
+"time_zone":"Mexico City"
+"geo_enabled":true
+"lang":"es"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000115978306/71148a9a433517e68d23660e5c54399d.png"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000115978306/71148a9a433517e68d23660e5c54399d.png"
+"profile_background_tile":true
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/579013523902107648/E_kfKnM8_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/579013523902107648/E_kfKnM8_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/371940374/1426882619"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":{"id":"e86e154b91acd5a3"
+"url":"https://api.twitter.com/1.1/geo/id/e86e154b91acd5a3.json"
+"place_type":"city"
+"name":"Cuajimalpa de Morelos"
+"full_name":"Cuajimalpa de Morelos
+ Distrito Federal"
+"country_code":"MX"
+"country":"México"
+"bounding_box":{"type":"Polygon"
+"coordinates":[[[-99.364536
+19.232313]
+[-99.364536
+19.405081]
+[-99.2466245
+19.405081]
+[-99.2466245
+19.232313]]]}
+"attributes":{}}
+"contributors":null
+"retweet_count":1
+"favorite_count":0
+"entities":{"hashtags":[{"text":"PremiosMinotauro"
+"indices":[0
+17]}
+{"text":"TemporadaGrande"
+"indices":[28
+44]}]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"toros432"
+"name":"Peña Taurina 432"
+"id":539932225
+"id_str":"539932225"
+"indices":[18
+27]}
+{"screen_name":"LaMexicoCom"
+"name":"lamexico.com®"
+"id":158892071
+"id_str":"158892071"
+"indices":[45
+57]}
+{"screen_name":"corselman"
+"name":"Emiliano Gamero"
+"id":153933051
+"id_str":"153933051"
+"indices":[89
+99]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"es"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"PremiosMinotauro"
+"indices":[21
+38]}
+{"text":"TemporadaGrande"
+"indices":[49
+65]}]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"ConSentidoTauri"
+"name":"Con Sentido Taurino"
+"id":371940374
+"id_str":"371940374"
+"indices":[3
+19]}
+{"screen_name":"toros432"
+"name":"Peña Taurina 432"
+"id":539932225
+"id_str":"539932225"
+"indices":[39
+48]}
+{"screen_name":"LaMexicoCom"
+"name":"lamexico.com®"
+"id":158892071
+"id_str":"158892071"
+"indices":[66
+78]}
+{"screen_name":"corselman"
+"name":"Emiliano Gamero"
+"id":153933051
+"id_str":"153933051"
+"indices":[110
+120]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"es"
+"timestamp_ms":"1430162149661"}

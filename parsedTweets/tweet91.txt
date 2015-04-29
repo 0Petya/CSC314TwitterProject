@@ -1,0 +1,139 @@
+{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
+"id":593475821119086600
+"id_str":"593475821119086594"
+"text":"RT @TrueStoryPL: ZE ZNAJOMYMI\n\nJa: \"A pamiętacie to... ?\"\nKtoś: \"Aaaa
+ no tak! Hahahahaha.\"\nJa: \"Nie było cię wtedy...\""
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2859372699
+"id_str":"2859372699"
+"name":"PLEASE JUSTIN ❤"
+"screen_name":"xmartynaxv"
+"location":"Poland"
+"url":"http://me-and-my-lost-hope.tumblr.com/"
+"description":"love u Justin & Ariana xx"
+"protected":false
+"verified":false
+"followers_count":1624
+"friends_count":1601
+"listed_count":1
+"favourites_count":3021
+"statuses_count":13392
+"created_at":"Mon Nov 03 19:42:39 +0000 2014"
+"utc_offset":7200
+"time_zone":"Ljubljana"
+"geo_enabled":true
+"lang":"pl"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/590591120490377216/bXApsRJI.png"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/590591120490377216/bXApsRJI.png"
+"profile_background_tile":false
+"profile_link_color":"000000"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/590590338366070785/TgDYT6bH_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/590590338366070785/TgDYT6bH_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2859372699/1429642665"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Sun Apr 26 16:21:25 +0000 2015"
+"id":592362859092377600
+"id_str":"592362859092377600"
+"text":"ZE ZNAJOMYMI\n\nJa: \"A pamiętacie to... ?\"\nKtoś: \"Aaaa
+ no tak! Hahahahaha.\"\nJa: \"Nie było cię wtedy...\""
+"source":"<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2407556030
+"id_str":"2407556030"
+"name":"LMAO ❀"
+"screen_name":"TrueStoryPL"
+"location":"Konto założone 23.03.2014"
+"url":"http://ask.fm/TrueStoryPL"
+"description":"Tweety wymyślam sama
+ lub ewentualnie czerpię z różnych źródeł. Konto prowadzi jedna osoba. :) LMAO"
+"protected":false
+"verified":false
+"followers_count":29364
+"friends_count":5838
+"listed_count":52
+"favourites_count":2830
+"statuses_count":4238
+"created_at":"Sun Mar 23 18:40:20 +0000 2014"
+"utc_offset":7200
+"time_zone":"Warsaw"
+"geo_enabled":false
+"lang":"pl"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"0099B9"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme4/bg.gif"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme4/bg.gif"
+"profile_background_tile":false
+"profile_link_color":"45E0FF"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"95E8EC"
+"profile_text_color":"3C3940"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/583366823447523329/3W7syGNm_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/583366823447523329/3W7syGNm_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2407556030/1401547353"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":932
+"favorite_count":368
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"pl"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"TrueStoryPL"
+"name":"LMAO ❀"
+"id":2407556030
+"id_str":"2407556030"
+"indices":[3
+15]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"pl"
+"timestamp_ms":"1430330636659"}

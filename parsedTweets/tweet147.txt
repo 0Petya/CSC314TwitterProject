@@ -1,0 +1,138 @@
+{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
+"id":593475825305034800
+"id_str":"593475825305034752"
+"text":"RT @GwenLilyKnight: I feel Liberal used to be about free speech
+ free association and caring about each other. Its now about censorship and…"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2885285696
+"id_str":"2885285696"
+"name":"Lucatiel of Mirrah"
+"screen_name":"LucatielOMirrah"
+"location":""
+"url":"http://ask.fm/LucatielOMirrah"
+"description":null
+"protected":false
+"verified":false
+"followers_count":1142
+"friends_count":1827
+"listed_count":9
+"favourites_count":6459
+"statuses_count":5811
+"created_at":"Fri Oct 31 15:02:57 +0000 2014"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/565621639258206208/sH_WAlcd.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/565621639258206208/sH_WAlcd.jpeg"
+"profile_background_tile":false
+"profile_link_color":"2A0A22"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/593465073009631234/3QMw0_ef_normal.png"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/593465073009631234/3QMw0_ef_normal.png"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2885285696/1414770046"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Wed Apr 29 14:02:11 +0000 2015"
+"id":593414980017463300
+"id_str":"593414980017463296"
+"text":"I feel Liberal used to be about free speech
+ free association and caring about each other. Its now about censorship and identity politics."
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":1952528058
+"id_str":"1952528058"
+"name":"Gwen:AKnightInLily"
+"screen_name":"GwenLilyKnight"
+"location":"http://www.twitch.tv/gwenlilyk"
+"url":"http://www.twitch.tv/gwenlilyknight"
+"description":"left libertarian Your banner sucks too. Too Lesbo for GaymerX. Painfag. GameDev. Feel my blade ye mighty and despair"
+"protected":false
+"verified":false
+"followers_count":1927
+"friends_count":740
+"listed_count":48
+"favourites_count":29130
+"statuses_count":27231
+"created_at":"Thu Oct 10 20:34:34 +0000 2013"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"94D487"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/577264437909815296/ur3QNe7t_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/577264437909815296/ur3QNe7t_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1952528058/1411435269"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":7
+"favorite_count":13
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"GwenLilyKnight"
+"name":"Gwen:AKnightInLily"
+"id":1952528058
+"id_str":"1952528058"
+"indices":[3
+18]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430330637657"}

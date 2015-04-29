@@ -1,0 +1,83 @@
+{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
+"id":593475812751446000
+"id_str":"593475812751446016"
+"text":"Won't have to move up to get him though. @ITHuddLLe @Granpalangs"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":593474650304286700
+"in_reply_to_status_id_str":"593474650304286722"
+"in_reply_to_user_id":364532048
+"in_reply_to_user_id_str":"364532048"
+"in_reply_to_screen_name":"ITHuddLLe"
+"user":{"id":984163496
+"id_str":"984163496"
+"name":"Mike D"
+"screen_name":"pupbroofdog"
+"location":"Youngstown
+ OH"
+"url":null
+"description":"Listen to country and metal\r\nMid-30s married guy\r\nI RT a lot
+ never manually\r\nBrowns
+ Indians
+ NASCAR
+ Teaparty
+ libertarian"
+"protected":false
+"verified":false
+"followers_count":3300
+"friends_count":3620
+"listed_count":42
+"favourites_count":16710
+"statuses_count":39493
+"created_at":"Sun Dec 02 08:12:31 +0000 2012"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/578426359677992960/TjQxxNQt_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/578426359677992960/TjQxxNQt_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/984163496/1426742564"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"ITHuddLLe"
+"name":"ITH "
+"id":364532048
+"id_str":"364532048"
+"indices":[41
+51]}
+{"screen_name":"Granpalangs"
+"name":"Nick Langowski"
+"id":394297469
+"id_str":"394297469"
+"indices":[52
+64]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430330634664"}

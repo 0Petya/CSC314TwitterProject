@@ -1,0 +1,136 @@
+{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
+"id":592769135450423300
+"id_str":"592769135450423297"
+"text":"RT @BenLightyear: Y'all better realize the cops got more guns and bigger guns than y'all."
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":258139221
+"id_str":"258139221"
+"name":"Tiggy Liberace"
+"screen_name":"JetsIntlZay"
+"location":"4⃣1⃣0⃣"
+"url":null
+"description":"Keep Working"
+"protected":false
+"verified":false
+"followers_count":651
+"friends_count":594
+"listed_count":3
+"favourites_count":160
+"statuses_count":40437
+"created_at":"Sun Feb 27 01:53:14 +0000 2011"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"0C0D0D"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/210673789/sswag.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/210673789/sswag.jpg"
+"profile_background_tile":false
+"profile_link_color":"08A6F5"
+"profile_sidebar_border_color":"0A0A0A"
+"profile_sidebar_fill_color":"050505"
+"profile_text_color":"000000"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/592356798872563712/kYD5lKFB_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592356798872563712/kYD5lKFB_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/258139221/1393801450"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Mon Apr 27 19:10:37 +0000 2015"
+"id":592767827993591800
+"id_str":"592767827993591811"
+"text":"Y'all better realize the cops got more guns and bigger guns than y'all."
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":148159058
+"id_str":"148159058"
+"name":"Benji"
+"screen_name":"BenLightyear"
+"location":""
+"url":null
+"description":"IX.XXVI.MMIX IG:Benlightyear. UB15"
+"protected":false
+"verified":false
+"followers_count":375
+"friends_count":386
+"listed_count":2
+"favourites_count":519
+"statuses_count":53407
+"created_at":"Wed May 26 00:36:32 +0000 2010"
+"utc_offset":-18000
+"time_zone":"Quito"
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/441769446890143744/yq_vXHna.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/441769446890143744/yq_vXHna.jpeg"
+"profile_background_tile":true
+"profile_link_color":"ABB8C2"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/516382919070613504/eIB_gz0z_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/516382919070613504/eIB_gz0z_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/148159058/1384473708"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":1
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"BenLightyear"
+"name":"Benji"
+"id":148159058
+"id_str":"148159058"
+"indices":[3
+16]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430162149666"}
