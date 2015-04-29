@@ -1,48 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821110698000
-"id_str":"593475821110697984"
-"text":"@null sekarang jam 01:03:01 WIB"
-"source":"<a href=\"http://perfect-tools.cf\" rel=\"nofollow\">ToolsPerfect_Null</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459269410800
+"id_str":"593490459269410816"
+"text":"@ruga_ruga0121 ゲオー！∑(ﾟДﾟ)\nそだ！近場にゲオあたw\nゲオにいこうかな(=ﾟωﾟ)ﾉるん"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":3562471
-"in_reply_to_user_id_str":"3562471"
-"in_reply_to_screen_name":"null"
-"user":{"id":1670342202
-"id_str":"1670342202"
-"name":"tiff"
-"screen_name":"twhief"
-"location":"barbx-favor"
+"in_reply_to_status_id":593490292789137400
+"in_reply_to_status_id_str":"593490292789137408"
+"in_reply_to_user_id":2990305634
+"in_reply_to_user_id_str":"2990305634"
+"in_reply_to_screen_name":"ruga_ruga0121"
+"user":{"id":3005552762
+"id_str":"3005552762"
+"name":"はるぽん@オラの弟子は3名！"
+"screen_name":"haru15432"
+"location":"はるぽんファミリー約12名❤️弟子さん3名❤️"
 "url":null
-"description":"Girls' Generation - Hwang MiYoung parody 1989년"
+"description":"。2014.09/28夢に向かって一歩。絵、漫画、アニメ、youtube、ゲーム愛してます♡Hikaru Gamesは生きがいであり、目標。フォロー嬉しいです(*^_^*)相互フォローはしません。自分からはフォローしません。しゃおらははるぽんの化身です。"
 "protected":false
 "verified":false
-"followers_count":1039
-"friends_count":966
-"listed_count":0
-"favourites_count":42
-"statuses_count":33297
-"created_at":"Wed Aug 14 12:22:13 +0000 2013"
-"utc_offset":25200
-"time_zone":"Bangkok"
-"geo_enabled":false
-"lang":"id"
+"followers_count":289
+"friends_count":105
+"listed_count":1
+"favourites_count":1462
+"statuses_count":7444
+"created_at":"Sat Jan 31 23:39:08 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":true
+"lang":"ja"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000078478553/a33366c6080be7033af11fe568b6318b.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000078478553/a33366c6080be7033af11fe568b6318b.jpeg"
-"profile_background_tile":true
-"profile_link_color":"333333"
-"profile_sidebar_border_color":"FFFFFF"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"0084B4"
+"profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/580331595447472128/gw0xTLO__normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/580331595447472128/gw0xTLO__normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1670342202/1427196807"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/585160426037481472/JDGKRCqL_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/585160426037481472/JDGKRCqL_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/3005552762/1429997492"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -56,16 +56,16 @@
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"null"
-"name":"not quite nothing"
-"id":3562471
-"id_str":"3562471"
+"user_mentions":[{"screen_name":"ruga_ruga0121"
+"name":"霧ヶ谷  留雅"
+"id":2990305634
+"id_str":"2990305634"
 "indices":[0
-5]}]
+14]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"in"
-"timestamp_ms":"1430330636657"}
+"lang":"ja"
+"timestamp_ms":"1430334126666"}

@@ -1,33 +1,33 @@
-{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
-"id":592769135446249500
-"id_str":"592769135446249473"
-"text":"( قُل هَو الله احّد * اللهُ الصمّد * لمَ يِلد ولمّ يِولّد * ولمَ يكنَ لهُ كفِواَ احدّ )"
-"source":"<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>"
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463438549000
+"id_str":"593490463438548992"
+"text":"@moukonsatan_bot ん？すまない、時計を見ていて全く聞いていなかった"
+"source":"<a href=\"http://twpf.jp/moukonsatan_bot\" rel=\"nofollow\">サタンのお城</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":2754361105
-"id_str":"2754361105"
-"name":"عشانَ اسعّد سلطانَ"
-"screen_name":"ajr_4sultan"
-"location":"@55Shaieb "
-"url":null
-"description":"( وَ أدخلني برحمتكَ في عبادكَ الصّالحين ) ⛅️"
+"in_reply_to_status_id":593489967038468100
+"in_reply_to_status_id_str":"593489967038468098"
+"in_reply_to_user_id":2256227430
+"in_reply_to_user_id_str":"2256227430"
+"in_reply_to_screen_name":"moukonsatan_bot"
+"user":{"id":2256227430
+"id_str":"2256227430"
+"name":"もうこんサタンbot"
+"screen_name":"moukonsatan_bot"
+"location":"ぷよ地獄"
+"url":"http://twpf.jp/moukonsatan_bot"
+"description":"もうこんな時間　管理人の自己満足bot　サタンさまがひたすら「もうこんな時間」ということを自覚するbot。詳しくは説明書をどうぞ。"
 "protected":false
 "verified":false
-"followers_count":7
-"friends_count":5
+"followers_count":23
+"friends_count":11
 "listed_count":0
-"favourites_count":0
-"statuses_count":5848
-"created_at":"Fri Aug 22 08:22:52 +0000 2014"
-"utc_offset":-39600
-"time_zone":"Midway Island"
+"favourites_count":39
+"statuses_count":91048
+"created_at":"Sat Dec 21 09:18:00 +0000 2013"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":false
-"lang":"ar"
+"lang":"ja"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -39,9 +39,8 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/503200619012706305/DvQZIO4b_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/503200619012706305/DvQZIO4b_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2754361105/1408807351"
+"profile_image_url":"http://pbs.twimg.com/profile_images/414327119657717760/yCDNuyjx_normal.png"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/414327119657717760/yCDNuyjx_normal.png"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -56,11 +55,16 @@
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[]
+"user_mentions":[{"screen_name":"moukonsatan_bot"
+"name":"もうこんサタンbot"
+"id":2256227430
+"id_str":"2256227430"
+"indices":[0
+16]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"ar"
-"timestamp_ms":"1430162149665"}
+"lang":"ja"
+"timestamp_ms":"1430334127660"}

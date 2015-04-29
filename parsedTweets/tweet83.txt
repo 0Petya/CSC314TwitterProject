@@ -1,60 +1,7 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816954134500
-"id_str":"593475816954134528"
-"text":"RT @Xuxa2: Taurus season😈💪"
-"source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":2579626237
-"id_str":"2579626237"
-"name":"dandee_daniel"
-"screen_name":"dandee_daniel"
-"location":""
-"url":"http://enticingobjects.com/"
-"description":"https://www.gofundme.com/bibbygumbo/donate"
-"protected":false
-"verified":false
-"followers_count":32
-"friends_count":91
-"listed_count":2
-"favourites_count":84
-"statuses_count":1428
-"created_at":"Sat Jun 21 01:48:24 +0000 2014"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":false
-"lang":"en"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"8A913B"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/561969917507825666/fdL0E-74.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/561969917507825666/fdL0E-74.jpeg"
-"profile_background_tile":true
-"profile_link_color":"00FF00"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/549362470913990656/qs2xI7yN_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/549362470913990656/qs2xI7yN_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2579626237/1427916883"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 17:30:42 +0000 2015"
-"id":593467455609143300
-"id_str":"593467455609143296"
-"text":"Taurus season😈💪"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459240079400
+"id_str":"593490459240079361"
+"text":"RT @SakuraMenfess: #MenfessFor TL adakah yg mau berteman denganku?\nAkun baru\n\nFr : Femboy"
 "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -62,39 +9,39 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":18289572
-"id_str":"18289572"
-"name":"Xuxa"
-"screen_name":"Xuxa2"
-"location":"London & Spain"
+"user":{"id":2656665354
+"id_str":"2656665354"
+"name":"Nanami [TS]"
+"screen_name":"NRP_KiseRyo"
+"location":"EveryWhere | @NRPevolution"
 "url":null
-"description":"Model & Actress"
+"description":"SWAG | JOID_SMidorima's Son | Plot? Just Mention! | FC: Taylor Swift  # #DetailedRP #SundaSSQ"
 "protected":false
 "verified":false
-"followers_count":36321
-"friends_count":37844
-"listed_count":252
-"favourites_count":924
-"statuses_count":16645
-"created_at":"Sun Dec 21 18:07:24 +0000 2008"
-"utc_offset":3600
-"time_zone":"London"
-"geo_enabled":false
-"lang":"en"
+"followers_count":760
+"friends_count":696
+"listed_count":3
+"favourites_count":117
+"statuses_count":32495
+"created_at":"Fri Jul 18 12:49:07 +0000 2014"
+"utc_offset":25200
+"time_zone":"Jakarta"
+"geo_enabled":true
+"lang":"id"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"FF6699"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/440867191148130304/1uStQd7-.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/440867191148130304/1uStQd7-.jpeg"
+"profile_background_color":"ACDED6"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/593402157304385536/Ez0qsn-3.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/593402157304385536/Ez0qsn-3.jpg"
 "profile_background_tile":true
-"profile_link_color":"B40B43"
+"profile_link_color":"DD2E44"
 "profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"FFA8F2"
+"profile_sidebar_fill_color":"F6F6F6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/574306264295014400/NoxZJAnM_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/574306264295014400/NoxZJAnM_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/18289572/1396630008"
+"profile_image_url":"http://pbs.twimg.com/profile_images/593475432546181120/0VTTj_cJ_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/593475432546181120/0VTTj_cJ_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2656665354/1430313460"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -104,9 +51,65 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":3
+"retweeted_status":{"created_at":"Wed Apr 29 19:01:37 +0000 2015"
+"id":593490336019779600
+"id_str":"593490336019779584"
+"text":"#MenfessFor TL adakah yg mau berteman denganku?\nAkun baru\n\nFr : Femboy"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":1073210396
+"id_str":"1073210396"
+"name":"Sakura. Menfess"
+"screen_name":"SakuraMenfess"
+"location":"Admin ? You'll know soon......"
+"url":null
+"description":"Jasa kirim menfess untuk RPW apa saja (๑•̀ㅂ•́)و✧ Kirim DM  Langsung terkirim
+ format menfess-nya pun bebas se-Creativa kalian"
+"protected":false
+"verified":false
+"followers_count":1481
+"friends_count":1650
+"listed_count":3
+"favourites_count":483
+"statuses_count":44264
+"created_at":"Wed Jan 09 08:41:18 +0000 2013"
+"utc_offset":25200
+"time_zone":"Jakarta"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"FFF04D"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/592290382731350017/veDUqkeS.png"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/592290382731350017/veDUqkeS.png"
+"profile_background_tile":true
+"profile_link_color":"0099CC"
+"profile_sidebar_border_color":"FFF8AD"
+"profile_sidebar_fill_color":"F6FFD1"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/593481690791747584/Rq5A8rDk_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/593481690791747584/Rq5A8rDk_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1073210396/1430047320"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":1
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"MenfessFor"
+"indices":[0
+11]}]
 "trends":[]
 "urls":[]
 "user_mentions":[]
@@ -118,19 +121,21 @@
 "lang":"in"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"MenfessFor"
+"indices":[19
+30]}]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"Xuxa2"
-"name":"Xuxa"
-"id":18289572
-"id_str":"18289572"
+"user_mentions":[{"screen_name":"SakuraMenfess"
+"name":"Sakura. Menfess"
+"id":1073210396
+"id_str":"1073210396"
 "indices":[3
-9]}]
+17]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"in"
-"timestamp_ms":"1430330635666"}
+"timestamp_ms":"1430334126659"}

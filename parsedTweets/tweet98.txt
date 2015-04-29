@@ -1,47 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821140090900
-"id_str":"593475821140090880"
-"text":".@AbrMarc yo creo que es eso"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459256877000
+"id_str":"593490459256877056"
+"text":"Alliance Vs Cloud9 - Match 4 - Eu Group - Red Bull Battle Grounds Dota 2 http://t.co/kpCE3itGbr"
+"source":"<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>"
 "truncated":false
-"in_reply_to_status_id":593475471104483300
-"in_reply_to_status_id_str":"593475471104483328"
-"in_reply_to_user_id":1149400309
-"in_reply_to_user_id_str":"1149400309"
-"in_reply_to_screen_name":"AbrMarc"
-"user":{"id":745159285
-"id_str":"745159285"
-"name":"Puta Farça"
-"screen_name":"PostillaRCR98"
-"location":"Jeres Sity "
-"url":"http://es.wikipedia.org/wiki/General_Grievous"
-"description":"vivah Croacia"
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":495110381
+"id_str":"495110381"
+"name":"izleneo.com"
+"screen_name":"izlemex"
+"location":""
+"url":"http://www.izleneo.com"
+"description":"gündemdeki videoları izleyebileceğiniz
+ binlerce içeriğe sahip video canavarı... http://www.facebook.com/izleneo"
 "protected":false
 "verified":false
-"followers_count":254
-"friends_count":177
-"listed_count":5
-"favourites_count":6496
-"statuses_count":15641
-"created_at":"Wed Aug 08 13:03:59 +0000 2012"
+"followers_count":825
+"friends_count":25
+"listed_count":28
+"favourites_count":0
+"statuses_count":227008
+"created_at":"Fri Feb 17 16:19:26 +0000 2012"
 "utc_offset":10800
-"time_zone":"Athens"
-"geo_enabled":true
-"lang":"es"
+"time_zone":"Istanbul"
+"geo_enabled":false
+"lang":"tr"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"F5F0F0"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000001957508/772ff5f4daeb6a7a2761ffb4d6e52cdb.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000001957508/772ff5f4daeb6a7a2761ffb4d6e52cdb.png"
+"profile_background_color":"FFFFFF"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/427445143/arkaplan.png"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/427445143/arkaplan.png"
 "profile_background_tile":true
-"profile_link_color":"4A913C"
-"profile_sidebar_border_color":"FFFFFF"
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/587613661629382657/CARBRHOk_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/587613661629382657/CARBRHOk_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/745159285/1427495957"
+"profile_image_url":"http://pbs.twimg.com/profile_images/505825202115072000/BoaKdiWt_normal.png"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/505825202115072000/BoaKdiWt_normal.png"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/495110381/1409433261"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -55,17 +56,16 @@
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"AbrMarc"
-"name":"Sitroen c5 "
-"id":1149400309
-"id_str":"1149400309"
-"indices":[1
-9]}]
+"urls":[{"url":"http://t.co/kpCE3itGbr"
+"expanded_url":"http://dlvr.it/9bqSdM"
+"display_url":"dlvr.it/9bqSdM"
+"indices":[73
+95]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
-"possibly_sensitive":true
+"possibly_sensitive":false
 "filter_level":"low"
-"lang":"es"
-"timestamp_ms":"1430330636664"}
+"lang":"en"
+"timestamp_ms":"1430334126663"}

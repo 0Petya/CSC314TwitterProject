@@ -1,48 +1,48 @@
-{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
-"id":592753348065042400
-"id_str":"592753348065042432"
-"text":"ya girl officially changed her major to political science vote mina 4 mayor"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Wed Apr 29 19:02:09 +0000 2015"
+"id":593490471843926000
+"id_str":"593490471843926021"
+"text":"Might as well just have PRICK written across my head👊😡"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":390324229
-"id_str":"390324229"
-"name":"elmina"
-"screen_name":"elminaavdagic"
-"location":"university of louisville"
+"user":{"id":2872593988
+"id_str":"2872593988"
+"name":"LaurenSlaughter."
+"screen_name":"pops_slaughter"
+"location":""
 "url":null
-"description":null
+"description":"Te Amo"
 "protected":false
 "verified":false
-"followers_count":436
-"friends_count":186
-"listed_count":1
-"favourites_count":8283
-"statuses_count":12236
-"created_at":"Thu Oct 13 20:12:59 +0000 2011"
-"utc_offset":-14400
-"time_zone":"Eastern Time (US & Canada)"
-"geo_enabled":true
-"lang":"en"
+"followers_count":131
+"friends_count":174
+"listed_count":0
+"favourites_count":53
+"statuses_count":654
+"created_at":"Tue Nov 11 17:28:26 +0000 2014"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en-GB"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/388197768/212121.jpg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/388197768/212121.jpg"
-"profile_background_tile":true
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
 "profile_link_color":"0084B4"
 "profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/556503390428352512/p41-mJcX_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/556503390428352512/p41-mJcX_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/390324229/1430155032"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/592713905593577472/wgoo0Z3x_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592713905593577472/wgoo0Z3x_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2872593988/1425565175"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -63,4 +63,4 @@
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"en"
-"timestamp_ms":"1430158385660"}
+"timestamp_ms":"1430334129664"}

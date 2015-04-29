@@ -1,47 +1,47 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816945807400
-"id_str":"593475816945807360"
-"text":"@ELTWYF1628 ฉันกำลังจะกลับมา soon"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459240071200
+"id_str":"593490459240071170"
+"text":"the children who i look after never fail to put a smile on my face😛"
 "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":593474897944404000
-"in_reply_to_status_id_str":"593474897944403968"
-"in_reply_to_user_id":1121387881
-"in_reply_to_user_id_str":"1121387881"
-"in_reply_to_screen_name":"ELTWYF1628"
-"user":{"id":239816327
-"id_str":"239816327"
-"name":"büaмans."
-"screen_name":"nichalism"
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":33156552
+"id_str":"33156552"
+"name":"jessica."
+"screen_name":"jessmariegreen"
 "location":""
-"url":"http://nichalism.tumblr.com/"
-"description":"1 9 9 7 #dek59"
+"url":null
+"description":"sc- jessmariegreenx\nig- jessmariegreen"
 "protected":false
 "verified":false
-"followers_count":745
-"friends_count":140
-"listed_count":7
-"favourites_count":30
-"statuses_count":233646
-"created_at":"Tue Jan 18 14:02:45 +0000 2011"
-"utc_offset":-25200
-"time_zone":"Pacific Time (US & Canada)"
-"geo_enabled":true
-"lang":"en-gb"
+"followers_count":710
+"friends_count":603
+"listed_count":2
+"favourites_count":4733
+"statuses_count":17509
+"created_at":"Sun Apr 19 07:30:41 +0000 2009"
+"utc_offset":3600
+"time_zone":"London"
+"geo_enabled":false
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"000000"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/463361323460329474/2U81e5Jg.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/463361323460329474/2U81e5Jg.png"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/862729365/286b11cac93e9b338c0ec0ada83678df.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/862729365/286b11cac93e9b338c0ec0ada83678df.jpeg"
 "profile_background_tile":true
-"profile_link_color":"9E9E9E"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"9E999E"
-"profile_text_color":"C29999"
+"profile_link_color":"000000"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"FAD2D2"
+"profile_text_color":"D680A3"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/586829913446952961/0ypmbf51_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/586829913446952961/0ypmbf51_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/239816327/1429435979"
+"profile_image_url":"http://pbs.twimg.com/profile_images/589703346304458752/yHPtzn67_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/589703346304458752/yHPtzn67_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/33156552/1428846379"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -56,16 +56,11 @@
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"ELTWYF1628"
-"name":"มาดามอู๋ "
-"id":1121387881
-"id_str":"1121387881"
-"indices":[0
-11]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"th"
-"timestamp_ms":"1430330635664"}
+"lang":"en"
+"timestamp_ms":"1430334126659"}

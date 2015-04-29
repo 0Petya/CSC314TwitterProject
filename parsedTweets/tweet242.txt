@@ -1,100 +1,48 @@
-{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
-"id":592753348052410400
-"id_str":"592753348052410369"
-"text":"RT @Dikkkafali: öpüşmeyeceksek ağzımızı hiç yormayalım bence."
-"source":"<a href=\"http://decknoloji.yasarmuratdeck.com/\" rel=\"nofollow\">Decknoloji Deck</a>"
+{"created_at":"Wed Apr 29 19:02:08 +0000 2015"
+"id":593490467632844800
+"id_str":"593490467632844802"
+"text":"Ya ya
+ such a good guy to get worked up over right? https://t.co/RUTHxGL53P"
+"source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":738999684
-"id_str":"738999684"
-"name":"CENK"
-"screen_name":"ozteknl"
-"location":"18"
-"url":null
-"description":"İZMİR"
-"protected":false
-"verified":false
-"followers_count":15680
-"friends_count":7624
-"listed_count":4
-"favourites_count":10678
-"statuses_count":52660
-"created_at":"Sun Aug 05 18:16:13 +0000 2012"
-"utc_offset":10800
-"time_zone":"Istanbul"
-"geo_enabled":true
-"lang":"tr"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"1BDE28"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/828947549/22e28934fe762ad54d6e54c6f2686568.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/828947549/22e28934fe762ad54d6e54c6f2686568.jpeg"
-"profile_background_tile":true
-"profile_link_color":"1E46E8"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/564112007201181698/wOlJoT-H_normal.png"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/564112007201181698/wOlJoT-H_normal.png"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/738999684/1410360551"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Mon Apr 27 15:17:22 +0000 2015"
-"id":592709126582579200
-"id_str":"592709126582579201"
-"text":"öpüşmeyeceksek ağzımızı hiç yormayalım bence."
-"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":2449683122
-"id_str":"2449683122"
-"name":"Müptezel ADAM"
-"screen_name":"Dikkkafali"
+"user":{"id":1962293593
+"id_str":"1962293593"
+"name":"Raymon Guerra"
+"screen_name":"rayrayusmc"
 "location":""
 "url":null
-"description":"Küfür içerir.. http://ask.fm/dikkkafali"
+"description":"MADE IN USA Keeping it real since 1993"
 "protected":false
 "verified":false
-"followers_count":14305
-"friends_count":8
-"listed_count":11
-"favourites_count":11
-"statuses_count":567
-"created_at":"Thu Apr 17 12:49:15 +0000 2014"
-"utc_offset":10800
-"time_zone":"Kyiv"
+"followers_count":105
+"friends_count":241
+"listed_count":2
+"favourites_count":2333
+"statuses_count":897
+"created_at":"Tue Oct 15 09:10:16 +0000 2013"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":false
-"lang":"tr"
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/457067662221144064/2o9glKtu.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/457067662221144064/2o9glKtu.jpeg"
-"profile_background_tile":true
-"profile_link_color":"0084B4"
+"profile_background_color":"34484F"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000172499105/N0HOZeW6.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000172499105/N0HOZeW6.jpeg"
+"profile_background_tile":false
+"profile_link_color":"B4CCD6"
 "profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"DDEEF6"
+"profile_sidebar_fill_color":"C0DFEC"
 "profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/500230825850707968/YtTgBKah_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/500230825850707968/YtTgBKah_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2449683122/1408099420"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/590572316666503169/oZvvqi5r_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/590572316666503169/oZvvqi5r_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1962293593/1424645162"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -104,33 +52,20 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":88
-"favorite_count":57
+"retweet_count":0
+"favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[]
+"urls":[{"url":"https://t.co/RUTHxGL53P"
+"expanded_url":"https://instagram.com/p/2EeFRcpj3q/"
+"display_url":"instagram.com/p/2EeFRcpj3q/"
+"indices":[52
+75]}]
 "user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"tr"}
-"retweet_count":0
-"favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"Dikkkafali"
-"name":"Müptezel ADAM"
-"id":2449683122
-"id_str":"2449683122"
-"indices":[3
-14]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"tr"
-"timestamp_ms":"1430158385657"}
+"lang":"en"
+"timestamp_ms":"1430334128660"}

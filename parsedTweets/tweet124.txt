@@ -1,36 +1,33 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821119086600
-"id_str":"593475821119086593"
-"text":"Ada info kak
-@fanie_bebz
-MAU belajar Bahasa INGGRIS tanpa KURSUS?INFO KLIK https://t.co/Kj0Lx1ahog http://t.co/k5BkY8cBvq"
-"source":"<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459265208300
+"id_str":"593490459265208321"
+"text":"RT @HsnFrhanALmalki: جرأة المنافقين في عهد النبي وصلت لحد أنهم ( يأمرون بالمنكر وينهون عن المعروف) علناً وإذا قيل لهم (لا تفسدرا في الأرض ق…"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":3083017895
-"id_str":"3083017895"
-"name":"Sarah nuralifa"
-"screen_name":"sarah_nuralifaa"
-"location":"Jakarta"
+"user":{"id":2231282157
+"id_str":"2231282157"
+"name":"عبدالله المسعودي"
+"screen_name":"a_almsoudi"
+"location":""
 "url":null
-"description":"Cinta tidak membuat dunia berputar
- Cinta inilah yang membuat perjalanan tersebut berharga"
+"description":"‏‏‏‏‏‏‏أشفق على من اتبعوا مشائخهم،أرى تلك العقول مصابة بداء ٌ ومستحب لي أن أدعي بشفائها..(السعودية)..(إعلام)"
 "protected":false
 "verified":false
-"followers_count":12
-"friends_count":48
-"listed_count":0
-"favourites_count":0
-"statuses_count":7654
-"created_at":"Tue Mar 10 02:24:00 +0000 2015"
-"utc_offset":3600
-"time_zone":"London"
+"followers_count":458
+"friends_count":764
+"listed_count":2
+"favourites_count":1572
+"statuses_count":17591
+"created_at":"Wed Dec 18 07:09:09 +0000 2013"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":false
-"lang":"id"
+"lang":"ar"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -42,9 +39,9 @@ MAU belajar Bahasa INGGRIS tanpa KURSUS?INFO KLIK https://t.co/Kj0Lx1ahog http:/
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/576133961648185344/8c3Ur10F_normal.png"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/576133961648185344/8c3Ur10F_normal.png"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/3083017895/1428555851"
+"profile_image_url":"http://pbs.twimg.com/profile_images/543109423455928321/mtM39YF2_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/543109423455928321/mtM39YF2_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2231282157/1418321877"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -54,73 +51,86 @@ MAU belajar Bahasa INGGRIS tanpa KURSUS?INFO KLIK https://t.co/Kj0Lx1ahog http:/
 "coordinates":null
 "place":null
 "contributors":null
+"retweeted_status":{"created_at":"Wed Apr 29 15:11:08 +0000 2015"
+"id":593432333354565600
+"id_str":"593432333354565635"
+"text":"جرأة المنافقين في عهد النبي وصلت لحد أنهم ( يأمرون بالمنكر وينهون عن المعروف) علناً وإذا قيل لهم (لا تفسدرا في الأرض قالوا إنما نحن مصلحون)"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":593431510457319400
+"in_reply_to_status_id_str":"593431510457319425"
+"in_reply_to_user_id":301637415
+"in_reply_to_user_id_str":"301637415"
+"in_reply_to_screen_name":"HsnFrhanALmalki"
+"user":{"id":301637415
+"id_str":"301637415"
+"name":"حسن فرحان المالكي"
+"screen_name":"HsnFrhanALmalki"
+"location":"الرياض"
+"url":"http://almaliky.org"
+"description":"باحث في الشؤون الشرعية والتاريخ\n همه العام إظهار معالم الإسلام القرآني ومن همومه التفصيلية؛ \nحقوق الإنسان؛\nنقد الغلو والتطرف؛\nمسلم وكفى"
+"protected":false
+"verified":false
+"followers_count":175217
+"friends_count":411
+"listed_count":1070
+"favourites_count":2749
+"statuses_count":64511
+"created_at":"Thu May 19 20:07:30 +0000 2011"
+"utc_offset":10800
+"time_zone":"Baghdad"
+"geo_enabled":true
+"lang":"ar"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"022330"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme15/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme15/bg.png"
+"profile_background_tile":false
+"profile_link_color":"3B94D9"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/547483976995045376/ZKZnHq0Z_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/547483976995045376/ZKZnHq0Z_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/301637415/1404955013"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":41
+"favorite_count":23
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"ar"}
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"https://t.co/Kj0Lx1ahog"
-"expanded_url":"https://bitly.com/1CoiU7G"
-"display_url":"bitly.com/1CoiU7G"
-"indices":[75
-98]}]
-"user_mentions":[{"screen_name":"fanie_bebz"
-"name":"Stephanie Limbongan"
-"id":357479762
-"id_str":"357479762"
-"indices":[13
-24]}]
-"symbols":[]
-"media":[{"id":588632813034807300
-"id_str":"588632813034807296"
-"indices":[99
-121]
-"media_url":"http://pbs.twimg.com/media/CCs-bLwUIAA-KLL.png"
-"media_url_https":"https://pbs.twimg.com/media/CCs-bLwUIAA-KLL.png"
-"url":"http://t.co/k5BkY8cBvq"
-"display_url":"pic.twitter.com/k5BkY8cBvq"
-"expanded_url":"http://twitter.com/PusatBahasaID/status/588632814565752832/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":156
-"resize":"fit"}
-"large":{"w":657
-"h":303
-"resize":"fit"}
-"medium":{"w":600
-"h":276
-"resize":"fit"}}
-"source_status_id":588632814565752800
-"source_status_id_str":"588632814565752832"}]}
-"extended_entities":{"media":[{"id":588632813034807300
-"id_str":"588632813034807296"
-"indices":[99
-121]
-"media_url":"http://pbs.twimg.com/media/CCs-bLwUIAA-KLL.png"
-"media_url_https":"https://pbs.twimg.com/media/CCs-bLwUIAA-KLL.png"
-"url":"http://t.co/k5BkY8cBvq"
-"display_url":"pic.twitter.com/k5BkY8cBvq"
-"expanded_url":"http://twitter.com/PusatBahasaID/status/588632814565752832/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":156
-"resize":"fit"}
-"large":{"w":657
-"h":303
-"resize":"fit"}
-"medium":{"w":600
-"h":276
-"resize":"fit"}}
-"source_status_id":588632814565752800
-"source_status_id_str":"588632814565752832"}]}
+"urls":[]
+"user_mentions":[{"screen_name":"HsnFrhanALmalki"
+"name":"حسن فرحان المالكي"
+"id":301637415
+"id_str":"301637415"
+"indices":[3
+19]}]
+"symbols":[]}
 "favorited":false
 "retweeted":false
-"possibly_sensitive":true
+"possibly_sensitive":false
 "filter_level":"low"
-"lang":"in"
-"timestamp_ms":"1430330636659"}
+"lang":"ar"
+"timestamp_ms":"1430334126665"}

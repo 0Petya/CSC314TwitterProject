@@ -1,99 +1,50 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816924786700
-"id_str":"593475816924786688"
-"text":"RT @joncroon: Alouette Construction | Rénovations IntérieuresAlouette Construction http://t.co/odz0eiqBrY"
-"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459261018100
+"id_str":"593490459261018115"
+"text":"Les darons a Lucas a la Tv ptdr"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1047093325
-"id_str":"1047093325"
-"name":"วุฒิชัย   แก้วคำ"
-"screen_name":"loveice_029"
-"location":""
+"user":{"id":1482622244
+"id_str":"1482622244"
+"name":"Flèche N.1"
+"screen_name":"Gozen___"
+"location":"Gozen Land 
+ Bitch"
 "url":null
-"description":null
+"description":"J'fais po du rap français
+ j'fais du rap en québécois #BafanaBafanaRemix"
 "protected":false
 "verified":false
-"followers_count":13
-"friends_count":801
-"listed_count":8
-"favourites_count":284
-"statuses_count":529
-"created_at":"Sun Dec 30 06:58:37 +0000 2012"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":false
-"lang":"th"
+"followers_count":247
+"friends_count":212
+"listed_count":2
+"favourites_count":2421
+"statuses_count":5204
+"created_at":"Tue Jun 04 15:56:47 +0000 2013"
+"utc_offset":10800
+"time_zone":"Athens"
+"geo_enabled":true
+"lang":"fr"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"C0DEED"
+"profile_background_color":"000000"
 "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
-"profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
-"default_profile":true
-"default_profile_image":true
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Sun Apr 26 03:45:25 +0000 2015"
-"id":592172605735456800
-"id_str":"592172605735456769"
-"text":"Alouette Construction | Rénovations IntérieuresAlouette Construction http://t.co/odz0eiqBrY"
-"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1646481487
-"id_str":"1646481487"
-"name":"Jon Croon"
-"screen_name":"joncroon"
-"location":""
-"url":null
-"description":null
-"protected":false
-"verified":false
-"followers_count":49
-"friends_count":22
-"listed_count":0
-"favourites_count":0
-"statuses_count":532
-"created_at":"Mon Aug 05 00:24:25 +0000 2013"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":false
-"lang":"en"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/378800000242497923/b96f0fc6256332871cc99bfdeb7a15e3_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000242497923/b96f0fc6256332871cc99bfdeb7a15e3_normal.jpeg"
-"default_profile":true
+"profile_link_color":"DD2E44"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/592383357004161024/L_rCoBlv_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592383357004161024/L_rCoBlv_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1482622244/1430070225"
+"default_profile":false
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -102,41 +53,16 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":49
+"retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"http://t.co/odz0eiqBrY"
-"expanded_url":"http://www.alouetteconstruction.com/renovations-interieures/"
-"display_url":"alouetteconstruction.com/renovations-in…"
-"indices":[69
-91]}]
+"urls":[]
 "user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"fr"}
-"retweet_count":0
-"favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[{"url":"http://t.co/odz0eiqBrY"
-"expanded_url":"http://www.alouetteconstruction.com/renovations-interieures/"
-"display_url":"alouetteconstruction.com/renovations-in…"
-"indices":[83
-105]}]
-"user_mentions":[{"screen_name":"joncroon"
-"name":"Jon Croon"
-"id":1646481487
-"id_str":"1646481487"
-"indices":[3
-12]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
 "lang":"fr"
-"timestamp_ms":"1430330635659"}
+"timestamp_ms":"1430334126664"}

@@ -1,32 +1,32 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812747272200
-"id_str":"593475812747272192"
-"text":"RT @fidelyatoker: Aha bunlar rtuk filan takmamiş tutkulu öpucukler havada uçuyor #KaraParaAşk #aşkınzamanı"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455062511600
+"id_str":"593490455062511617"
+"text":"@badazz_kid that's all you can do you a be good tho I believe so g"
 "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":289299813
-"id_str":"289299813"
-"name":"Ayisigi"
-"screen_name":"ayisigi97"
-"location":"Istanbul"
+"in_reply_to_status_id":593489944896757800
+"in_reply_to_status_id_str":"593489944896757760"
+"in_reply_to_user_id":284628733
+"in_reply_to_user_id_str":"284628733"
+"in_reply_to_screen_name":"badazz_kid"
+"user":{"id":2752328864
+"id_str":"2752328864"
+"name":"JASGUWOP"
+"screen_name":"JASMEECH"
+"location":"Baton Rouge 225 "
 "url":null
-"description":null
+"description":"Man Sharpen Man Like Iron Sharpens Iron"
 "protected":false
 "verified":false
-"followers_count":410
-"friends_count":402
+"followers_count":258
+"friends_count":875
 "listed_count":1
-"favourites_count":445
-"statuses_count":22301
-"created_at":"Thu Apr 28 11:54:34 +0000 2011"
+"favourites_count":675
+"statuses_count":6571
+"created_at":"Thu Aug 21 15:01:36 +0000 2014"
 "utc_offset":null
 "time_zone":null
-"geo_enabled":false
+"geo_enabled":true
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
@@ -39,9 +39,9 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/500247664437788672/XoVYgTjr_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/500247664437788672/XoVYgTjr_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/289299813/1424174369"
+"profile_image_url":"http://pbs.twimg.com/profile_images/590614926709886976/vv2knVPq_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/590614926709886976/vv2knVPq_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2752328864/1430298547"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -51,117 +51,21 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 18:02:57 +0000 2015"
-"id":593475572346560500
-"id_str":"593475572346560512"
-"text":"Aha bunlar rtuk filan takmamiş tutkulu öpucukler havada uçuyor #KaraParaAşk #aşkınzamanı"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1875921504
-"id_str":"1875921504"
-"name":"Yasmin #12Mart"
-"screen_name":"fidelyatoker"
-"location":""
-"url":null
-"description":null
-"protected":false
-"verified":false
-"followers_count":230
-"friends_count":78
-"listed_count":2
-"favourites_count":7629
-"statuses_count":34259
-"created_at":"Tue Sep 17 15:46:37 +0000 2013"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":true
-"lang":"tr"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/576093110637195264/Yz9mYjey_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/576093110637195264/Yz9mYjey_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1875921504/1426186399"
-"default_profile":true
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":{"type":"Point"
-"coordinates":[37.979975
-34.674516]}
-"coordinates":{"type":"Point"
-"coordinates":[34.674516
-37.979975]}
-"place":{"id":"39b390e76abd0dfd"
-"url":"https://api.twitter.com/1.1/geo/id/39b390e76abd0dfd.json"
-"place_type":"city"
-"name":"Niğde"
-"full_name":"Niğde
- Türkiye"
-"country_code":"TR"
-"country":"Türkiye"
-"bounding_box":{"type":"Polygon"
-"coordinates":[[[34.64041
-37.948382]
-[34.64041
-38.0066975]
-[34.7082595
-38.0066975]
-[34.7082595
-37.948382]]]}
-"attributes":{}}
-"contributors":null
-"retweet_count":1
-"favorite_count":0
-"entities":{"hashtags":[{"text":"KaraParaAşk"
-"indices":[63
-75]}
-{"text":"aşkınzamanı"
-"indices":[76
-88]}]
-"trends":[]
-"urls":[]
-"user_mentions":[]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"tr"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[{"text":"KaraParaAşk"
-"indices":[81
-93]}
-{"text":"aşkınzamanı"
-"indices":[94
-106]}]
+"entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"fidelyatoker"
-"name":"Yasmin #12Mart"
-"id":1875921504
-"id_str":"1875921504"
-"indices":[3
-16]}]
+"user_mentions":[{"screen_name":"badazz_kid"
+"name":"R E G G I E"
+"id":284628733
+"id_str":"284628733"
+"indices":[0
+11]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"tr"
-"timestamp_ms":"1430330634663"}
+"lang":"en"
+"timestamp_ms":"1430334125663"}

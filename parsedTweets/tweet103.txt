@@ -1,33 +1,33 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821144277000
-"id_str":"593475821144276993"
-"text":"RT @matfoil: @ivan_gon1801 c'est pas très catholique tout ça !"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459231703000
+"id_str":"593490459231703042"
+"text":"تحديث 💥\n(اضافه 23خط عربي مع الشرح)\nبرنامج Casper\nباخر اصدار معرب ومعدل\nV0.2.1\n💥للتحميل💥\nhttp://t.co/oObNcUb82U\n#سناب_شات\n#مدونة_خالد_الشووق"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2164560391
-"id_str":"2164560391"
-"name":"le_portuguesh"
-"screen_name":"ivan_gon1801"
-"location":"dans le trou du cul du monde"
+"user":{"id":1633862564
+"id_str":"1633862564"
+"name":"خالد الشووق"
+"screen_name":"khaled_alshoog"
+"location":"CH.BBM/C003EE2E6"
 "url":null
-"description":"fuck la police"
+"description":"http://khaled-alshoog.blogspot.com                                                           (تعريب ..شروحات..حلول..برامج..تحديثات..روت)"
 "protected":false
 "verified":false
-"followers_count":102
-"friends_count":117
-"listed_count":0
-"favourites_count":106
-"statuses_count":1283
-"created_at":"Wed Oct 30 10:58:21 +0000 2013"
+"followers_count":3272
+"friends_count":51
+"listed_count":71
+"favourites_count":268
+"statuses_count":901
+"created_at":"Tue Jul 30 21:23:18 +0000 2013"
 "utc_offset":null
 "time_zone":null
-"geo_enabled":true
-"lang":"fr"
+"geo_enabled":false
+"lang":"ar"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -39,9 +39,9 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/523531316865015808/ZR_aX5WP_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/523531316865015808/ZR_aX5WP_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2164560391/1413654659"
+"profile_image_url":"http://pbs.twimg.com/profile_images/564364852655706112/kRa4RraR_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/564364852655706112/kRa4RraR_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1633862564/1425845611"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -51,96 +51,25 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 11:58:42 +0000 2015"
-"id":593383905035735000
-"id_str":"593383905035735040"
-"text":"@ivan_gon1801 c'est pas très catholique tout ça !"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
-"truncated":false
-"in_reply_to_status_id":593017417749651500
-"in_reply_to_status_id_str":"593017417749651457"
-"in_reply_to_user_id":2164560391
-"in_reply_to_user_id_str":"2164560391"
-"in_reply_to_screen_name":"ivan_gon1801"
-"user":{"id":2582491681
-"id_str":"2582491681"
-"name":"matfoil"
-"screen_name":"matfoil"
-"location":""
-"url":null
-"description":null
-"protected":false
-"verified":false
-"followers_count":17
-"friends_count":32
-"listed_count":0
-"favourites_count":31
-"statuses_count":710
-"created_at":"Sun Jun 22 16:09:53 +0000 2014"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":false
-"lang":"fr"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"FF0000"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/584357296710541312/L9xHfuTS_normal.png"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/584357296710541312/L9xHfuTS_normal.png"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweet_count":1
-"favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"ivan_gon1801"
-"name":"le_portuguesh"
-"id":2164560391
-"id_str":"2164560391"
-"indices":[0
-13]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"fr"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"سناب_شات"
+"indices":[111
+120]}
+{"text":"مدونة_خالد_الشووق"
+"indices":[121
+139]}]
 "trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"matfoil"
-"name":"matfoil"
-"id":2582491681
-"id_str":"2582491681"
-"indices":[3
-11]}
-{"screen_name":"ivan_gon1801"
-"name":"le_portuguesh"
-"id":2164560391
-"id_str":"2164560391"
-"indices":[13
-26]}]
+"urls":[{"url":"http://t.co/oObNcUb82U"
+"expanded_url":"http://khaled-alshoog.blogspot.com/2015/04/casper.html"
+"display_url":"khaled-alshoog.blogspot.com/2015/04/casper…"
+"indices":[88
+110]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"fr"
-"timestamp_ms":"1430330636665"}
+"lang":"ar"
+"timestamp_ms":"1430334126657"}

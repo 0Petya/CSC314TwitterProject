@@ -1,60 +1,7 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812726329300
-"id_str":"593475812726329344"
-"text":"RT @akbr12345: قيلَ لبعض الصالحين ، ما أنفعُ الحياء ؟ قال : أن تستحي أن تسأل الله ما تحبّ ، وأنتَ تأتي مايكره !"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1048585878
-"id_str":"1048585878"
-"name":"سعاد الخميس"
-"screen_name":"suad241067"
-"location":""
-"url":null
-"description":null
-"protected":false
-"verified":false
-"followers_count":115
-"friends_count":127
-"listed_count":0
-"favourites_count":18
-"statuses_count":2426
-"created_at":"Sun Dec 30 19:03:14 +0000 2012"
-"utc_offset":null
-"time_zone":null
-"geo_enabled":true
-"lang":"ar"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/522975488558379009/RURcb3EH_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/522975488558379009/RURcb3EH_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1048585878/1413522046"
-"default_profile":true
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 17:55:06 +0000 2015"
-"id":593473598284800000
-"id_str":"593473598284800000"
-"text":"قيلَ لبعض الصالحين ، ما أنفعُ الحياء ؟ قال : أن تستحي أن تسأل الله ما تحبّ ، وأنتَ تأتي مايكره !"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455075135500
+"id_str":"593490455075135491"
+"text":"RT @rezz_al: #نصراوي_يقتحم_نادي_الهلال\n\nأتمنى ان نترك التعصب و نرحب بالأخ النصراوي و نقدر الحرمان الذي عاشه طوال سنين و نريه بعض من الذهب ا…"
 "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -62,25 +9,78 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1449378571
-"id_str":"1449378571"
-"name":"همتنـا اكبــر ♡"
-"screen_name":"akbr12345"
-"location":"instagram.com/Dayatalmstqbl"
+"user":{"id":1246229287
+"id_str":"1246229287"
+"name":"ميش،هلال العمر."
+"screen_name":"masha3lhfc"
+"location":"@Alhilal_FC"
 "url":null
-"description":"‏‏‏‏‏فتيات نسعى الى التطوير و الارتقاء لكل مايرضي الله عز وجل و معاً نسير الى طريق الجنة وحسابنا بالانستقرام"
+"description":"‏‏‏هلالُ في العرجاء بات عشقاً على انغامه يحلو الوصالُ، سيبقى السحر أزرق في بياض  ويبقى المجد مابقى الهلالُ.."
 "protected":false
 "verified":false
-"followers_count":12779
-"friends_count":22
-"listed_count":34
-"favourites_count":717
-"statuses_count":42341
-"created_at":"Wed May 22 16:26:24 +0000 2013"
-"utc_offset":null
-"time_zone":null
+"followers_count":874
+"friends_count":1990
+"listed_count":1
+"favourites_count":442
+"statuses_count":12314
+"created_at":"Wed Mar 06 14:26:42 +0000 2013"
+"utc_offset":-36000
+"time_zone":"Hawaii"
 "geo_enabled":true
 "lang":"ar"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"131516"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/884019275/9b93a55e69d28e942c5356fc2ffb0c3e.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/884019275/9b93a55e69d28e942c5356fc2ffb0c3e.jpeg"
+"profile_background_tile":true
+"profile_link_color":"3B94D9"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"E5507E"
+"profile_text_color":"362720"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/591668304147664896/m2c0kmC5_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/591668304147664896/m2c0kmC5_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1246229287/1429899689"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Wed Apr 29 18:16:34 +0000 2015"
+"id":593479001454334000
+"id_str":"593479001454333952"
+"text":"#نصراوي_يقتحم_نادي_الهلال\n\nأتمنى ان نترك التعصب و نرحب بالأخ النصراوي و نقدر الحرمان الذي عاشه طوال سنين و نريه بعض من الذهب الذي تزعمنا فيه"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":978966918
+"id_str":"978966918"
+"name":"محمد الرز"
+"screen_name":"rezz_al"
+"location":"لبنان"
+"url":"http://ask.fm/Mohamadalrezz"
+"description":"Kik & instagram : Mohamadalrezz || ابن نادي #الهلال .. ممثل ائتلاف شباب لبنان"
+"protected":false
+"verified":false
+"followers_count":46428
+"friends_count":504
+"listed_count":182
+"favourites_count":11304
+"statuses_count":80152
+"created_at":"Thu Nov 29 19:12:53 +0000 2012"
+"utc_offset":10800
+"time_zone":"Athens"
+"geo_enabled":true
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -92,9 +92,9 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/590163397011906560/QvdBZWuX_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/590163397011906560/QvdBZWuX_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1449378571/1429540890"
+"profile_image_url":"http://pbs.twimg.com/profile_images/592241344355008512/ASqCrVbt_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592241344355008512/ASqCrVbt_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/978966918/1428527077"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -104,9 +104,11 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":8
-"favorite_count":2
-"entities":{"hashtags":[]
+"retweet_count":138
+"favorite_count":9
+"entities":{"hashtags":[{"text":"نصراوي_يقتحم_نادي_الهلال"
+"indices":[0
+25]}]
 "trends":[]
 "urls":[]
 "user_mentions":[]
@@ -118,19 +120,21 @@
 "lang":"ar"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"نصراوي_يقتحم_نادي_الهلال"
+"indices":[13
+38]}]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"akbr12345"
-"name":"همتنـا اكبــر ♡"
-"id":1449378571
-"id_str":"1449378571"
+"user_mentions":[{"screen_name":"rezz_al"
+"name":"محمد الرز"
+"id":978966918
+"id_str":"978966918"
 "indices":[3
-13]}]
+11]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
-"possibly_sensitive":false
+"possibly_sensitive":true
 "filter_level":"low"
 "lang":"ar"
-"timestamp_ms":"1430330634658"}
+"timestamp_ms":"1430334125666"}

@@ -1,9 +1,7 @@
-{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
-"id":593475825321783300
-"id_str":"593475825321783297"
-"text":"RT @Dialetosdela: Digamos que talvez
- só talvez
- eu tenha uma queda pelo seu sorriso."
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463426015200
+"id_str":"593490463426015235"
+"text":"RT @callyconway: Prints and cards @madebyhanduk! Lots of gorgeous #handmade things to buy on the site! #handmadehour #printmaking http://t.…"
 "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -11,25 +9,25 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":3214884760
-"id_str":"3214884760"
-"name":"Luiza Silva"
-"screen_name":"b14360e46991486"
-"location":""
-"url":null
-"description":"Não importa onde estamos nossa mente e o nosso lar"
+"user":{"id":250581381
+"id_str":"250581381"
+"name":"Mrs Tabitha Twitchit"
+"screen_name":"thesewingnook"
+"location":"west sussex "
+"url":"http://thesewingnook.co.uk/Blog.html"
+"description":"a lover of thrift and vintage. I also like sewing & making little things to sell in the shop Crafters Corner  and in my little Etsy shop TheSewingNookUK"
 "protected":false
 "verified":false
-"followers_count":33
-"friends_count":75
-"listed_count":0
-"favourites_count":7
-"statuses_count":18
-"created_at":"Mon Apr 27 23:29:25 +0000 2015"
+"followers_count":721
+"friends_count":604
+"listed_count":9
+"favourites_count":2639
+"statuses_count":6302
+"created_at":"Fri Feb 11 11:27:13 +0000 2011"
 "utc_offset":null
 "time_zone":null
-"geo_enabled":false
-"lang":"pt"
+"geo_enabled":true
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -41,9 +39,9 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/592855276144955393/y5twtlNV_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/592855276144955393/y5twtlNV_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/3214884760/1430183161"
+"profile_image_url":"http://pbs.twimg.com/profile_images/530291395245113344/96Js8-8Q_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/530291395245113344/96Js8-8Q_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/250581381/1422371004"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -53,53 +51,50 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Tue Apr 14 19:10:49 +0000 2015"
-"id":588056833379672000
-"id_str":"588056833379672065"
-"text":"Digamos que talvez
- só talvez
- eu tenha uma queda pelo seu sorriso."
-"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+"retweeted_status":{"created_at":"Wed Apr 29 18:57:28 +0000 2015"
+"id":593489293982756900
+"id_str":"593489293982756864"
+"text":"Prints and cards @madebyhanduk! Lots of gorgeous #handmade things to buy on the site! #handmadehour #printmaking http://t.co/eYNjjvBoBm"
+"source":"<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2984761249
-"id_str":"2984761249"
-"name":"Dialetos ზ"
-"screen_name":"Dialetosdela"
+"user":{"id":19454543
+"id_str":"19454543"
+"name":"Cally Conway"
+"screen_name":"callyconway"
 "location":""
-"url":"http://instagram.com/de0sa/"
-"description":"Em casos de dúvidas
-  aperte o botão do foda-se!"
+"url":"http://www.madebyhandonline.com/by/cally_conway/"
+"description":"London Printmaker \nPrints available at: https://folksy.com/shops/CallyConwayPrints \nhttps://www.artfinder.com/callyconway"
 "protected":false
 "verified":false
-"followers_count":14108
-"friends_count":10496
-"listed_count":1
-"favourites_count":0
-"statuses_count":35
-"created_at":"Thu Jan 15 23:43:40 +0000 2015"
-"utc_offset":-7200
-"time_zone":"Mid-Atlantic"
-"geo_enabled":false
-"lang":"pt"
+"followers_count":1697
+"friends_count":1873
+"listed_count":52
+"favourites_count":1596
+"statuses_count":3387
+"created_at":"Sat Jan 24 17:29:29 +0000 2009"
+"utc_offset":7200
+"time_zone":"Amsterdam"
+"geo_enabled":true
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"F5ABB5"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/562048426188091392/3GtqmZi1.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/562048426188091392/3GtqmZi1.png"
+"profile_background_color":"CB19E6"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/581891605159763968/zm1WmGtF.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/581891605159763968/zm1WmGtF.jpg"
 "profile_background_tile":true
-"profile_link_color":"F5ABB5"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
+"profile_link_color":"FFCC4D"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"E6BD17"
+"profile_text_color":"1B3FCF"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/580074742704652288/h8Zzl9WG_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/580074742704652288/h8Zzl9WG_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2984761249/1427136988"
+"profile_image_url":"http://pbs.twimg.com/profile_images/566586895166345216/Kir9VM7C_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/566586895166345216/Kir9VM7C_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/19454543/1426883489"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -109,33 +104,152 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":25
-"favorite_count":28
-"entities":{"hashtags":[]
+"retweet_count":6
+"favorite_count":5
+"entities":{"hashtags":[{"text":"handmade"
+"indices":[49
+58]}
+{"text":"handmadehour"
+"indices":[86
+99]}
+{"text":"printmaking"
+"indices":[100
+112]}]
 "trends":[]
 "urls":[]
-"user_mentions":[]
-"symbols":[]}
+"user_mentions":[{"screen_name":"madebyhanduk"
+"name":"madebyhandonline"
+"id":160530699
+"id_str":"160530699"
+"indices":[17
+30]}]
+"symbols":[]
+"media":[{"id":593489286344880100
+"id_str":"593489286344880130"
+"indices":[113
+135]
+"media_url":"http://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"url":"http://t.co/eYNjjvBoBm"
+"display_url":"pic.twitter.com/eYNjjvBoBm"
+"expanded_url":"http://twitter.com/callyconway/status/593489293982756864/photo/1"
+"type":"photo"
+"sizes":{"large":{"w":534
+"h":800
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":534
+"h":800
+"resize":"fit"}
+"small":{"w":340
+"h":509
+"resize":"fit"}}}]}
+"extended_entities":{"media":[{"id":593489286344880100
+"id_str":"593489286344880130"
+"indices":[113
+135]
+"media_url":"http://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"url":"http://t.co/eYNjjvBoBm"
+"display_url":"pic.twitter.com/eYNjjvBoBm"
+"expanded_url":"http://twitter.com/callyconway/status/593489293982756864/photo/1"
+"type":"photo"
+"sizes":{"large":{"w":534
+"h":800
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":534
+"h":800
+"resize":"fit"}
+"small":{"w":340
+"h":509
+"resize":"fit"}}}]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"pt"}
+"lang":"en"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"handmade"
+"indices":[66
+75]}
+{"text":"handmadehour"
+"indices":[103
+116]}
+{"text":"printmaking"
+"indices":[117
+129]}]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"Dialetosdela"
-"name":"Dialetos ზ"
-"id":2984761249
-"id_str":"2984761249"
+"user_mentions":[{"screen_name":"callyconway"
+"name":"Cally Conway"
+"id":19454543
+"id_str":"19454543"
 "indices":[3
-16]}]
-"symbols":[]}
+15]}
+{"screen_name":"madebyhanduk"
+"name":"madebyhandonline"
+"id":160530699
+"id_str":"160530699"
+"indices":[34
+47]}]
+"symbols":[]
+"media":[{"id":593489286344880100
+"id_str":"593489286344880130"
+"indices":[139
+140]
+"media_url":"http://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"url":"http://t.co/eYNjjvBoBm"
+"display_url":"pic.twitter.com/eYNjjvBoBm"
+"expanded_url":"http://twitter.com/callyconway/status/593489293982756864/photo/1"
+"type":"photo"
+"sizes":{"large":{"w":534
+"h":800
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":534
+"h":800
+"resize":"fit"}
+"small":{"w":340
+"h":509
+"resize":"fit"}}
+"source_status_id":593489293982756900
+"source_status_id_str":"593489293982756864"}]}
+"extended_entities":{"media":[{"id":593489286344880100
+"id_str":"593489286344880130"
+"indices":[139
+140]
+"media_url":"http://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDx_XIqWMAIRGP5.jpg"
+"url":"http://t.co/eYNjjvBoBm"
+"display_url":"pic.twitter.com/eYNjjvBoBm"
+"expanded_url":"http://twitter.com/callyconway/status/593489293982756864/photo/1"
+"type":"photo"
+"sizes":{"large":{"w":534
+"h":800
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":534
+"h":800
+"resize":"fit"}
+"small":{"w":340
+"h":509
+"resize":"fit"}}
+"source_status_id":593489293982756900
+"source_status_id_str":"593489293982756864"}]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"pt"
-"timestamp_ms":"1430330637661"}
+"lang":"en"
+"timestamp_ms":"1430334127657"}

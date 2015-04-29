@@ -1,48 +1,47 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812722155500
-"id_str":"593475812722155523"
-"text":"That awesome moment when you find out the class you ditched was canceled!! 😆"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455066767400
+"id_str":"593490455066767360"
+"text":"RT @SupremeFelix: T'as pas besoin d'être riche à la base pour vivre tes rêves"
+"source":"<a href=\"http://autoFM.fr/VIP/\" rel=\"nofollow\">AutoFM VIP #9</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2571169196
-"id_str":"2571169196"
-"name":"Mexican Rapunzel "
-"screen_name":"EGraceParra"
-"location":""
+"user":{"id":2590491358
+"id_str":"2590491358"
+"name":"Une Fille Drôle ☺"
+"screen_name":"UneFilleDrole_"
+"location":"Paris"
 "url":null
-"description":"Because Your loving kindness is better than life
- my lips shall praise You. Thus I bless you while I live; I will lift up my hand in your name."
+"description":"19yo. Paris. Va voir @DonoTrdz si tu veux des followers au lieu de me demander comment j'ai fait ✌️"
 "protected":false
 "verified":false
-"followers_count":49
-"friends_count":146
-"listed_count":0
-"favourites_count":2944
-"statuses_count":1642
-"created_at":"Mon Jun 16 15:47:07 +0000 2014"
-"utc_offset":null
-"time_zone":null
+"followers_count":25809
+"friends_count":22051
+"listed_count":19
+"favourites_count":569
+"statuses_count":11469
+"created_at":"Sat Jun 07 22:14:08 +0000 2014"
+"utc_offset":7200
+"time_zone":"Paris"
 "geo_enabled":false
-"lang":"en"
+"lang":"fr"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"F5ABB5"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/507273879299973120/-2OdMB_s.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/507273879299973120/-2OdMB_s.jpeg"
-"profile_background_tile":true
-"profile_link_color":"ABB8C2"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/584975515917778944/YOzPKWn__normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/584975515917778944/YOzPKWn__normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2571169196/1428304065"
+"profile_background_color":"FFFFFF"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme11/bg.gif"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme11/bg.gif"
+"profile_background_tile":false
+"profile_link_color":"ADA58C"
+"profile_sidebar_border_color":"CC3366"
+"profile_sidebar_fill_color":"E5507E"
+"profile_text_color":"362720"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/556918967042711552/G1qoZmOi_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/556918967042711552/G1qoZmOi_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2590491358/1421615214"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -52,8 +51,61 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":0
-"favorite_count":0
+"retweeted_status":{"created_at":"Mon Mar 09 11:26:20 +0000 2015"
+"id":574893978174275600
+"id_str":"574893978174275585"
+"text":"T'as pas besoin d'être riche à la base pour vivre tes rêves"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2906457375
+"id_str":"2906457375"
+"name":"Snap : SupremeFelix"
+"screen_name":"SupremeFelix"
+"location":"Paris"
+"url":"http://SupremeFelix.com"
+"description":"Gros tweets sur @SupremeFelixRT Snapchat : SupremeFelix"
+"protected":false
+"verified":false
+"followers_count":56317
+"friends_count":235
+"listed_count":16
+"favourites_count":9984
+"statuses_count":4282
+"created_at":"Fri Dec 05 15:46:55 +0000 2014"
+"utc_offset":7200
+"time_zone":"Paris"
+"geo_enabled":false
+"lang":"fr"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"FFFFFF"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"000000"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/574265483152642048/nkxdl71J_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/574265483152642048/nkxdl71J_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2906457375/1422826735"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":2680
+"favorite_count":792
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
@@ -63,5 +115,22 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430330634657"}
+"lang":"fr"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"SupremeFelix"
+"name":"Snap : SupremeFelix"
+"id":2906457375
+"id_str":"2906457375"
+"indices":[3
+16]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"fr"
+"timestamp_ms":"1430334125664"}

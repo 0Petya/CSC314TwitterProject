@@ -1,92 +1,72 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812734689300
-"id_str":"593475812734689280"
-"text":"Pavasaris
- jeb iekāpu māksliniekā. @ Salu Tilts https://t.co/t5wTMK8Q7M"
-"source":"<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455075098600
+"id_str":"593490455075098624"
+"text":"@RaulVB qujiza antes del escandalo de las apuestas asi era
+ ahora no es ni la sombra de la poderosa Serie A de antaño"
+"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":458640900
-"id_str":"458640900"
-"name":"Mārtiņš Amats"
-"screen_name":"AmatsMartins"
-"location":"Riga"
+"in_reply_to_status_id":593490221104238600
+"in_reply_to_status_id_str":"593490221104238594"
+"in_reply_to_user_id":75447063
+"in_reply_to_user_id_str":"75447063"
+"in_reply_to_screen_name":"RaulVB"
+"user":{"id":65715312
+"id_str":"65715312"
+"name":"El Tripa Seca"
+"screen_name":"UnTalTripaSeca"
+"location":"Santiago
+ Chile"
 "url":null
-"description":null
+"description":"La mente construye realidades"
 "protected":false
 "verified":false
-"followers_count":120
-"friends_count":147
-"listed_count":0
-"favourites_count":472
-"statuses_count":8560
-"created_at":"Sun Jan 08 19:55:36 +0000 2012"
-"utc_offset":-7200
-"time_zone":"Greenland"
+"followers_count":1250
+"friends_count":1154
+"listed_count":34
+"favourites_count":8776
+"statuses_count":121539
+"created_at":"Fri Aug 14 19:36:13 +0000 2009"
+"utc_offset":-14400
+"time_zone":"Santiago"
 "geo_enabled":true
-"lang":"en"
+"lang":"es"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"FFFFFF"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/662716993/clouds-1.br.jpg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/662716993/clouds-1.br.jpg"
-"profile_background_tile":false
-"profile_link_color":"695117"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"EED163"
-"profile_text_color":"000000"
+"profile_background_color":"BADFCD"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/670063736/9c830fdb2406d0f892a3324e4fbf1f07.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/670063736/9c830fdb2406d0f892a3324e4fbf1f07.jpeg"
+"profile_background_tile":true
+"profile_link_color":"0000FF"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"214ADE"
+"profile_text_color":"CFB6CF"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/587304871004655616/H90XqGGk_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/587304871004655616/H90XqGGk_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/458640900/1428859360"
+"profile_image_url":"http://pbs.twimg.com/profile_images/589264557249409024/uYzf7ji__normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/589264557249409024/uYzf7ji__normal.jpg"
 "default_profile":false
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
 "notifications":null}
-"geo":{"type":"Point"
-"coordinates":[56.915497
-24.167165]}
-"coordinates":{"type":"Point"
-"coordinates":[24.167165
-56.915497]}
-"place":{"id":"1d73626cc863c69f"
-"url":"https://api.twitter.com/1.1/geo/id/1d73626cc863c69f.json"
-"place_type":"city"
-"name":"Riga"
-"full_name":"Riga
- Latvia"
-"country_code":"LV"
-"country":"Latvija"
-"bounding_box":{"type":"Polygon"
-"coordinates":[[[23.9325829
-56.8570671]
-[23.9325829
-57.0859184]
-[24.3247299
-57.0859184]
-[24.3247299
-56.8570671]]]}
-"attributes":{}}
+"geo":null
+"coordinates":null
+"place":null
 "contributors":null
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"https://t.co/t5wTMK8Q7M"
-"expanded_url":"https://instagram.com/p/2EXawImb_4/"
-"display_url":"instagram.com/p/2EXawImb_4/"
-"indices":[48
-71]}]
-"user_mentions":[]
+"urls":[]
+"user_mentions":[{"screen_name":"RaulVB"
+"name":"Raúl Vergara"
+"id":75447063
+"id_str":"75447063"
+"indices":[0
+7]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"lv"
-"timestamp_ms":"1430330634660"}
+"lang":"es"
+"timestamp_ms":"1430334125666"}

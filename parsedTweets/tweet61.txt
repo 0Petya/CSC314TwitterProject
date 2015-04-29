@@ -1,7 +1,7 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816954208300
-"id_str":"593475816954208259"
-"text":"RT @louisbemybabe: rt for a solo group with harry styles! \ni'm trading 🌼"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455054196700
+"id_str":"593490455054196737"
+"text":"RT @dhaikilokatweet: Not sure whether d decision of Banning  off spin of Sunil Narine is taken by BCCI or Chetan Bhagat\n\n#HalfBan"
 "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -9,43 +9,41 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1030391654
-"id_str":"1030391654"
-"name":"books!.
-!!☯"
-"screen_name":"_stylesislife_"
-"location":"❤️{ery
-pac packetes
-lau}❤️"
-"url":"http://www.wattpad.com/story/30406631-google-acosador-h-s"
-"description":"cute harry is my favourite harry but when I see harry with books in his hands I'm like 'f*cking sh*t he is perfect!'"
+"user":{"id":3108351864
+"id_str":"3108351864"
+"name":"Ganda Bacha"
+"screen_name":"FakeRainaNephew"
+"location":""
+"url":"https://www.youtube.com/watch?v=0p4G2xVMH9g"
+"description":"Born a Kid 
+will die a Kid. fuck off adult people ."
 "protected":false
 "verified":false
-"followers_count":2445
-"friends_count":1345
-"listed_count":13
-"favourites_count":7413
-"statuses_count":31738
-"created_at":"Sun Dec 23 11:28:42 +0000 2012"
-"utc_offset":10800
-"time_zone":"Athens"
-"geo_enabled":true
-"lang":"es"
+"followers_count":85
+"friends_count":147
+"listed_count":2
+"favourites_count":18
+"statuses_count":967
+"created_at":"Thu Mar 26 16:03:27 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/581067516551651328/BB9tZ9uF.jpg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/581067516551651328/BB9tZ9uF.jpg"
-"profile_background_tile":true
-"profile_link_color":"3B94D9"
-"profile_sidebar_border_color":"FFFFFF"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/591702043942854656/_yTjz4l6_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/591702043942854656/_yTjz4l6_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1030391654/1429907830"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/592958580795408384/tpX3aPAx_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592958580795408384/tpX3aPAx_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/3108351864/1429856491"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -54,10 +52,10 @@ lau}❤️"
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 18:03:18 +0000 2015"
-"id":593475660816998400
-"id_str":"593475660816998400"
-"text":"rt for a solo group with harry styles! \ni'm trading 🌼"
+"retweeted_status":{"created_at":"Wed Apr 29 10:48:11 +0000 2015"
+"id":593366159983910900
+"id_str":"593366159983910912"
+"text":"Not sure whether d decision of Banning  off spin of Sunil Narine is taken by BCCI or Chetan Bhagat\n\n#HalfBan"
 "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -65,39 +63,39 @@ lau}❤️"
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":616176938
-"id_str":"616176938"
-"name":"BIO FOR A REFOLLOW"
-"screen_name":"louisbemybabe"
-"location":"elena will always be my harry"
-"url":"https://twitter.com/louisbemybabe/status/593462947403431937"
-"description":"when i tried to follow louis' girlfriend it said edit profile                         11:11 lwt/5"
+"user":{"id":88138010
+"id_str":"88138010"
+"name":"SaffronTikPehnKrChlo"
+"screen_name":"dhaikilokatweet"
+"location":"udaipur/jaipur"
+"url":"http://favstar.fm/users/dhaikilokatweet"
+"description":"Jokes have been ordered"
 "protected":false
 "verified":false
-"followers_count":5012
-"friends_count":1741
-"listed_count":7
-"favourites_count":2395
-"statuses_count":16277
-"created_at":"Sat Jun 23 14:56:38 +0000 2012"
-"utc_offset":7200
-"time_zone":"Amsterdam"
-"geo_enabled":false
-"lang":"es"
+"followers_count":5407
+"friends_count":191
+"listed_count":27
+"favourites_count":13171
+"statuses_count":19813
+"created_at":"Sat Nov 07 07:28:21 +0000 2009"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":true
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"131516"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/504640330096844801/GuOlLxLU.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/504640330096844801/GuOlLxLU.jpeg"
-"profile_background_tile":true
-"profile_link_color":"525ABD"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"E5507E"
-"profile_text_color":"362720"
+"profile_background_color":"FFF04D"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme19/bg.gif"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme19/bg.gif"
+"profile_background_tile":false
+"profile_link_color":"0099CC"
+"profile_sidebar_border_color":"FFF8AD"
+"profile_sidebar_fill_color":"F6FFD1"
+"profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/589798649649041410/FYb0WSyw_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/589798649649041410/FYb0WSyw_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/616176938/1429453929"
+"profile_image_url":"http://pbs.twimg.com/profile_images/593354815545024512/ZNIqUhdV_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/593354815545024512/ZNIqUhdV_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/88138010/1428336728"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -107,9 +105,11 @@ lau}❤️"
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":2
-"favorite_count":0
-"entities":{"hashtags":[]
+"retweet_count":11
+"favorite_count":7
+"entities":{"hashtags":[{"text":"HalfBan"
+"indices":[100
+108]}]
 "trends":[]
 "urls":[]
 "user_mentions":[]
@@ -121,19 +121,21 @@ lau}❤️"
 "lang":"en"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"HalfBan"
+"indices":[121
+129]}]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"louisbemybabe"
-"name":"BIO FOR A REFOLLOW"
-"id":616176938
-"id_str":"616176938"
+"user_mentions":[{"screen_name":"dhaikilokatweet"
+"name":"SaffronTikPehnKrChlo"
+"id":88138010
+"id_str":"88138010"
 "indices":[3
-17]}]
+19]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"en"
-"timestamp_ms":"1430330635666"}
+"timestamp_ms":"1430334125661"}

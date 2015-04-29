@@ -1,49 +1,55 @@
-{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
-"id":592769135437815800
-"id_str":"592769135437815808"
-"text":"@3msm1th @sam_long8 😂😂😂😂😂😂"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:08 +0000 2015"
+"id":593490467649650700
+"id_str":"593490467649650691"
+"text":"#Amazon USA : Lee Men's Wrinkle Resistant Relaxed Plain Front Twill Pants ... by Lee http://t.co/xJ9sQ3xtyS #MEN"
+"source":"<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>"
 "truncated":false
-"in_reply_to_status_id":592764710988206100
-"in_reply_to_status_id_str":"592764710988206081"
-"in_reply_to_user_id":555361853
-"in_reply_to_user_id_str":"555361853"
-"in_reply_to_screen_name":"3msm1th"
-"user":{"id":291287076
-"id_str":"291287076"
-"name":"molly"
-"screen_name":"mollybrockett"
-"location":"16
- norfolk "
-"url":null
-"description":"shit shock horror"
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":484433889
+"id_str":"484433889"
+"name":"High End "
+"screen_name":"HighEnd_USA"
+"location":""
+"url":"http://bit.ly/10yCNbB"
+"description":"Online retailer of books
+ movies
+ music and games along with electronics
+ toys
+ apparel
+ sports
+ tools
+ groceries and general home and garden items and more..."
 "protected":false
 "verified":false
-"followers_count":672
-"friends_count":474
-"listed_count":1
-"favourites_count":1475
-"statuses_count":13391
-"created_at":"Sun May 01 19:08:27 +0000 2011"
-"utc_offset":3600
-"time_zone":"Casablanca"
-"geo_enabled":true
+"followers_count":1472
+"friends_count":1488
+"listed_count":141
+"favourites_count":0
+"statuses_count":207931
+"created_at":"Mon Feb 06 03:18:46 +0000 2012"
+"utc_offset":36000
+"time_zone":"Brisbane"
+"geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
+"profile_background_color":"7FA1AA"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/536014995/check_it_out.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/536014995/check_it_out.jpg"
+"profile_background_tile":true
 "profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_border_color":"000000"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/559123888056324096/_96rCTM-_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/559123888056324096/_96rCTM-_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/291287076/1427913417"
-"default_profile":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/378800000127327679/3a2697479d05a9a1c58470918260b1fe_normal.png"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000127327679/3a2697479d05a9a1c58470918260b1fe_normal.png"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/484433889/1371685286"
+"default_profile":false
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -54,25 +60,23 @@
 "contributors":null
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"3msm1th"
-"name":"✿ emily ✿"
-"id":555361853
-"id_str":"555361853"
+"entities":{"hashtags":[{"text":"Amazon"
 "indices":[0
-8]}
-{"screen_name":"sam_long8"
-"name":"Sam"
-"id":1154434507
-"id_str":"1154434507"
-"indices":[9
-19]}]
+7]}
+{"text":"MEN"
+"indices":[108
+112]}]
+"trends":[]
+"urls":[{"url":"http://t.co/xJ9sQ3xtyS"
+"expanded_url":"http://amzn.to/bottoms4250"
+"display_url":"amzn.to/bottoms4250"
+"indices":[85
+107]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"und"
-"timestamp_ms":"1430162149663"}
+"lang":"en"
+"timestamp_ms":"1430334128664"}

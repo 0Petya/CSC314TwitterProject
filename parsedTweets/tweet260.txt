@@ -1,47 +1,48 @@
-{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
-"id":592753348081799200
-"id_str":"592753348081799168"
-"text":"Ahhh it would be so cool to be a travel photographer. Capturing different cultures.."
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:09 +0000 2015"
+"id":593490471818788900
+"id_str":"593490471818788865"
+"text":"Vas a viajar a #NYC? Anota estas 20 pistas gastronómicas en #Brooklyn @jansorena http://t.co/EpxDMjgVvS"
+"source":"<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2300776093
-"id_str":"2300776093"
-"name":"Lex"
-"screen_name":"LexVasquez_"
+"user":{"id":344812266
+"id_str":"344812266"
+"name":"gastroeconomy"
+"screen_name":"gastroeconomy"
 "location":""
-"url":"http://www.LexVasquez.com"
-"description":null
+"url":"http://www.gastroeconomy.com"
+"description":"El portal de gastronomía empresarial y tendencias para foodies
+ creado y liderado por Marta Fernández Guadaño @mfguada"
 "protected":false
 "verified":false
-"followers_count":171
-"friends_count":283
-"listed_count":0
-"favourites_count":1772
-"statuses_count":3478
-"created_at":"Mon Jan 20 04:39:46 +0000 2014"
+"followers_count":47875
+"friends_count":4264
+"listed_count":1015
+"favourites_count":5713
+"statuses_count":41648
+"created_at":"Fri Jul 29 16:38:16 +0000 2011"
 "utc_offset":null
 "time_zone":null
 "geo_enabled":true
-"lang":"en"
+"lang":"es"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"03080A"
-"profile_sidebar_border_color":"C0DEED"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/303313480/logo_gastroeconomy_CORTADO.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/303313480/logo_gastroeconomy_CORTADO.jpg"
+"profile_background_tile":true
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"FFFFFF"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/588757541225500672/TV0wU4Ly_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/588757541225500672/TV0wU4Ly_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2300776093/1426732198"
+"profile_image_url":"http://pbs.twimg.com/profile_images/1717467257/logoVerdeNegro_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/1717467257/logoVerdeNegro_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/344812266/1390517097"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -53,14 +54,28 @@
 "contributors":null
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"NYC"
+"indices":[15
+19]}
+{"text":"Brooklyn"
+"indices":[60
+69]}]
 "trends":[]
-"urls":[]
-"user_mentions":[]
+"urls":[{"url":"http://t.co/EpxDMjgVvS"
+"expanded_url":"http://ow.ly/GacZA"
+"display_url":"ow.ly/GacZA"
+"indices":[81
+103]}]
+"user_mentions":[{"screen_name":"jansorena"
+"name":"Javier Ansorena"
+"id":115803669
+"id_str":"115803669"
+"indices":[70
+80]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430158385664"}
+"lang":"es"
+"timestamp_ms":"1430334129658"}

@@ -1,8 +1,7 @@
-{"created_at":"Wed Apr 29 18:03:58 +0000 2015"
-"id":593475829532913700
-"id_str":"593475829532913666"
-"text":"RT @kafatroloji: \"Aşk; biri gelip ona anlam yükleyene dek
- sadece bir kelimedir.\" /Paulo Coelho/"
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463434403800
+"id_str":"593490463434403841"
+"text":"RT @SouNamaste: Não é tristeza não. Às vezes é assim mesmo: a gente não acorda legal e só espera o dia passar."
 "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -10,92 +9,39 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1616383550
-"id_str":"1616383550"
-"name":"daimaRT"
-"screen_name":"daimaRT_"
+"user":{"id":2862593158
+"id_str":"2862593158"
+"name":"♫ Música sinceras ♫"
+"screen_name":"MusicaSinceras"
 "location":""
 "url":null
-"description":null
+"description":"Trechos de Músicas que você mais curte pra compartilhar no twitter. ♫ Retweet as suas preferidas!"
 "protected":false
 "verified":false
-"followers_count":52714
-"friends_count":51856
-"listed_count":4
-"favourites_count":917
-"statuses_count":162908
-"created_at":"Wed Jul 24 00:00:22 +0000 2013"
-"utc_offset":null
-"time_zone":null
+"followers_count":17047
+"friends_count":5166
+"listed_count":5
+"favourites_count":73
+"statuses_count":114743
+"created_at":"Wed Nov 05 14:24:52 +0000 2014"
+"utc_offset":-7200
+"time_zone":"Mid-Atlantic"
 "geo_enabled":false
-"lang":"tr"
+"lang":"pt"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_color":"FFFFFF"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/530006956451196928/AxmEYtVg.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/530006956451196928/AxmEYtVg.jpeg"
 "profile_background_tile":false
 "profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_border_color":"FFFFFF"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/438363901135450112/X_m46hf2_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/438363901135450112/X_m46hf2_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1616383550/1395099372"
-"default_profile":true
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 06:00:33 +0000 2015"
-"id":593293773318291500
-"id_str":"593293773318291456"
-"text":"\"Aşk; biri gelip ona anlam yükleyene dek
- sadece bir kelimedir.\" /Paulo Coelho/"
-"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1632640861
-"id_str":"1632640861"
-"name":"Kafatroloji"
-"screen_name":"kafatroloji"
-"location":"istanbul"
-"url":null
-"description":"En iyi yazarlardan en iyi sözler. kafatroloji@gmail.com"
-"protected":false
-"verified":false
-"followers_count":840071
-"friends_count":390651
-"listed_count":109
-"favourites_count":18571
-"statuses_count":6392
-"created_at":"Tue Jul 30 10:46:52 +0000 2013"
-"utc_offset":10800
-"time_zone":"Athens"
-"geo_enabled":true
-"lang":"tr"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"131516"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme14/bg.gif"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme14/bg.gif"
-"profile_background_tile":true
-"profile_link_color":"009999"
-"profile_sidebar_border_color":"EEEEEE"
-"profile_sidebar_fill_color":"EFEFEF"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/441878943180668928/luMwFMB5_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/441878943180668928/luMwFMB5_normal.jpeg"
+"profile_image_url":"http://pbs.twimg.com/profile_images/534788053986852864/LcW4seY1_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/534788053986852864/LcW4seY1_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2862593158/1416338641"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -105,8 +51,62 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":19
-"favorite_count":53
+"retweeted_status":{"created_at":"Sun Feb 22 11:52:10 +0000 2015"
+"id":569464664435908600
+"id_str":"569464664435908608"
+"text":"Não é tristeza não. Às vezes é assim mesmo: a gente não acorda legal e só espera o dia passar."
+"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2557132465
+"id_str":"2557132465"
+"name":"Namastê ☮"
+"screen_name":"SouNamaste"
+"location":"027"
+"url":"http://instagram.com/adamschmidel"
+"description":"O amor é legalizado
+ porque vocês não usam? // @adamschmidel"
+"protected":false
+"verified":false
+"followers_count":122139
+"friends_count":116681
+"listed_count":24
+"favourites_count":24
+"statuses_count":209
+"created_at":"Mon Jun 09 16:09:59 +0000 2014"
+"utc_offset":-10800
+"time_zone":"Brasilia"
+"geo_enabled":false
+"lang":"pt"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"FA743E"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/562236427547582464/-trIgUJe_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/562236427547582464/-trIgUJe_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2557132465/1422882617"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":948
+"favorite_count":326
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
@@ -116,22 +116,22 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"tr"}
+"lang":"pt"}
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"kafatroloji"
-"name":"Kafatroloji"
-"id":1632640861
-"id_str":"1632640861"
+"user_mentions":[{"screen_name":"SouNamaste"
+"name":"Namastê ☮"
+"id":2557132465
+"id_str":"2557132465"
 "indices":[3
-15]}]
+14]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"tr"
-"timestamp_ms":"1430330638665"}
+"lang":"pt"
+"timestamp_ms":"1430334127659"}

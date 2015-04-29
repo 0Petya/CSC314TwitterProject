@@ -1,48 +1,47 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812738932700
-"id_str":"593475812738932739"
-"text":"Arranca el partido del Real MAdrid con el Chicharito de titular en vivo en http://t.co/1Yw9s5pEbQ"
-"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455066746900
+"id_str":"593490455066746880"
+"text":"RT @KassEnRap: Si siguieran mis pasos verían que ya estoy a millas."
+"source":"<a href=\"http://deck.smdeck.com\" rel=\"nofollow\">Mini-Sharp</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":312053815
-"id_str":"312053815"
-"name":"La Bestia"
-"screen_name":"labestiafutbol"
-"location":""
-"url":"http://www.labestia.com"
-"description":"Si quieres tener toda la información del fútbol de todo el mundo
- ¡sígueme! Contacto: info@labestia.com #FutbolALoBestia"
+"user":{"id":713616031
+"id_str":"713616031"
+"name":"GranMaestre"
+"screen_name":"Fumatemistuits"
+"location":"arriba de ti. "
+"url":null
+"description":null
 "protected":false
 "verified":false
-"followers_count":31259
-"friends_count":2221
-"listed_count":181
-"favourites_count":29253
-"statuses_count":122179
-"created_at":"Mon Jun 06 14:17:52 +0000 2011"
-"utc_offset":-18000
-"time_zone":"Central Time (US & Canada)"
+"followers_count":2875
+"friends_count":1989
+"listed_count":4
+"favourites_count":60
+"statuses_count":2107
+"created_at":"Tue Jul 24 03:37:08 +0000 2012"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
 "geo_enabled":true
 "lang":"es"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"0084B4"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/542105299805409280/RNdPyjKM.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/542105299805409280/RNdPyjKM.png"
-"profile_background_tile":true
-"profile_link_color":"00ADEF"
+"profile_background_color":"000000"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"7493F2"
 "profile_sidebar_border_color":"000000"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/576623391416844288/LbYnNZvv_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/576623391416844288/LbYnNZvv_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/312053815/1423259326"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/552921428425969664/3OLLOBt-_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/552921428425969664/3OLLOBt-_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/713616031/1384363027"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -52,20 +51,87 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":0
-"favorite_count":0
+"retweeted_status":{"created_at":"Mon Mar 30 15:40:10 +0000 2015"
+"id":582568004585656300
+"id_str":"582568004585656320"
+"text":"Si siguieran mis pasos verían que ya estoy a millas."
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2728064313
+"id_str":"2728064313"
+"name":"★ RAP ★"
+"screen_name":"KassEnRap"
+"location":"Águilas (Murcia)"
+"url":"http://Instagram.com/unputomiguel"
+"description":"★TROYANOS JUNIOR★ Llamame egoista
+ lo quiero todo."
+"protected":false
+"verified":false
+"followers_count":47213
+"friends_count":1588
+"listed_count":44
+"favourites_count":1129
+"statuses_count":25173
+"created_at":"Tue Jul 29 11:44:23 +0000 2014"
+"utc_offset":7200
+"time_zone":"Ljubljana"
+"geo_enabled":true
+"lang":"es"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"131516"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme14/bg.gif"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme14/bg.gif"
+"profile_background_tile":true
+"profile_link_color":"009999"
+"profile_sidebar_border_color":"EEEEEE"
+"profile_sidebar_fill_color":"EFEFEF"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/580351436921376768/3FWi5zho_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/580351436921376768/3FWi5zho_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2728064313/1426174198"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":300
+"favorite_count":326
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"http://t.co/1Yw9s5pEbQ"
-"expanded_url":"http://labestia.com/partidosenvivo"
-"display_url":"labestia.com/partidosenvivo"
-"indices":[75
-97]}]
+"urls":[]
 "user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
+"lang":"es"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"KassEnRap"
+"name":"★ RAP ★"
+"id":2728064313
+"id_str":"2728064313"
+"indices":[3
+13]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
 "lang":"es"
-"timestamp_ms":"1430330634661"}
+"timestamp_ms":"1430334125664"}

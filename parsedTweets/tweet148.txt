@@ -1,48 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
-"id":593475825317576700
-"id_str":"593475825317576705"
-"text":"やおご #ふぉっふぁっふぁっボボボぉぉっぉあｆほいほごoのねおｌなおばlじいおoヴぃんwっぽっぽmeひぃぃっぃ！！！！ほぉぉぉっぉぉぉお！！！！！！！ #ふぉっふぁっふぁっボボボぉぉっぉあｆほいほごoのねおｌなおばlじいおoヴぃんwっぽっぽmeひぃぃっぃ"
-"source":"<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>"
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463438610400
+"id_str":"593490463438610432"
+"text":"Be brave. Believe in yourself. Do what feels good. Take risks. You have this one life. Make yourself proud. -Unknown"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":548549981
-"id_str":"548549981"
-"name":"やおご_bot"
-"screen_name":"yogyogyogyog"
-"location":"ひぃぃいぃっぃいアアアアアアアアアアアアア"
-"url":"http://yogyogyogyog.syoyu.net/"
-"description":"んっぐっぐご！！おんおん！！！！！おんおんおん！！！！！！！！！！ひぃぃぃぃい・・・・・・・・・@yog_bot_final @yog_kisei_botぴーーーーーーーーーーーーーーーーーん！！！！！ギ！！！！ヅ！！！！イッッッッッッッッッッ！！！！！！！！！"
+"user":{"id":3081904377
+"id_str":"3081904377"
+"name":"Tweet Giveaways"
+"screen_name":"LottoPrize52202"
+"location":""
+"url":"http://bit.ly/1HhQEmX"
+"description":"Have an access code? Click the bitly link below:"
 "protected":false
 "verified":false
-"followers_count":1644
-"friends_count":1673
-"listed_count":72
-"favourites_count":6649
-"statuses_count":89501
-"created_at":"Sun Apr 08 16:37:50 +0000 2012"
-"utc_offset":32400
-"time_zone":"Osaka"
+"followers_count":0
+"friends_count":0
+"listed_count":0
+"favourites_count":0
+"statuses_count":475
+"created_at":"Mon Mar 09 16:46:57 +0000 2015"
+"utc_offset":-39600
+"time_zone":"International Date Line West"
 "geo_enabled":false
-"lang":"ja"
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/573490011/phx9rbhknxdkik9ws4b5.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/573490011/phx9rbhknxdkik9ws4b5.png"
-"profile_background_tile":true
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
 "profile_link_color":"0084B4"
 "profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/2067870882/azusaaaa_normal.gif"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/2067870882/azusaaaa_normal.gif"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/548549981/1357240974"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/584593628506427392/LtYPuPIG_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/584593628506427392/LtYPuPIG_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/3081904377/1428212960"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -53,12 +53,7 @@
 "contributors":null
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[{"text":"ふぉっふぁっふぁっボボボぉぉっぉあｆほいほごoのねおｌなおばlじいおoヴぃんwっぽっぽmeひぃぃっぃ"
-"indices":[4
-55]}
-{"text":"ふぉっふぁっふぁっボボボぉぉっぉあｆほいほごoのねおｌなおばlじいおoヴぃんwっぽっぽmeひぃぃっぃ"
-"indices":[76
-127]}]
+"entities":{"hashtags":[]
 "trends":[]
 "urls":[]
 "user_mentions":[]
@@ -67,5 +62,5 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"ja"
-"timestamp_ms":"1430330637660"}
+"lang":"en"
+"timestamp_ms":"1430334127660"}

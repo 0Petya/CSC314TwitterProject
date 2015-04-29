@@ -1,48 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
-"id":593475825313407000
-"id_str":"593475825313406976"
-"text":"الرعب المميت ...\nhttp://t.co/sN3GxlrLzD\n#الاحمدي_لايف\n3529 http://t.co/G4P0623uqZ"
-"source":"<a href=\"http://yaladay.com\" rel=\"nofollow\">تطبي السكريبت</a>"
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463426015200
+"id_str":"593490463426015234"
+"text":"@Sanntrell she love you! 😂"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1695037856
-"id_str":"1695037856"
-"name":"سها محمد"
-"screen_name":"FinnianHeyball"
-"location":"Governador Valadares"
+"in_reply_to_status_id":593488601670885400
+"in_reply_to_status_id_str":"593488601670885376"
+"in_reply_to_user_id":2599660922
+"in_reply_to_user_id_str":"2599660922"
+"in_reply_to_screen_name":"Sanntrell"
+"user":{"id":1477765086
+"id_str":"1477765086"
+"name":"July.17 (☀️❤️)"
+"screen_name":"miakansho"
+"location":"New Orleans!"
 "url":null
-"description":"Lua deitada
- marinheiro de pé"
+"description":"Peyton's❤️"
 "protected":false
 "verified":false
-"followers_count":1
-"friends_count":0
-"listed_count":0
-"favourites_count":0
-"statuses_count":759
-"created_at":"Fri Aug 23 23:27:00 +0000 2013"
-"utc_offset":null
-"time_zone":null
+"followers_count":2375
+"friends_count":2308
+"listed_count":8
+"favourites_count":3456
+"statuses_count":64220
+"created_at":"Sun Jun 02 17:25:25 +0000 2013"
+"utc_offset":-18000
+"time_zone":"Central Time (US & Canada)"
 "geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"DBE9ED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme17/bg.gif"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme17/bg.gif"
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"CC3366"
-"profile_sidebar_border_color":"DBE9ED"
-"profile_sidebar_fill_color":"E6F6F9"
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/378800000466227894/21ad28964d73c730a2e4b372b0bd4db1_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000466227894/21ad28964d73c730a2e4b372b0bd4db1_normal.jpeg"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/592537705931624449/9DDo8Xfg_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592537705931624449/9DDo8Xfg_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1477765086/1429420546"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -53,64 +53,19 @@
 "contributors":null
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[{"text":"الاحمدي_لايف"
-"indices":[40
-53]}]
+"entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"http://t.co/sN3GxlrLzD"
-"expanded_url":"http://goo.gl/H2PQ0Q"
-"display_url":"goo.gl/H2PQ0Q"
-"indices":[17
-39]}]
-"user_mentions":[]
-"symbols":[]
-"media":[{"id":593475825191747600
-"id_str":"593475825191747584"
-"indices":[59
-81]
-"media_url":"http://pbs.twimg.com/media/CDxzHl9WAAAEKsD.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDxzHl9WAAAEKsD.jpg"
-"url":"http://t.co/G4P0623uqZ"
-"display_url":"pic.twitter.com/G4P0623uqZ"
-"expanded_url":"http://twitter.com/FinnianHeyball/status/593475825313406976/photo/1"
-"type":"photo"
-"sizes":{"large":{"w":476
-"h":296
-"resize":"fit"}
-"medium":{"w":476
-"h":296
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":210
-"resize":"fit"}}}]}
-"extended_entities":{"media":[{"id":593475825191747600
-"id_str":"593475825191747584"
-"indices":[59
-81]
-"media_url":"http://pbs.twimg.com/media/CDxzHl9WAAAEKsD.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDxzHl9WAAAEKsD.jpg"
-"url":"http://t.co/G4P0623uqZ"
-"display_url":"pic.twitter.com/G4P0623uqZ"
-"expanded_url":"http://twitter.com/FinnianHeyball/status/593475825313406976/photo/1"
-"type":"photo"
-"sizes":{"large":{"w":476
-"h":296
-"resize":"fit"}
-"medium":{"w":476
-"h":296
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":210
-"resize":"fit"}}}]}
+"urls":[]
+"user_mentions":[{"screen_name":"Sanntrell"
+"name":"sc: svnntrell"
+"id":2599660922
+"id_str":"2599660922"
+"indices":[0
+10]}]
+"symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"ar"
-"timestamp_ms":"1430330637659"}
+"lang":"en"
+"timestamp_ms":"1430334127657"}

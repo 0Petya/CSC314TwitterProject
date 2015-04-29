@@ -1,48 +1,47 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812743114800
-"id_str":"593475812743114753"
-"text":"@OTYOfficial You Having Fun Jamming In The Car? 😂 x"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:04 +0000 2015"
+"id":593490450872410100
+"id_str":"593490450872410113"
+"text":"@hatano_kokoro1 …どうしたの？"
+"source":"<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":878418000
-"in_reply_to_user_id_str":"878418000"
-"in_reply_to_screen_name":"OTYOfficial"
-"user":{"id":1572312102
-"id_str":"1572312102"
-"name":"Charlie_Graceffa"
-"screen_name":"Charlie_MyOTY"
-"location":""
-"url":null
-"description":"OTY Retweeted 1/1/15 OTY Followed 16/1/15 Met OTY 4/2/15 Tweeted By Joey Graceffa 9/2/15 Joey Graceffa Retweeted 24/3/15 OTY Show 11/4/15 OTY Retweeted 11/4/15"
+"in_reply_to_status_id":593488519718445000
+"in_reply_to_status_id_str":"593488519718445056"
+"in_reply_to_user_id":1939964540
+"in_reply_to_user_id_str":"1939964540"
+"in_reply_to_screen_name":"hatano_kokoro1"
+"user":{"id":1698415004
+"id_str":"1698415004"
+"name":"村紗水蜜"
+"screen_name":"murasa_bot"
+"location":"命蓮寺"
+"url":"http://twpf.jp/murasa_bot"
+"description":"東方星蓮船４面ボス。非公式botです！何かあったらDM送ってくださいね～"
 "protected":false
 "verified":false
-"followers_count":330
-"friends_count":69
-"listed_count":1
-"favourites_count":1364
-"statuses_count":2777
-"created_at":"Sat Jul 06 08:54:39 +0000 2013"
-"utc_offset":3600
-"time_zone":"Dublin"
-"geo_enabled":true
-"lang":"en"
+"followers_count":2085
+"friends_count":2055
+"listed_count":19
+"favourites_count":2
+"statuses_count":62073
+"created_at":"Sun Aug 25 07:07:28 +0000 2013"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"ja"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"000000"
+"profile_background_color":"C0DEED"
 "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"9266CC"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"000000"
-"profile_text_color":"000000"
-"profile_use_background_image":false
-"profile_image_url":"http://pbs.twimg.com/profile_images/592747425972015105/DDMJ7zV__normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/592747425972015105/DDMJ7zV__normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1572312102/1430256997"
-"default_profile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/378800000355949745/65da30108d7bfaecaaeef7b04a7144e5_normal.png"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/378800000355949745/65da30108d7bfaecaaeef7b04a7144e5_normal.png"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -56,16 +55,16 @@
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"OTYOfficial"
-"name":"Only The Young"
-"id":878418000
-"id_str":"878418000"
+"user_mentions":[{"screen_name":"hatano_kokoro1"
+"name":"秦こころ"
+"id":1939964540
+"id_str":"1939964540"
 "indices":[0
-12]}]
+15]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430330634662"}
+"lang":"ja"
+"timestamp_ms":"1430334124664"}

@@ -1,31 +1,31 @@
-{"created_at":"Wed Apr 29 18:03:57 +0000 2015"
-"id":593475825309188100
-"id_str":"593475825309188097"
-"text":"Dixons Carphone unveils Wednesbury shutdown plan http://t.co/UiZNF05G3D"
-"source":"<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>"
+{"created_at":"Wed Apr 29 19:02:07 +0000 2015"
+"id":593490463451193300
+"id_str":"593490463451193346"
+"text":"@OblongWalrus @ZBo50_Drell what video is this"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":2834883539
-"id_str":"2834883539"
-"name":"Links Birmingham"
-"screen_name":"LinksBirmingham"
+"in_reply_to_status_id":593488769749274600
+"in_reply_to_status_id_str":"593488769749274624"
+"in_reply_to_user_id":3131598320
+"in_reply_to_user_id_str":"3131598320"
+"in_reply_to_screen_name":"OblongWalrus"
+"user":{"id":2863356729
+"id_str":"2863356729"
+"name":"⠀⠀⠀             TGOD"
+"screen_name":"ItsStellato"
 "location":""
-"url":"https://www.facebook.com/profile.php?id=100008460421715"
-"description":"Birmingham News and Business Links .http://www.vivastreet.co.uk/profile/pro/links-birmingham/28342190"
+"url":"http://soundcloud.com/itsstellato/coco-freestyle-4"
+"description":"TGOD 09 || @NiykeeHeaton is my wife❤️ Followed by @therealRickyP"
 "protected":false
 "verified":false
-"followers_count":72
-"friends_count":172
-"listed_count":11
-"favourites_count":5
-"statuses_count":2449
-"created_at":"Fri Oct 17 09:51:09 +0000 2014"
-"utc_offset":null
-"time_zone":null
+"followers_count":849
+"friends_count":1091
+"listed_count":0
+"favourites_count":1404
+"statuses_count":1503
+"created_at":"Wed Nov 05 22:44:50 +0000 2014"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
 "geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
@@ -39,9 +39,9 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/527609585947783168/QcamsZA4_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/527609585947783168/QcamsZA4_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2834883539/1414627116"
+"profile_image_url":"http://pbs.twimg.com/profile_images/593230375373115392/ubse1vD1_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/593230375373115392/ubse1vD1_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2863356729/1429837994"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -55,16 +55,23 @@
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"http://t.co/UiZNF05G3D"
-"expanded_url":"http://ift.tt/1GFYMP5"
-"display_url":"ift.tt/1GFYMP5"
-"indices":[49
-71]}]
-"user_mentions":[]
+"urls":[]
+"user_mentions":[{"screen_name":"OblongWalrus"
+"name":"A$VP Eyb0ss"
+"id":3131598320
+"id_str":"3131598320"
+"indices":[0
+13]}
+{"screen_name":"ZBo50_Drell"
+"name":"A$VP A1 $AVCE GOD"
+"id":236232730
+"id_str":"236232730"
+"indices":[14
+26]}]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"en"
-"timestamp_ms":"1430330637658"}
+"timestamp_ms":"1430334127663"}

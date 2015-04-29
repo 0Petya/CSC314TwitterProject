@@ -1,48 +1,101 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821114957800
-"id_str":"593475821114957824"
-"text":"@BOSSIMILANIST @GiovanniResta7 Figurati io che ho l’inno della Champions come sveglia
- immagino scene da lacrime"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459256877000
+"id_str":"593490459256877057"
+"text":"RT @SouNamaste: Não é tristeza não. Às vezes é assim mesmo: a gente não acorda legal e só espera o dia passar."
 "source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
 "truncated":false
-"in_reply_to_status_id":593475691871612900
-"in_reply_to_status_id_str":"593475691871612930"
-"in_reply_to_user_id":1950079004
-"in_reply_to_user_id_str":"1950079004"
-"in_reply_to_screen_name":"BOSSIMILANIST"
-"user":{"id":188482319
-"id_str":"188482319"
-"name":"TheRub"
-"screen_name":"TheRub14"
-"location":"Milano-Italy"
-"url":"http://www.xn--kilpincaf-83a.it/"
-"description":"#Casciavit #Cholista #ardaturanista || #IULM University student || i write for @MilanoTricolore & @KilpinC || in Love with @acmilan and #NataliePortman"
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2542065871
+"id_str":"2542065871"
+"name":"Paz e Amor"
+"screen_name":"vibealizamos"
+"location":""
+"url":null
+"description":"✉ Interesses Publicitários: twitterpublicidades@outlook.com"
 "protected":false
 "verified":false
-"followers_count":854
-"friends_count":1515
-"listed_count":8
-"favourites_count":14286
-"statuses_count":32736
-"created_at":"Wed Sep 08 20:58:45 +0000 2010"
-"utc_offset":-7200
-"time_zone":"Greenland"
-"geo_enabled":true
-"lang":"it"
+"followers_count":23144
+"friends_count":19408
+"listed_count":3
+"favourites_count":696
+"statuses_count":251635
+"created_at":"Mon Jun 02 19:39:44 +0000 2014"
+"utc_offset":-10800
+"time_zone":"Brasilia"
+"geo_enabled":false
+"lang":"pt"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/585188386178109441/Aed8KaDY.jpg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/585188386178109441/Aed8KaDY.jpg"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"E74250"
-"profile_sidebar_border_color":"000000"
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/591574736309727233/ABwAArxy_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/591574736309727233/ABwAArxy_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/188482319/1428357494"
+"profile_image_url":"http://pbs.twimg.com/profile_images/534517796399349760/BCOl4XQT_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/534517796399349760/BCOl4XQT_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2542065871/1416276736"
+"default_profile":true
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweeted_status":{"created_at":"Sun Feb 22 11:52:10 +0000 2015"
+"id":569464664435908600
+"id_str":"569464664435908608"
+"text":"Não é tristeza não. Às vezes é assim mesmo: a gente não acorda legal e só espera o dia passar."
+"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":2557132465
+"id_str":"2557132465"
+"name":"Namastê ☮"
+"screen_name":"SouNamaste"
+"location":"027"
+"url":"http://instagram.com/adamschmidel"
+"description":"O amor é legalizado
+ porque vocês não usam? // @adamschmidel"
+"protected":false
+"verified":false
+"followers_count":122139
+"friends_count":116681
+"listed_count":24
+"favourites_count":24
+"statuses_count":209
+"created_at":"Mon Jun 09 16:09:59 +0000 2014"
+"utc_offset":-10800
+"time_zone":"Brasilia"
+"geo_enabled":false
+"lang":"pt"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"FA743E"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/562236427547582464/-trIgUJe_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/562236427547582464/-trIgUJe_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2557132465/1422882617"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -52,27 +105,33 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":0
-"favorite_count":0
+"retweet_count":904
+"favorite_count":326
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"BOSSIMILANIST"
-"name":"BOSSI MILANIST"
-"id":1950079004
-"id_str":"1950079004"
-"indices":[0
-14]}
-{"screen_name":"GiovanniResta7"
-"name":"Giovanni Resta"
-"id":246795363
-"id_str":"246795363"
-"indices":[15
-30]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"it"
-"timestamp_ms":"1430330636658"}
+"lang":"pt"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"SouNamaste"
+"name":"Namastê ☮"
+"id":2557132465
+"id_str":"2557132465"
+"indices":[3
+14]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":true
+"filter_level":"low"
+"lang":"pt"
+"timestamp_ms":"1430334126663"}

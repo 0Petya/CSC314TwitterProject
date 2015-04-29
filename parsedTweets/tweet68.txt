@@ -1,49 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816924827600
-"id_str":"593475816924827649"
-"text":"tirei 10 na prova de estatística
- aaaaaah &lt;3 hj vou saber a nota de ACP"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455045759000
+"id_str":"593490455045758977"
+"text":"آللہُم لٱ تدّعَ لنْآ ذنّبآ إلٱ غفّرتہ • • وَلآ همّاً إلٱ فرّجتَہ\n#غرد_لي_بالخير\nhttp://t.co/dYfxtLHP4M"
+"source":"<a href=\"http://twitlamp.com/\" rel=\"nofollow\">GroupinApp</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":55847679
-"id_str":"55847679"
-"name":"bianco"
-"screen_name":"_icarobianco"
-"location":"manaus-brasil"
-"url":"http://instagram.com/_icarobianco"
-"description":"TPR | Evanescence | PATD | Britney Spears. ♡"
+"user":{"id":511729371
+"id_str":"511729371"
+"name":"عبدالسلام الجميل"
+"screen_name":"aborahaf29"
+"location":""
+"url":null
+"description":"الحمد لله الذي بنعمته تتم الصالحات  ...."
 "protected":false
 "verified":false
-"followers_count":1733
-"friends_count":1342
-"listed_count":3
-"favourites_count":3531
-"statuses_count":69867
-"created_at":"Sat Jul 11 14:58:36 +0000 2009"
-"utc_offset":-10800
-"time_zone":"Brasilia"
+"followers_count":1108
+"friends_count":1997
+"listed_count":0
+"favourites_count":285
+"statuses_count":33427
+"created_at":"Fri Mar 02 10:41:44 +0000 2012"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":true
-"lang":"pt"
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"4ABA98"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000181517373/-fjQmFQD.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000181517373/-fjQmFQD.jpeg"
-"profile_background_tile":true
-"profile_link_color":"DD2E44"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"FEA187"
-"profile_text_color":"FF7F78"
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/589498052089610240/w0D3wSlu_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/589498052089610240/w0D3wSlu_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/55847679/1425228334"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/581783251292835840/StB5PqWl_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/581783251292835840/StB5PqWl_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/511729371/1348826661"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -54,14 +53,20 @@
 "contributors":null
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"غرد_لي_بالخير"
+"indices":[65
+79]}]
 "trends":[]
-"urls":[]
+"urls":[{"url":"http://t.co/dYfxtLHP4M"
+"expanded_url":"http://twitlamp.com/groupin"
+"display_url":"twitlamp.com/groupin"
+"indices":[80
+102]}]
 "user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"pt"
-"timestamp_ms":"1430330635659"}
+"lang":"ar"
+"timestamp_ms":"1430334125659"}

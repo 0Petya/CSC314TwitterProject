@@ -1,102 +1,47 @@
-{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
-"id":592753348085964800
-"id_str":"592753348085964802"
-"text":"RT @Eric_582: RT Je hoort het de heren bijna hardop zeggen................ \"...Ook dat nog...\"  https://t.co/IJqOadl4oj http://t.co/SMqZvK8…"
-"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
+{"created_at":"Wed Apr 29 19:02:09 +0000 2015"
+"id":593490471823003600
+"id_str":"593490471823003648"
+"text":"RT @RaisedRight14: @stargatedude @emiily99 @ClassySnobbb YES!!! #goals!!!! Is he a lib?"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":121580638
-"id_str":"121580638"
-"name":"@Diekalemetdiebril"
-"screen_name":"Friezerik"
-"location":""
+"user":{"id":550581242
+"id_str":"550581242"
+"name":"Em Narel"
+"screen_name":"emiily99"
+"location":"Fionbethan of Lochlainn"
 "url":null
-"description":"Tweet veel maar verder vrij weinig te melden
- Met @beetjeobsessief. Klaagt tenminste focus volgens de geleerden. Trying to hold steady on the righteous path"
+"description":"God first ~ Passionately Catholic ~ Conservative ~ GOP ~ Pro-life with all of my heart ~ #RandPaul2016 ~ Auburn High '17"
 "protected":false
 "verified":false
-"followers_count":2386
-"friends_count":2428
-"listed_count":34
-"favourites_count":2293
-"statuses_count":92964
-"created_at":"Tue Mar 09 23:31:43 +0000 2010"
-"utc_offset":7200
-"time_zone":"Amsterdam"
-"geo_enabled":true
-"lang":"nl"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/550749562231468035/UMzP38IX_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/550749562231468035/UMzP38IX_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/121580638/1376313069"
-"default_profile":true
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Mon Apr 27 18:11:52 +0000 2015"
-"id":592753040723157000
-"id_str":"592753040723156992"
-"text":"RT Je hoort het de heren bijna hardop zeggen................ \"...Ook dat nog...\"  https://t.co/IJqOadl4oj http://t.co/SMqZvK85ef"
-"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":247271162
-"id_str":"247271162"
-"name":"Eric Marsman"
-"screen_name":"Eric_582"
-"location":""
-"url":null
-"description":"Ben soms serieus
- maar vaker soms niet. Zie de wereld door mijn eigen bril.         Zij (@BlankenburgHaus) wil weg bij mij."
-"protected":false
-"verified":false
-"followers_count":644
-"friends_count":604
-"listed_count":7
-"favourites_count":1143
-"statuses_count":45880
-"created_at":"Fri Feb 04 13:11:12 +0000 2011"
-"utc_offset":7200
-"time_zone":"Amsterdam"
+"followers_count":816
+"friends_count":675
+"listed_count":24
+"favourites_count":22178
+"statuses_count":30327
+"created_at":"Wed Apr 11 01:05:57 +0000 2012"
+"utc_offset":-25200
+"time_zone":"Arizona"
 "geo_enabled":true
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"002EB8"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000013008592/70ad22cd32bc37cf6914504867da6c07.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000013008592/70ad22cd32bc37cf6914504867da6c07.jpeg"
+"profile_background_color":"DBE9ED"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/791164485/c75451a60b418c8f5e101f5ab5565309.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/791164485/c75451a60b418c8f5e101f5ab5565309.jpeg"
 "profile_background_tile":true
-"profile_link_color":"112DBA"
+"profile_link_color":"CC3366"
 "profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"000000"
-"profile_text_color":"000000"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/574325250063646720/sCWfvsfj_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/574325250063646720/sCWfvsfj_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/247271162/1419111227"
+"profile_image_url":"http://pbs.twimg.com/profile_images/589481062327279617/V5N_pvk0_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/589481062327279617/V5N_pvk0_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/550581242/1426790123"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -106,133 +51,131 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":1
+"retweeted_status":{"created_at":"Wed Apr 29 18:59:31 +0000 2015"
+"id":593489807638134800
+"id_str":"593489807638134784"
+"text":"@stargatedude @emiily99 @ClassySnobbb YES!!! #goals!!!! Is he a lib?"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+"truncated":false
+"in_reply_to_status_id":593489660237709300
+"in_reply_to_status_id_str":"593489660237709313"
+"in_reply_to_user_id":187387276
+"in_reply_to_user_id_str":"187387276"
+"in_reply_to_screen_name":"stargatedude"
+"user":{"id":2899672532
+"id_str":"2899672532"
+"name":"Rachael"
+"screen_name":"RaisedRight14"
+"location":"music city america "
+"url":null
+"description":"Just a sassy conservative Catholic girl
+ lovin God
+ guns
+ family
+freedom
+ mini pigs
+ America and The Ohio state Buckeyes! proudly pro life and anti feminism"
+"protected":false
+"verified":false
+"followers_count":422
+"friends_count":546
+"listed_count":25
+"favourites_count":8593
+"statuses_count":8802
+"created_at":"Fri Nov 14 19:49:14 +0000 2014"
+"utc_offset":-18000
+"time_zone":"Central Time (US & Canada)"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"F5ABB5"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/588492335555547136/7z_GL1x1_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/588492335555547136/7z_GL1x1_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2899672532/1429142415"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":2
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"goals"
+"indices":[45
+51]}]
 "trends":[]
-"urls":[{"url":"https://t.co/IJqOadl4oj"
-"expanded_url":"https://twitter.com/Rili2013/status/592751563426418688"
-"display_url":"twitter.com/Rili2013/statu…"
-"indices":[82
-105]}]
-"user_mentions":[]
-"symbols":[]
-"media":[{"id":592752873445924900
-"id_str":"592752873445924867"
-"indices":[106
-128]
-"media_url":"http://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"url":"http://t.co/SMqZvK85ef"
-"display_url":"pic.twitter.com/SMqZvK85ef"
-"expanded_url":"http://twitter.com/Eric_582/status/592753040723156992/photo/1"
-"type":"photo"
-"sizes":{"medium":{"w":398
-"h":172
-"resize":"fit"}
-"large":{"w":398
-"h":172
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":146
-"resize":"fit"}}}]}
-"extended_entities":{"media":[{"id":592752873445924900
-"id_str":"592752873445924867"
-"indices":[106
-128]
-"media_url":"http://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"url":"http://t.co/SMqZvK85ef"
-"display_url":"pic.twitter.com/SMqZvK85ef"
-"expanded_url":"http://twitter.com/Eric_582/status/592753040723156992/photo/1"
-"type":"photo"
-"sizes":{"medium":{"w":398
-"h":172
-"resize":"fit"}
-"large":{"w":398
-"h":172
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":146
-"resize":"fit"}}}]}
+"urls":[]
+"user_mentions":[{"screen_name":"stargatedude"
+"name":"The King of Azalia"
+"id":187387276
+"id_str":"187387276"
+"indices":[0
+13]}
+{"screen_name":"emiily99"
+"name":"Em Narel"
+"id":550581242
+"id_str":"550581242"
+"indices":[14
+23]}
+{"screen_name":"ClassySnobbb"
+"name":"Republican Goddess™"
+"id":2499295284
+"id_str":"2499295284"
+"indices":[24
+37]}]
+"symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"nl"}
+"lang":"en"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"goals"
+"indices":[64
+70]}]
 "trends":[]
-"urls":[{"url":"https://t.co/IJqOadl4oj"
-"expanded_url":"https://twitter.com/Rili2013/status/592751563426418688"
-"display_url":"twitter.com/Rili2013/statu…"
-"indices":[96
-119]}]
-"user_mentions":[{"screen_name":"Eric_582"
-"name":"Eric Marsman"
-"id":247271162
-"id_str":"247271162"
+"urls":[]
+"user_mentions":[{"screen_name":"RaisedRight14"
+"name":"Rachael"
+"id":2899672532
+"id_str":"2899672532"
 "indices":[3
-12]}]
-"symbols":[]
-"media":[{"id":592752873445924900
-"id_str":"592752873445924867"
-"indices":[120
-140]
-"media_url":"http://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"url":"http://t.co/SMqZvK85ef"
-"display_url":"pic.twitter.com/SMqZvK85ef"
-"expanded_url":"http://twitter.com/Eric_582/status/592753040723156992/photo/1"
-"type":"photo"
-"sizes":{"medium":{"w":398
-"h":172
-"resize":"fit"}
-"large":{"w":398
-"h":172
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":146
-"resize":"fit"}}
-"source_status_id":592753040723157000
-"source_status_id_str":"592753040723156992"}]}
-"extended_entities":{"media":[{"id":592752873445924900
-"id_str":"592752873445924867"
-"indices":[120
-140]
-"media_url":"http://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CDnhmQ1WIAMsOqK.jpg"
-"url":"http://t.co/SMqZvK85ef"
-"display_url":"pic.twitter.com/SMqZvK85ef"
-"expanded_url":"http://twitter.com/Eric_582/status/592753040723156992/photo/1"
-"type":"photo"
-"sizes":{"medium":{"w":398
-"h":172
-"resize":"fit"}
-"large":{"w":398
-"h":172
-"resize":"fit"}
-"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":146
-"resize":"fit"}}
-"source_status_id":592753040723157000
-"source_status_id_str":"592753040723156992"}]}
+17]}
+{"screen_name":"stargatedude"
+"name":"The King of Azalia"
+"id":187387276
+"id_str":"187387276"
+"indices":[19
+32]}
+{"screen_name":"emiily99"
+"name":"Em Narel"
+"id":550581242
+"id_str":"550581242"
+"indices":[33
+42]}
+{"screen_name":"ClassySnobbb"
+"name":"Republican Goddess™"
+"id":2499295284
+"id_str":"2499295284"
+"indices":[43
+56]}]
+"symbols":[]}
 "favorited":false
 "retweeted":false
-"possibly_sensitive":true
+"possibly_sensitive":false
 "filter_level":"low"
-"lang":"nl"
-"timestamp_ms":"1430158385665"}
+"lang":"en"
+"timestamp_ms":"1430334129659"}

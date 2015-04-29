@@ -1,47 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:54 +0000 2015"
-"id":593475812734726100
-"id_str":"593475812734726144"
-"text":"🏡👔😻"
-"source":"<a href=\"http://luckparadisemix.com\" rel=\"nofollow\">Stars paradise</a>"
+{"created_at":"Wed Apr 29 19:02:05 +0000 2015"
+"id":593490455066738700
+"id_str":"593490455066738689"
+"text":"Nigel Farrage.... Shut your face babycakes"
+"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2849953634
-"id_str":"2849953634"
-"name":"Strasser\tTammy"
-"screen_name":"StrasserATammy"
-"location":""
+"user":{"id":1713810145
+"id_str":"1713810145"
+"name":"Iesha Sugden"
+"screen_name":"DSugden1"
+"location":"Guernsey • UK"
 "url":null
-"description":null
+"description":"Conservatives"
 "protected":false
 "verified":false
-"followers_count":2
-"friends_count":0
-"listed_count":2
-"favourites_count":0
-"statuses_count":277
-"created_at":"Fri Oct 10 08:37:13 +0000 2014"
+"followers_count":214
+"friends_count":467
+"listed_count":5
+"favourites_count":6300
+"statuses_count":2306
+"created_at":"Fri Aug 30 21:33:16 +0000 2013"
 "utc_offset":null
 "time_zone":null
-"geo_enabled":false
+"geo_enabled":true
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"C0DEED"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000123980975/5f8a385897b97122601df32c5d083fca.png"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000123980975/5f8a385897b97122601df32c5d083fca.png"
+"profile_background_tile":true
+"profile_link_color":"0074B3"
+"profile_sidebar_border_color":"FFFFFF"
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/520493421572530178/x59hIW4k_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/520493421572530178/x59hIW4k_normal.jpeg"
-"default_profile":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/582292787309232129/92I7eDHO_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/582292787309232129/92I7eDHO_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1713810145/1426838660"
+"default_profile":false
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -61,5 +62,5 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"und"
-"timestamp_ms":"1430330634660"}
+"lang":"en"
+"timestamp_ms":"1430334125664"}

@@ -1,93 +1,65 @@
-{"created_at":"Mon Apr 27 18:13:05 +0000 2015"
-"id":592753348077604900
-"id_str":"592753348077604864"
-"text":"@ferodrigueslipe QUE"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Wed Apr 29 19:02:09 +0000 2015"
+"id":593490471827148800
+"id_str":"593490471827148801"
+"text":"相互フォロー募集中です。テニス系を好きな人大募集です！フォロー待ってます！"
+"source":"<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>"
 "truncated":false
-"in_reply_to_status_id":592753163247218700
-"in_reply_to_status_id_str":"592753163247218688"
-"in_reply_to_user_id":172918879
-"in_reply_to_user_id_str":"172918879"
-"in_reply_to_screen_name":"ferodrigueslipe"
-"user":{"id":55053035
-"id_str":"55053035"
-"name":"Juninho Bill"
-"screen_name":"JuninhoClemente"
-"location":" Espírito Santo "
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":3176598498
+"id_str":"3176598498"
+"name":"前田 由美子"
+"screen_name":"zdz0dkvm"
+"location":""
 "url":null
-"description":"Antes de me seguir
- leia a bula."
+"description":null
 "protected":false
 "verified":false
-"followers_count":10678
-"friends_count":1232
-"listed_count":715
-"favourites_count":24172
-"statuses_count":134950
-"created_at":"Wed Jul 08 22:33:06 +0000 2009"
-"utc_offset":-10800
-"time_zone":"Brasilia"
-"geo_enabled":true
-"lang":"pt"
+"followers_count":2
+"friends_count":0
+"listed_count":0
+"favourites_count":0
+"statuses_count":101
+"created_at":"Sun Apr 26 13:40:35 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"ja"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"CACACC"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/700974834/2223b91c4a1d2f05513080b2f2e05e3e.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/700974834/2223b91c4a1d2f05513080b2f2e05e3e.jpeg"
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"148F72"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"E1EBDD"
-"profile_text_color":"252922"
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/589959150861492225/FNTYZOez_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/589959150861492225/FNTYZOez_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/55053035/1415537566"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/592322688229576707/Z9NIaqxM_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592322688229576707/Z9NIaqxM_normal.jpg"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
 "notifications":null}
-"geo":{"type":"Point"
-"coordinates":[-15.840993
--48.051238]}
-"coordinates":{"type":"Point"
-"coordinates":[-48.051238
--15.840993]}
-"place":{"id":"5722ff20ba67083b"
-"url":"https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json"
-"place_type":"city"
-"name":"Brasília"
-"full_name":"Brasília
- Distrito Federal"
-"country_code":"BR"
-"country":"Brasil"
-"bounding_box":{"type":"Polygon"
-"coordinates":[[[-48.285982
--16.0524045]
-[-48.285982
--15.5001029]
-[-47.307264
--15.5001029]
-[-47.307264
--16.0524045]]]}
-"attributes":{}}
+"geo":null
+"coordinates":null
+"place":null
 "contributors":null
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
-"user_mentions":[{"screen_name":"ferodrigueslipe"
-"name":"QUERO FÉRIAS!"
-"id":172918879
-"id_str":"172918879"
-"indices":[0
-16]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"und"
-"timestamp_ms":"1430158385663"}
+"lang":"ja"
+"timestamp_ms":"1430334129660"}

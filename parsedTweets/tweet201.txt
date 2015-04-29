@@ -1,35 +1,33 @@
-{"created_at":"Mon Apr 27 19:15:49 +0000 2015"
-"id":592769135412703200
-"id_str":"592769135412703233"
-"text":"Espaces et échanges c'est la pire notion qui soit !"
-"source":"<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>"
+{"created_at":"Wed Apr 29 19:02:08 +0000 2015"
+"id":593490467637047300
+"id_str":"593490467637047296"
+"text":"RT @kobieeta: #exclusive rajstopy - :) http://t.co/DjXi1sJzHI"
+"source":"<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":2227285715
-"id_str":"2227285715"
-"name":"Sperare"
-"screen_name":"ValentineCrto"
-"location":"France"
+"user":{"id":3159824675
+"id_str":"3159824675"
+"name":"Melea Boright"
+"screen_name":"JcorchaMelea"
+"location":""
 "url":null
-"description":"Souviens toi qu't'es pas tout seul
- jamais. On est tellement nombreux à être un peu bancale
- un peu bizzare et dans nos têtes y'a un blizzard. Fauve ≠"
+"description":null
 "protected":false
 "verified":false
-"followers_count":99
-"friends_count":77
-"listed_count":1
-"favourites_count":2960
-"statuses_count":13666
-"created_at":"Sun Dec 15 16:20:36 +0000 2013"
-"utc_offset":7200
-"time_zone":"Amsterdam"
-"geo_enabled":true
-"lang":"fr"
+"followers_count":0
+"friends_count":86
+"listed_count":0
+"favourites_count":1
+"statuses_count":14
+"created_at":"Sun Apr 12 13:43:55 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"C0DEED"
@@ -41,9 +39,8 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/577154045787402240/CLVfm0ax_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/577154045787402240/CLVfm0ax_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/2227285715/1426433005"
+"profile_image_url":"http://pbs.twimg.com/profile_images/587254951329591296/2XWHQb-o_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/587254951329591296/2XWHQb-o_normal.jpg"
 "default_profile":true
 "default_profile_image":false
 "following":null
@@ -53,16 +50,97 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":0
-"favorite_count":0
-"entities":{"hashtags":[]
+"retweeted_status":{"created_at":"Mon Apr 27 12:08:54 +0000 2015"
+"id":592661696503767000
+"id_str":"592661696503767042"
+"text":"#exclusive rajstopy - :) http://t.co/DjXi1sJzHI"
+"source":"<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":402714577
+"id_str":"402714577"
+"name":"kobieta"
+"screen_name":"kobieeta"
+"location":""
+"url":"https://www.facebook.com/pages/Kobietapl/146692752043398"
+"description":null
+"protected":false
+"verified":false
+"followers_count":235
+"friends_count":45
+"listed_count":0
+"favourites_count":3
+"statuses_count":491
+"created_at":"Tue Nov 01 13:34:59 +0000 2011"
+"utc_offset":7200
+"time_zone":"Amsterdam"
+"geo_enabled":false
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"8B542B"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme8/bg.gif"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme8/bg.gif"
+"profile_background_tile":false
+"profile_link_color":"9D582E"
+"profile_sidebar_border_color":"D9B17E"
+"profile_sidebar_fill_color":"EADEAA"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/1617157898/1a_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/1617157898/1a_normal.jpg"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":14642
+"favorite_count":1
+"entities":{"hashtags":[{"text":"exclusive"
+"indices":[0
+10]}]
 "trends":[]
-"urls":[]
+"urls":[{"url":"http://t.co/DjXi1sJzHI"
+"expanded_url":"http://fb.me/1AlRXBVWL"
+"display_url":"fb.me/1AlRXBVWL"
+"indices":[25
+47]}]
 "user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"fr"
-"timestamp_ms":"1430162149657"}
+"lang":"sk"}
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"exclusive"
+"indices":[14
+24]}]
+"trends":[]
+"urls":[{"url":"http://t.co/DjXi1sJzHI"
+"expanded_url":"http://fb.me/1AlRXBVWL"
+"display_url":"fb.me/1AlRXBVWL"
+"indices":[39
+61]}]
+"user_mentions":[{"screen_name":"kobieeta"
+"name":"kobieta"
+"id":402714577
+"id_str":"402714577"
+"indices":[3
+12]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"sk"
+"timestamp_ms":"1430334128661"}

@@ -1,54 +1,48 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821148500000
-"id_str":"593475821148499968"
-"text":"RT @James_Yammouni: Definitely bio worthy @jccaylen 💆"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459265212400
+"id_str":"593490459265212417"
+"text":"(وإن للذين ظلموا عذابا دون ذلك ولكن أكثرهم لا يعلمون) [الطور:47] http://t.co/JMwg1quwM0"
+"source":"<a href=\"http://qurani.tv\" rel=\"nofollow\">تطبيق قرآني</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":275090555
-"id_str":"275090555"
-"name":"was @calxgaskarth"
-"screen_name":"cthslaugh"
-"location":"ॐohav;israel;rowyso16.5ॐ"
-"url":"https://twitter.com/thetidenate/statuses/573900503962230784"
-"description":"⠀⠀5sos
- atl
- janoskians
- pewdiepie
- the tide ⠀⠀⠀⠀⠀⠀⠀♡atl follows
- 2/5
- 5/4 (tt)♡"
+"user":{"id":326592903
+"id_str":"326592903"
+"name":"فهد المدريدي  !"
+"screen_name":"kkkwww777"
+"location":""
+"url":"http://ask.fm/FAHD9090"
+"description":"‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏ليس كُل سُقوط نهاية ، فـ سُقوط المطر أجملُ بداية ،  [10] أبطال أوروبا ، [32] لقب الدوري ! هل من مُنافس ، ! قلبي يهتف . . لـ 1 : ‏مدريد‏"
 "protected":false
 "verified":false
-"followers_count":1681
-"friends_count":977
-"listed_count":1
-"favourites_count":3002
-"statuses_count":15338
-"created_at":"Thu Mar 31 16:19:28 +0000 2011"
-"utc_offset":-18000
-"time_zone":"Quito"
+"followers_count":2207
+"friends_count":1281
+"listed_count":9
+"favourites_count":571
+"statuses_count":45506
+"created_at":"Thu Jun 30 04:58:05 +0000 2011"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":true
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"FFFFFF"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000122246927/27a2af9bb81c91205c957921046cdbc5.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000122246927/27a2af9bb81c91205c957921046cdbc5.jpeg"
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"F5ABB5"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"E6F6F9"
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/592544775057707008/kpq80UYt_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/592544775057707008/kpq80UYt_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/275090555/1430058512"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/549698971635945472/yAF7amUg_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/549698971635945472/yAF7amUg_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/326592903/1423144765"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -57,97 +51,20 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 18:03:43 +0000 2015"
-"id":593475763858501600
-"id_str":"593475763858501634"
-"text":"Definitely bio worthy @jccaylen 💆"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
-"truncated":false
-"in_reply_to_status_id":593333675938476000
-"in_reply_to_status_id_str":"593333675938476033"
-"in_reply_to_user_id":139539038
-"in_reply_to_user_id_str":"139539038"
-"in_reply_to_screen_name":"jccaylen"
-"user":{"id":560362416
-"id_str":"560362416"
-"name":"James Yammouni"
-"screen_name":"James_Yammouni"
-"location":"Melbourne "
-"url":"http://younow.com/jamesyammounishow"
-"description":"James from Australia . DJ . 1/5 @Janoskians . instagram - @jamesyammouniofficial ADDmeONsnapchat-KINGYAMMOUNI"
-"protected":false
-"verified":true
-"followers_count":1337417
-"friends_count":72056
-"listed_count":10703
-"favourites_count":19262
-"statuses_count":18425
-"created_at":"Sun Apr 22 13:05:24 +0000 2012"
-"utc_offset":39600
-"time_zone":"New Caledonia"
-"geo_enabled":true
-"lang":"en"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"FFFFFF"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/827418989/10e52ad6fdd4709e2548d97a3259b1cc.png"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/827418989/10e52ad6fdd4709e2548d97a3259b1cc.png"
-"profile_background_tile":false
-"profile_link_color":"94D487"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"E5507E"
-"profile_text_color":"362720"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/586697462741540865/r4JrXsZu_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/586697462741540865/r4JrXsZu_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/560362416/1428714625"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweet_count":319
-"favorite_count":271
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"jccaylen"
-"name":"jc."
-"id":139539038
-"id_str":"139539038"
-"indices":[22
-31]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"en"}
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"James_Yammouni"
-"name":"James Yammouni"
-"id":560362416
-"id_str":"560362416"
-"indices":[3
-18]}
-{"screen_name":"jccaylen"
-"name":"jc."
-"id":139539038
-"id_str":"139539038"
-"indices":[42
-51]}]
+"urls":[{"url":"http://t.co/JMwg1quwM0"
+"expanded_url":"http://qurani.tv"
+"display_url":"qurani.tv"
+"indices":[65
+87]}]
+"user_mentions":[]
 "symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430330636666"}
+"lang":"ar"
+"timestamp_ms":"1430334126665"}

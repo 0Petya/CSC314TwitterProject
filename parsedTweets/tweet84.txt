@@ -1,100 +1,51 @@
-{"created_at":"Wed Apr 29 18:03:55 +0000 2015"
-"id":593475816949993500
-"id_str":"593475816949993473"
-"text":"RT @FKAtwigs: under my tongue i possess a thousand words that can execute all darkness with just one kiss on your lips my love my love my l…"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459248439300
+"id_str":"593490459248439297"
+"text":"Eu só não falei pro moço MIN PEGA pq eu tinha certeza que ele não ia pegar. Tinha jogo do palmeiras. hahahahahah"
+"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1851869420
-"id_str":"1851869420"
-"name":"rianne"
-"screen_name":"riaaannee"
-"location":"where the desert meets the sea"
-"url":null
-"description":"skin like the earth"
+"user":{"id":2920803748
+"id_str":"2920803748"
+"name":"Menina Wonder "
+"screen_name":"MeninaWonder"
+"location":""
+"url":"http://hispanterablog.wix.com/hispanterablog"
+"description":"Romântica
+ ousada
+ traquina. Um pouco brava e sabe o que quer. Sarcástica e irônica
+ porém bondosa (às vezes). Menina no dia a dia. Na cama
+ mulher."
 "protected":false
 "verified":false
-"followers_count":72
-"friends_count":132
-"listed_count":2
-"favourites_count":9542
-"statuses_count":3956
-"created_at":"Tue Sep 10 16:00:32 +0000 2013"
-"utc_offset":7200
-"time_zone":"Amsterdam"
+"followers_count":304
+"friends_count":229
+"listed_count":1
+"favourites_count":57
+"statuses_count":16060
+"created_at":"Sun Dec 14 02:46:32 +0000 2014"
+"utc_offset":-7200
+"time_zone":"Mid-Atlantic"
 "geo_enabled":true
-"lang":"en-gb"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"C0DEED"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
-"profile_background_tile":false
-"profile_link_color":"FFFFFF"
-"profile_sidebar_border_color":"C0DEED"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/591910516483821569/59-hVzRS_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/591910516483821569/59-hVzRS_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1851869420/1428182998"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Fri Oct 24 00:21:37 +0000 2014"
-"id":525441949747380200
-"id_str":"525441949747380224"
-"text":"under my tongue i possess a thousand words that can execute all darkness with just one kiss on your lips my love my love my love"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":748020092
-"id_str":"748020092"
-"name":"FKA twigs"
-"screen_name":"FKAtwigs"
-"location":""
-"url":"http://fkatwi.gs"
-"description":null
-"protected":false
-"verified":true
-"followers_count":124356
-"friends_count":1
-"listed_count":785
-"favourites_count":81
-"statuses_count":226
-"created_at":"Thu Aug 09 21:57:26 +0000 2012"
-"utc_offset":7200
-"time_zone":"Amsterdam"
-"geo_enabled":false
-"lang":"en"
+"lang":"pt"
 "contributors_enabled":false
 "is_translator":false
 "profile_background_color":"FFFFFF"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000050916967/408e9331ec4081a7b225e05fda1dd62a.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000050916967/408e9331ec4081a7b225e05fda1dd62a.jpeg"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/592806207619866624/EKr-l9u9.jpg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/592806207619866624/EKr-l9u9.jpg"
 "profile_background_tile":true
-"profile_link_color":"0084B4"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"DDEEF6"
-"profile_text_color":"333333"
+"profile_link_color":"CD3278"
+"profile_sidebar_border_color":"181A1E"
+"profile_sidebar_fill_color":"252429"
+"profile_text_color":"666666"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/476022337502842880/ie4KSJCd_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/476022337502842880/ie4KSJCd_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/748020092/1402328618"
+"profile_image_url":"http://pbs.twimg.com/profile_images/592808398091112448/XIMW97cW_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592808398091112448/XIMW97cW_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2920803748/1428459089"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -104,8 +55,8 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":4444
-"favorite_count":5565
+"retweet_count":0
+"favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
 "urls":[]
@@ -115,22 +66,5 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"}
-"retweet_count":0
-"favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"FKAtwigs"
-"name":"FKA twigs"
-"id":748020092
-"id_str":"748020092"
-"indices":[3
-12]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430330635665"}
+"lang":"pt"
+"timestamp_ms":"1430334126661"}

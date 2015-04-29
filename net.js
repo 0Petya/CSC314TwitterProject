@@ -1,6 +1,25 @@
 var Twit = require('twit');
 var fs = require('fs');
 
+function cleanDir(path)
+{
+	if(fs.existsSync(path))
+	{
+	    fs.readdirSync(path).forEach(function(file,index)
+	    {
+			var curPath = path + "/" + file;
+			if(fs.lstatSync(curPath).isDirectory())
+			{
+				deleteFolderRecursive(curPath);
+			} 
+			else
+			{
+			fs.unlinkSync(curPath);
+			}
+		});
+	}
+}
+
 function net(stopTime, doneNetting)
 {
 	var T = new Twit
@@ -10,6 +29,9 @@ function net(stopTime, doneNetting)
 	  , access_token:         '3171126109-V5djIva6b07Ju9rf4OQiFfN0mqTI8WKmJFIER9K'
 	  , access_token_secret:  'zTylnQhRKuGiGhIibKjQU2RGjLyp3fT0JoCokdGnzyMfN'
 	})
+
+	cleanDir('./unparsedTweets');
+	cleanDir('./parsedTweets');
 
 	var stream = T.stream('statuses/sample')
 

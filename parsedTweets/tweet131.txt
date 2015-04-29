@@ -1,102 +1,49 @@
-{"created_at":"Wed Apr 29 18:03:56 +0000 2015"
-"id":593475821123276800
-"id_str":"593475821123276800"
-"text":"RT @ShaunKing: To this day @FoxNews refuses to recant their report Mike Brown \"broke every bone\" around the eyes of Darren Wilson http://t.…"
+{"created_at":"Wed Apr 29 19:02:06 +0000 2015"
+"id":593490459269472300
+"id_str":"593490459269472256"
+"text":"@mmgg10000000000 باطن تسبدي له فتره لازم اشق وجهه شوي فشلنا \" شكلي اذا قال كلام يفشل \" http://t.co/ZOChsOG5iy"
 "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":805523444
-"id_str":"805523444"
-"name":"meatball head "
-"screen_name":"guineamum"
-"location":"PNW"
-"url":"http://bitter-brat.tumblr.com"
-"description":"scary mean feminist. pro-choice. they/them or she/her. DM ME ABOUT FREE CONDOMS!"
+"in_reply_to_status_id":593489914483896300
+"in_reply_to_status_id_str":"593489914483896320"
+"in_reply_to_user_id":2430607096
+"in_reply_to_user_id_str":"2430607096"
+"in_reply_to_screen_name":"mmgg10000000000"
+"user":{"id":1922304830
+"id_str":"1922304830"
+"name":"أنوار البرشلونية +2"
+"screen_name":"asfcb7"
+"location":"KSA"
+"url":null
+"description":"FORÇA BARÇA
+ SIEMPRE BARÇA!!!"
 "protected":false
 "verified":false
-"followers_count":310
-"friends_count":331
-"listed_count":8
-"favourites_count":9565
-"statuses_count":16847
-"created_at":"Wed Sep 05 22:31:42 +0000 2012"
-"utc_offset":-25200
-"time_zone":"Pacific Time (US & Canada)"
+"followers_count":397
+"friends_count":154
+"listed_count":3
+"favourites_count":175
+"statuses_count":1885
+"created_at":"Tue Oct 01 04:59:50 +0000 2013"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"1C434D"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/479171871967961088/yMKlijsA.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/479171871967961088/yMKlijsA.jpeg"
-"profile_background_tile":true
-"profile_link_color":"407E82"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"E7DCA0"
-"profile_text_color":"93C6A3"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/584904223009046528/s_OC5ufQ_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/584904223009046528/s_OC5ufQ_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/805523444/1424815124"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Wed Apr 29 17:57:57 +0000 2015"
-"id":593474313308758000
-"id_str":"593474313308758016"
-"text":"To this day @FoxNews refuses to recant their report Mike Brown \"broke every bone\" around the eyes of Darren Wilson http://t.co/qVYV9IgC1k"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":755113
-"id_str":"755113"
-"name":"Shaun King"
-"screen_name":"ShaunKing"
-"location":"Hill Valley
- CA"
-"url":"https://www.Facebook.com/ShaunKing"
-"description":"Launching @JusticeTogether on June 16th. Justice Columnist @DailyKos : Send tips to shaun@dailykos.com."
-"protected":false
-"verified":false
-"followers_count":125987
-"friends_count":2766
-"listed_count":2599
-"favourites_count":29779
-"statuses_count":103289
-"created_at":"Tue Feb 06 05:17:19 +0000 2007"
-"utc_offset":-14400
-"time_zone":"Eastern Time (US & Canada)"
-"geo_enabled":false
-"lang":"en"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"131516"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg"
-"profile_background_tile":true
-"profile_link_color":"000000"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"EFEFEF"
+"profile_background_color":"C0DEED"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_tile":false
+"profile_link_color":"0084B4"
+"profile_sidebar_border_color":"C0DEED"
+"profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/552566266305597441/0P_nGARo_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/552566266305597441/0P_nGARo_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/755113/1418263835"
-"default_profile":false
+"profile_image_url":"http://pbs.twimg.com/profile_images/588554843201019904/DffB5y9M_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/588554843201019904/DffB5y9M_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/1922304830/1429157742"
+"default_profile":true
 "default_profile_image":false
 "following":null
 "follow_request_sent":null
@@ -105,52 +52,65 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":56
-"favorite_count":30
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[{"url":"http://t.co/qVYV9IgC1k"
-"expanded_url":"http://insider.foxnews.com/2014/08/20/reports-officer-darren-wilson-was-badly-beaten-shooting-michael-brown"
-"display_url":"insider.foxnews.com/2014/08/20/rep…"
-"indices":[115
-137]}]
-"user_mentions":[{"screen_name":"FoxNews"
-"name":"Fox News"
-"id":1367531
-"id_str":"1367531"
-"indices":[12
-20]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"en"}
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[{"url":"http://t.co/qVYV9IgC1k"
-"expanded_url":"http://insider.foxnews.com/2014/08/20/reports-officer-darren-wilson-was-badly-beaten-shooting-michael-brown"
-"display_url":"insider.foxnews.com/2014/08/20/rep…"
-"indices":[139
-140]}]
-"user_mentions":[{"screen_name":"ShaunKing"
-"name":"Shaun King"
-"id":755113
-"id_str":"755113"
-"indices":[3
-13]}
-{"screen_name":"FoxNews"
-"name":"Fox News"
-"id":1367531
-"id_str":"1367531"
-"indices":[27
-35]}]
-"symbols":[]}
+"urls":[]
+"user_mentions":[{"screen_name":"mmgg10000000000"
+"name":"هلالي مدريدي وكفى✌"
+"id":2430607096
+"id_str":"2430607096"
+"indices":[0
+16]}]
+"symbols":[]
+"media":[{"id":593490441372307500
+"id_str":"593490441372307459"
+"indices":[87
+109]
+"media_url":"http://pbs.twimg.com/media/CDyAaXeWEAMjVV2.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDyAaXeWEAMjVV2.jpg"
+"url":"http://t.co/ZOChsOG5iy"
+"display_url":"pic.twitter.com/ZOChsOG5iy"
+"expanded_url":"http://twitter.com/asfcb7/status/593490459269472256/photo/1"
+"type":"photo"
+"sizes":{"small":{"w":340
+"h":340
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":600
+"h":600
+"resize":"fit"}
+"large":{"w":749
+"h":749
+"resize":"fit"}}}]}
+"extended_entities":{"media":[{"id":593490441372307500
+"id_str":"593490441372307459"
+"indices":[87
+109]
+"media_url":"http://pbs.twimg.com/media/CDyAaXeWEAMjVV2.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CDyAaXeWEAMjVV2.jpg"
+"url":"http://t.co/ZOChsOG5iy"
+"display_url":"pic.twitter.com/ZOChsOG5iy"
+"expanded_url":"http://twitter.com/asfcb7/status/593490459269472256/photo/1"
+"type":"photo"
+"sizes":{"small":{"w":340
+"h":340
+"resize":"fit"}
+"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"medium":{"w":600
+"h":600
+"resize":"fit"}
+"large":{"w":749
+"h":749
+"resize":"fit"}}}]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"en"
-"timestamp_ms":"1430330636660"}
+"lang":"ar"
+"timestamp_ms":"1430334126666"}
