@@ -1,63 +1,7 @@
-{"created_at":"Wed Apr 29 19:02:04 +0000 2015"
-"id":593490450876600300
-"id_str":"593490450876600323"
-"text":"RT @Cellegrini: Si sabes quién eres
- no necesitas demostrar nada.💁"
-"source":"<a href=\"http://adictos2.tooltwits.com\" rel=\"nofollow\">App Adictos2</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":1327271454
-"id_str":"1327271454"
-"name":"Frases y Textos"
-"screen_name":"TextoPerfecto"
-"location":"Venezuela"
-"url":null
-"description":"Puedes decir una verdad mil veces y muy pocos la creerán... Pero con sólo decir una mentira
- esta será aceptada y difundida por la mayoría.\nNo DM's"
-"protected":false
-"verified":false
-"followers_count":124468
-"friends_count":98293
-"listed_count":134
-"favourites_count":167
-"statuses_count":920
-"created_at":"Thu Apr 04 16:19:20 +0000 2013"
-"utc_offset":-16200
-"time_zone":"Caracas"
-"geo_enabled":false
-"lang":"es"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"131516"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme14/bg.gif"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme14/bg.gif"
-"profile_background_tile":true
-"profile_link_color":"3300FF"
-"profile_sidebar_border_color":"FFFFFF"
-"profile_sidebar_fill_color":"EFEFEF"
-"profile_text_color":"333333"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/540653030417260544/mmfS2xH-_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/540653030417260544/mmfS2xH-_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1327271454/1417737029"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweeted_status":{"created_at":"Sat Mar 21 21:03:42 +0000 2015"
-"id":579387932231872500
-"id_str":"579387932231872512"
-"text":"Si sabes quién eres
- no necesitas demostrar nada.💁"
+{"created_at":"Thu Apr 30 18:28:46 +0000 2015"
+"id":593844455775535100
+"id_str":"593844455775535104"
+"text":"damn girl u look like u dont poop #compliment or #insult"
 "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
 "truncated":false
 "in_reply_to_status_id":null
@@ -65,39 +9,40 @@
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":1007743357
-"id_str":"1007743357"
-"name":"Celeste Pellegrini"
-"screen_name":"Cellegrini"
-"location":"جهد"
-"url":"http://youtube.com/chichispower"
-"description":"Youtube: CHICHISPOWER | Instagram: celestepellegrini | Facebook: Cellegrini | Contacto: chichispowermx@gmail.com"
+"user":{"id":338010603
+"id_str":"338010603"
+"name":"zezima"
+"screen_name":"King_Boomie"
+"location":"99 everything"
+"url":null
+"description":"Player of the the day May 9th
+ 2014"
 "protected":false
 "verified":false
-"followers_count":4217
-"friends_count":83
-"listed_count":9
-"favourites_count":2335
-"statuses_count":1430
-"created_at":"Thu Dec 13 01:32:26 +0000 2012"
-"utc_offset":null
-"time_zone":null
+"followers_count":47
+"friends_count":46
+"listed_count":0
+"favourites_count":978
+"statuses_count":30223
+"created_at":"Mon Jul 18 22:54:51 +0000 2011"
+"utc_offset":-25200
+"time_zone":"Pacific Time (US & Canada)"
 "geo_enabled":false
-"lang":"es"
+"lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"EDEEF2"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/465720815569207296/qVuQYcZr.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/465720815569207296/qVuQYcZr.jpeg"
-"profile_background_tile":true
+"profile_background_color":"1A1B1F"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/697396048/cbe83f4c80ca08f0f968ab3861671c17.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/697396048/cbe83f4c80ca08f0f968ab3861671c17.jpeg"
+"profile_background_tile":false
 "profile_link_color":"2FC2EF"
-"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_border_color":"000000"
 "profile_sidebar_fill_color":"252429"
 "profile_text_color":"666666"
-"profile_use_background_image":false
-"profile_image_url":"http://pbs.twimg.com/profile_images/592871753891848196/bKFHCNP7_normal.jpg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/592871753891848196/bKFHCNP7_normal.jpg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/1007743357/1414971109"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/521521188615782400/3ha5bXYs_normal.jpeg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/521521188615782400/3ha5bXYs_normal.jpeg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/338010603/1413421154"
 "default_profile":false
 "default_profile_image":false
 "following":null
@@ -107,9 +52,14 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweet_count":449
-"favorite_count":207
-"entities":{"hashtags":[]
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[{"text":"compliment"
+"indices":[34
+45]}
+{"text":"insult"
+"indices":[49
+56]}]
 "trends":[]
 "urls":[]
 "user_mentions":[]
@@ -118,22 +68,5 @@
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
-"lang":"es"}
-"retweet_count":0
-"favorite_count":0
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[]
-"user_mentions":[{"screen_name":"Cellegrini"
-"name":"Celeste Pellegrini"
-"id":1007743357
-"id_str":"1007743357"
-"indices":[3
-14]}]
-"symbols":[]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"es"
-"timestamp_ms":"1430334124665"}
+"lang":"en"
+"timestamp_ms":"1430418526010"}
