@@ -1,39 +1,31 @@
-{"created_at":"Thu Apr 30 18:28:44 +0000 2015"
-"id":593844449840607200
-"id_str":"593844449840607232"
-"text":"RT @MontereyAq: Breaking news! Why poop-eating vampire squid make patient parents: http://t.co/RVWQrQEtPB @KQEDscience @MBARI_News http://t…"
-"source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+{"created_at":"Mon May 04 23:46:47 +0000 2015"
+"id":595374039679389700
+"id_str":"595374039679389696"
+"text":"Hello world!\n\n#CSC314"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":41304196
-"id_str":"41304196"
-"name":"Drew"
-"screen_name":"hoosierdrewk"
-"location":"Philadelphia
- PA"
+"user":{"id":3171126109
+"id_str":"3171126109"
+"name":"Peter Tran"
+"screen_name":"PeterTran628"
+"location":""
 "url":null
-"description":"villanova law alum
- lawyer
- proud indiana hoosier
- patriot
- xbox live bully
- perennial fantasy football underachiever
- big brother
- the buddy system's #1 fan"
+"description":null
 "protected":false
 "verified":false
-"followers_count":218
-"friends_count":768
-"listed_count":5
-"favourites_count":529
-"statuses_count":2690
-"created_at":"Wed May 20 05:35:10 +0000 2009"
-"utc_offset":-14400
-"time_zone":"Eastern Time (US & Canada)"
+"followers_count":0
+"friends_count":1
+"listed_count":0
+"favourites_count":0
+"statuses_count":1
+"created_at":"Fri Apr 24 17:22:08 +0000 2015"
+"utc_offset":null
+"time_zone":null
 "geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
@@ -47,11 +39,10 @@
 "profile_sidebar_fill_color":"DDEEF6"
 "profile_text_color":"333333"
 "profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/532593147101327362/2cb_r87t_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/532593147101327362/2cb_r87t_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/41304196/1398296712"
+"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"
+"profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png"
 "default_profile":true
-"default_profile_image":false
+"default_profile_image":true
 "following":null
 "follow_request_sent":null
 "notifications":null}
@@ -59,213 +50,18 @@
 "coordinates":null
 "place":null
 "contributors":null
-"retweeted_status":{"created_at":"Thu Apr 30 18:23:12 +0000 2015"
-"id":593843056136228900
-"id_str":"593843056136228864"
-"text":"Breaking news! Why poop-eating vampire squid make patient parents: http://t.co/RVWQrQEtPB @KQEDscience @MBARI_News http://t.co/TxvvcfsGPG"
-"source":"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
-"truncated":false
-"in_reply_to_status_id":null
-"in_reply_to_status_id_str":null
-"in_reply_to_user_id":null
-"in_reply_to_user_id_str":null
-"in_reply_to_screen_name":null
-"user":{"id":14750983
-"id_str":"14750983"
-"name":"Monterey Aquarium"
-"screen_name":"MontereyAq"
-"location":"Monterey
- CA"
-"url":"http://montereybayaquarium.org"
-"description":"The Monterey Bay Aquarium is your window to the wonders of the ocean. It’s home to sea otters
- penguins
- sharks
- jellies and thousands of other marine animals."
-"protected":false
-"verified":false
-"followers_count":59366
-"friends_count":4481
-"listed_count":1855
-"favourites_count":594
-"statuses_count":17488
-"created_at":"Mon May 12 22:35:13 +0000 2008"
-"utc_offset":-25200
-"time_zone":"Pacific Time (US & Canada)"
-"geo_enabled":false
-"lang":"en"
-"contributors_enabled":false
-"is_translator":false
-"profile_background_color":"001D2F"
-"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg"
-"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/691877589/a2337352fd8166f23d37c0360f698588.jpeg"
-"profile_background_tile":false
-"profile_link_color":"489FF5"
-"profile_sidebar_border_color":"000000"
-"profile_sidebar_fill_color":"B4F3FF"
-"profile_text_color":"000000"
-"profile_use_background_image":true
-"profile_image_url":"http://pbs.twimg.com/profile_images/529314069325426688/8IoxuoSt_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/529314069325426688/8IoxuoSt_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/14750983/1421606381"
-"default_profile":false
-"default_profile_image":false
-"following":null
-"follow_request_sent":null
-"notifications":null}
-"geo":null
-"coordinates":null
-"place":null
-"contributors":null
-"retweet_count":7
-"favorite_count":4
-"entities":{"hashtags":[]
-"trends":[]
-"urls":[{"url":"http://t.co/RVWQrQEtPB"
-"expanded_url":"http://mbayaq.co/1dxHGt6"
-"display_url":"mbayaq.co/1dxHGt6"
-"indices":[67
-89]}]
-"user_mentions":[{"screen_name":"KQEDscience"
-"name":"KQEDscience"
-"id":22695157
-"id_str":"22695157"
-"indices":[90
-102]}
-{"screen_name":"MBARI_News"
-"name":"MBARI"
-"id":249724351
-"id_str":"249724351"
-"indices":[103
-114]}]
-"symbols":[]
-"media":[{"id":593842802049622000
-"id_str":"593842802049622016"
-"indices":[115
-137]
-"media_url":"http://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"url":"http://t.co/TxvvcfsGPG"
-"display_url":"pic.twitter.com/TxvvcfsGPG"
-"expanded_url":"http://twitter.com/MontereyAq/status/593843056136228864/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":191
-"resize":"fit"}
-"large":{"w":800
-"h":450
-"resize":"fit"}
-"medium":{"w":600
-"h":337
-"resize":"fit"}}}]}
-"extended_entities":{"media":[{"id":593842802049622000
-"id_str":"593842802049622016"
-"indices":[115
-137]
-"media_url":"http://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"url":"http://t.co/TxvvcfsGPG"
-"display_url":"pic.twitter.com/TxvvcfsGPG"
-"expanded_url":"http://twitter.com/MontereyAq/status/593843056136228864/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":191
-"resize":"fit"}
-"large":{"w":800
-"h":450
-"resize":"fit"}
-"medium":{"w":600
-"h":337
-"resize":"fit"}}}]}
-"favorited":false
-"retweeted":false
-"possibly_sensitive":false
-"filter_level":"low"
-"lang":"en"}
 "retweet_count":0
 "favorite_count":0
-"entities":{"hashtags":[]
+"entities":{"hashtags":[{"text":"CSC314"
+"indices":[14
+21]}]
 "trends":[]
-"urls":[{"url":"http://t.co/RVWQrQEtPB"
-"expanded_url":"http://mbayaq.co/1dxHGt6"
-"display_url":"mbayaq.co/1dxHGt6"
-"indices":[83
-105]}]
-"user_mentions":[{"screen_name":"MontereyAq"
-"name":"Monterey Aquarium"
-"id":14750983
-"id_str":"14750983"
-"indices":[3
-14]}
-{"screen_name":"KQEDscience"
-"name":"KQEDscience"
-"id":22695157
-"id_str":"22695157"
-"indices":[106
-118]}
-{"screen_name":"MBARI_News"
-"name":"MBARI"
-"id":249724351
-"id_str":"249724351"
-"indices":[119
-130]}]
-"symbols":[]
-"media":[{"id":593842802049622000
-"id_str":"593842802049622016"
-"indices":[139
-140]
-"media_url":"http://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"url":"http://t.co/TxvvcfsGPG"
-"display_url":"pic.twitter.com/TxvvcfsGPG"
-"expanded_url":"http://twitter.com/MontereyAq/status/593843056136228864/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":191
-"resize":"fit"}
-"large":{"w":800
-"h":450
-"resize":"fit"}
-"medium":{"w":600
-"h":337
-"resize":"fit"}}
-"source_status_id":593843056136228900
-"source_status_id_str":"593843056136228864"}]}
-"extended_entities":{"media":[{"id":593842802049622000
-"id_str":"593842802049622016"
-"indices":[139
-140]
-"media_url":"http://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"media_url_https":"https://pbs.twimg.com/media/CD3A4dSXIAAbaU4.jpg"
-"url":"http://t.co/TxvvcfsGPG"
-"display_url":"pic.twitter.com/TxvvcfsGPG"
-"expanded_url":"http://twitter.com/MontereyAq/status/593843056136228864/photo/1"
-"type":"photo"
-"sizes":{"thumb":{"w":150
-"h":150
-"resize":"crop"}
-"small":{"w":340
-"h":191
-"resize":"fit"}
-"large":{"w":800
-"h":450
-"resize":"fit"}
-"medium":{"w":600
-"h":337
-"resize":"fit"}}
-"source_status_id":593843056136228900
-"source_status_id_str":"593843056136228864"}]}
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"en"
-"timestamp_ms":"1430418524595"}
+"timestamp_ms":"1430783207231"}

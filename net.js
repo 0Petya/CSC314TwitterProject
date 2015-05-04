@@ -28,29 +28,6 @@ function cleanDir(path)
 	}
 }
 
-function filter(stopTime, string, doneNetting)
-{
-	var stream = T.stream('statuses/filter', { track: [string]});
-
-	var i = 0;
-	stream.on('tweet', gotTweet)
-	setTimeout(timesUp, stopTime);
-
-	function gotTweet(tweet)
-	{
-		fs.writeFileSync('./unparsedTweets/tweet' + i + '.txt', JSON.stringify(tweet))
-		i++;
-	}
-
-	function timesUp()
-	{
-		stream.stop();
-		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the parsedTweets directory for the tweets.')
-		doneNetting(i);
-	}
-}
-
 function sample(stopTime, doneNetting)
 {
 	var stream = T.stream('statuses/sample');
@@ -69,10 +46,57 @@ function sample(stopTime, doneNetting)
 	{
 		stream.stop();
 		console.log('\nCaught ' + i + ' tweets!');
-		console.log('Please check the parsedTweets directory for the tweets.')
+		console.log('Please check the database for the tweets.')
 		doneNetting(i);
 	}
 }
 
-exports.filter = filter;
+function track(stopTime, string, doneNetting)
+{
+	var stream = T.stream('statuses/filter', { track: [string]});
+
+	var i = 0;
+	stream.on('tweet', gotTweet)
+	setTimeout(timesUp, stopTime);
+
+	function gotTweet(tweet)
+	{
+		fs.writeFileSync('./unparsedTweets/tweet' + i + '.txt', JSON.stringify(tweet))
+		i++;
+	}
+
+	function timesUp()
+	{
+		stream.stop();
+		console.log('\nCaught ' + i + ' tweets!');
+		console.log('Please check the database for the tweets.')
+		doneNetting(i);
+	}
+}
+
+function location(stopTime, coordinates, doneNetting)
+{
+	var stream = T.stream('statuses/filter', { locations: [coordinates]});
+
+	var i = 0;
+	stream.on('tweet', gotTweet)
+	setTimeout(timesUp, stopTime);
+
+	function gotTweet(tweet)
+	{
+		fs.writeFileSync('./unparsedTweets/tweet' + i + '.txt', JSON.stringify(tweet))
+		i++;
+	}
+
+	function timesUp()
+	{
+		stream.stop();
+		console.log('\nCaught ' + i + ' tweets!');
+		console.log('Please check the database for the tweets.')
+		doneNetting(i);
+	}
+}
+
 exports.sample = sample;
+exports.track = track;
+exports.location = location;
