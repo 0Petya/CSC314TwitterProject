@@ -1,14 +1,33 @@
-You can install node.js here:
+TwitterBot
+__________
+
+By: Peter Tran, Huong Nguyen, Hiro Harada
+
+Before you can run the program, you must install Node.js and MySQL.
+
+You can install Node.js here:
 https://nodejs.org/
+
+You can install MySQL here:
+https://www.mysql.com/
+
+
+
+Before running the program, you have to create a new database
+called "twitterbot". The database must be able to hold special
+characters. Below is SQL that will generate that database.
+
+You must have a MySQL account on the machine with the username 
+"root", and a null password.
+
+````
+CREATE DATABASE twitterbot
+  DEFAULT CHARACTER SET utf8
+  DEFAULT COLLATE utf8_general_ci;
+````
 
 To run the program, you can just run with 
 
 ````
 $ node twitterBot.js
 ````
-
-Currently, it just runs for 5 seconds. It'll grab the tweets, and place them in the unparsedTweets folder. Then it'll seperate the tweet by fields and place it in the parsedTweets folder.
-
-twitterBot.js is the main program that starts everything.
-net.js is what captures the tweets.
-parser.js seperates the tweet into it's respective fields.
