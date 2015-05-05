@@ -1,7 +1,11 @@
+This GitHub page is dedicated for group work. It is not
+intended for public consumption.
+__________
+
 TwitterBot
 __________
 
-By: Peter Tran, Huong Nguyen, Hiro Harada
+By: Peter Tran, Huong Nguyen, and Hiro Harada
 
 Before you can run the program, you must install Node.js and MySQL.
 
