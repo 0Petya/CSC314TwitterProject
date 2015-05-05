@@ -1,0 +1,66 @@
+{"created_at":"Tue May 05 01:43:59 +0000 2015"
+"id":595403535816220700
+"id_str":"595403535816220672"
+"text":"Podre ver mil veces El Hombre Araña y juro no cansarme."
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":null
+"in_reply_to_user_id_str":null
+"in_reply_to_screen_name":null
+"user":{"id":454276503
+"id_str":"454276503"
+"name":"Ana maría R"
+"screen_name":"tisgraesrasnep"
+"location":""
+"url":null
+"description":"Me dan miedo las sonrisas. Bogotá-Colombia.                               Instagram: ana_rodriguezt"
+"protected":false
+"verified":false
+"followers_count":1266
+"friends_count":842
+"listed_count":5
+"favourites_count":7438
+"statuses_count":19896
+"created_at":"Tue Jan 03 20:35:10 +0000 2012"
+"utc_offset":-18000
+"time_zone":"Central Time (US & Canada)"
+"geo_enabled":false
+"lang":"es"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"1A1B1F"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/437400767440232448/fOmoeJN4.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/437400767440232448/fOmoeJN4.jpeg"
+"profile_background_tile":true
+"profile_link_color":"1A1B1F"
+"profile_sidebar_border_color":"FFFFFF"
+"profile_sidebar_fill_color":"99CC33"
+"profile_text_color":"3E4415"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/595401917624352768/j4ot1ep3_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/595401917624352768/j4ot1ep3_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/454276503/1426948936"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":true
+"filter_level":"low"
+"lang":"es"
+"timestamp_ms":"1430790239658"}

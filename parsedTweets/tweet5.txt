@@ -1,84 +1,116 @@
-{"created_at":"Tue May 05 00:43:39 +0000 2015"
-"id":595388351051497500
-"id_str":"595388351051497474"
-"text":"You're so creepy"
-"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+{"created_at":"Tue May 05 01:43:58 +0000 2015"
+"id":595403531638607900
+"id_str":"595403531638607872"
+"text":"Some leadership theory infused with superhero goodness.\nhttps://t.co/SqDxbHrzd1 http://t.co/lqStLIos6h"
+"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
 "truncated":false
 "in_reply_to_status_id":null
 "in_reply_to_status_id_str":null
 "in_reply_to_user_id":null
 "in_reply_to_user_id_str":null
 "in_reply_to_screen_name":null
-"user":{"id":276384481
-"id_str":"276384481"
-"name":"Sergio León "
-"screen_name":"thesergioleon"
-"location":"and the girls are pretty
- Berk"
-"url":null
-"description":"Where the grass is green"
+"user":{"id":3108253688
+"id_str":"3108253688"
+"name":"Gabriel Dwyer"
+"screen_name":"gabriel_dwyer"
+"location":"Melbourne
+ Australia"
+"url":"https://summedupblog.wordpress.com/"
+"description":"Studying the Bachelor of Science Advanced - Global Challenges (Hons.) at Monash University. An explorer of the world
+ an eternal student
+ a global citizen."
 "protected":false
 "verified":false
-"followers_count":338
-"friends_count":261
-"listed_count":3
-"favourites_count":9083
-"statuses_count":12915
-"created_at":"Sun Apr 03 07:29:02 +0000 2011"
-"utc_offset":-25200
-"time_zone":"Pacific Time (US & Canada)"
-"geo_enabled":true
+"followers_count":25
+"friends_count":64
+"listed_count":0
+"favourites_count":1
+"statuses_count":6
+"created_at":"Thu Mar 26 11:53:10 +0000 2015"
+"utc_offset":null
+"time_zone":null
+"geo_enabled":false
 "lang":"en"
 "contributors_enabled":false
 "is_translator":false
-"profile_background_color":"000000"
-"profile_background_image_url":"http://abs.twimg.com/images/themes/theme5/bg.gif"
-"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme5/bg.gif"
+"profile_background_color":"E0F2F7"
+"profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png"
+"profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png"
 "profile_background_tile":false
-"profile_link_color":"DD2E44"
+"profile_link_color":"01A9DB"
 "profile_sidebar_border_color":"000000"
 "profile_sidebar_fill_color":"000000"
 "profile_text_color":"000000"
 "profile_use_background_image":false
-"profile_image_url":"http://pbs.twimg.com/profile_images/547345380728664064/oZMaip-9_normal.jpeg"
-"profile_image_url_https":"https://pbs.twimg.com/profile_images/547345380728664064/oZMaip-9_normal.jpeg"
-"profile_banner_url":"https://pbs.twimg.com/profile_banners/276384481/1419129770"
+"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"
+"profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png"
 "default_profile":false
-"default_profile_image":false
+"default_profile_image":true
 "following":null
 "follow_request_sent":null
 "notifications":null}
 "geo":null
 "coordinates":null
-"place":{"id":"5ef5b7f391e30aff"
-"url":"https://api.twitter.com/1.1/geo/id/5ef5b7f391e30aff.json"
-"place_type":"city"
-"name":"Berkeley"
-"full_name":"Berkeley
- CA"
-"country_code":"US"
-"country":"United States"
-"bounding_box":{"type":"Polygon"
-"coordinates":[[[-122.324818
-37.8459532]
-[-122.324818
-37.905738]
-[-122.234225
-37.905738]
-[-122.234225
-37.8459532]]]}
-"attributes":{}}
+"place":null
 "contributors":null
 "retweet_count":0
 "favorite_count":0
 "entities":{"hashtags":[]
 "trends":[]
-"urls":[]
+"urls":[{"url":"https://t.co/SqDxbHrzd1"
+"expanded_url":"https://summedupblog.wordpress.com/2015/05/04/heroism-leadership-and-batman/"
+"display_url":"summedupblog.wordpress.com/2015/05/04/her…"
+"indices":[56
+79]}]
 "user_mentions":[]
-"symbols":[]}
+"symbols":[]
+"media":[{"id":595403530103488500
+"id_str":"595403530103488512"
+"indices":[80
+102]
+"media_url":"http://pbs.twimg.com/media/CENMWyXVAAAikeb.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CENMWyXVAAAikeb.jpg"
+"url":"http://t.co/lqStLIos6h"
+"display_url":"pic.twitter.com/lqStLIos6h"
+"expanded_url":"http://twitter.com/gabriel_dwyer/status/595403531638607872/photo/1"
+"type":"photo"
+"sizes":{"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"large":{"w":320
+"h":310
+"resize":"fit"}
+"small":{"w":320
+"h":310
+"resize":"fit"}
+"medium":{"w":320
+"h":310
+"resize":"fit"}}}]}
+"extended_entities":{"media":[{"id":595403530103488500
+"id_str":"595403530103488512"
+"indices":[80
+102]
+"media_url":"http://pbs.twimg.com/media/CENMWyXVAAAikeb.jpg"
+"media_url_https":"https://pbs.twimg.com/media/CENMWyXVAAAikeb.jpg"
+"url":"http://t.co/lqStLIos6h"
+"display_url":"pic.twitter.com/lqStLIos6h"
+"expanded_url":"http://twitter.com/gabriel_dwyer/status/595403531638607872/photo/1"
+"type":"photo"
+"sizes":{"thumb":{"w":150
+"h":150
+"resize":"crop"}
+"large":{"w":320
+"h":310
+"resize":"fit"}
+"small":{"w":320
+"h":310
+"resize":"fit"}
+"medium":{"w":320
+"h":310
+"resize":"fit"}}}]}
 "favorited":false
 "retweeted":false
 "possibly_sensitive":false
 "filter_level":"low"
 "lang":"en"
-"timestamp_ms":"1430786619328"}
+"timestamp_ms":"1430790238662"}

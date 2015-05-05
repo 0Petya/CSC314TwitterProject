@@ -1,0 +1,72 @@
+{"created_at":"Tue May 05 01:43:59 +0000 2015"
+"id":595403535849750500
+"id_str":"595403535849750528"
+"text":"@chipmunkres Really?!? How much 💪 &amp; a leg 😂😂"
+"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+"truncated":false
+"in_reply_to_status_id":595403306605744100
+"in_reply_to_status_id_str":"595403306605744128"
+"in_reply_to_user_id":1548993799
+"in_reply_to_user_id_str":"1548993799"
+"in_reply_to_screen_name":"chipmunkres"
+"user":{"id":370675132
+"id_str":"370675132"
+"name":"Jamie H"
+"screen_name":"DDubArmy417"
+"location":"O-HI-O via Naples
+ FL"
+"url":null
+"description":"❤ Wife & Mom of 2 ❤ #Blockhead4Life ❤ I tweet for @DonnieWahlberg #5163 #LoveEternal & My BH Family ❤ JK #2831 DW #4606 TOUCHED #TheScruff 8/3/13"
+"protected":false
+"verified":false
+"followers_count":2123
+"friends_count":1842
+"listed_count":15
+"favourites_count":8709
+"statuses_count":12907
+"created_at":"Fri Sep 09 12:50:19 +0000 2011"
+"utc_offset":-14400
+"time_zone":"Eastern Time (US & Canada)"
+"geo_enabled":true
+"lang":"en"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"030303"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/378800000096064099/d4fffc18010b8df93eb288fcafed97ea.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/378800000096064099/d4fffc18010b8df93eb288fcafed97ea.jpeg"
+"profile_background_tile":true
+"profile_link_color":"5C0A5C"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"DDEEF6"
+"profile_text_color":"333333"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/592668052476588032/X-EA30ad_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/592668052476588032/X-EA30ad_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/370675132/1420435947"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"chipmunkres"
+"name":"Kelley"
+"id":1548993799
+"id_str":"1548993799"
+"indices":[0
+12]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"en"
+"timestamp_ms":"1430790239666"}

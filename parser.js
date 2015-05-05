@@ -22,7 +22,7 @@ function parser(count) {
     });
     
     connection.connect();
-    connection.query('create table if not exists tweets (tweetID int not null auto_increment, username varchar(250) null, tweet varchar(1500) null, followers int null, primary key(tweetID) ) ', function (err, result) {
+    connection.query('create table if not exists tweets (tweetID int not null auto_increment, twitterHandle varchar(250) null, username varchar(250) null, tweet varchar(1500) null, timeZone varchar(250) null, language varchar(250) null, followers int null, statuses int null, primary key(tweetID) ) ', function (err, result) {
             if (err) {
                 connection.rollback(function () {
                     throw err;
@@ -95,10 +95,14 @@ function parser(count) {
             var test = '{"text": "text of tweet", "user": {"name": "name of user"} }';
             var jason = JSON.parse(unParsed);
             var text = parseEncode(jason['text']);
+            var twitterHandle = jason['user']['screen_name'];
             var username = parseEncode(jason['user']['name']);
+            var timeZone = jason['user']['time_zone'];
+            var language = jason['user']['lang'];
             var followerCount = jason['user']['followers_count'];
+            var statusCount = jason['user']['statuses_count'];
 
-            var queryString = 'INSERT INTO tweets (username, tweet, followers) values("' + username + '", "' + text + '", "' + followerCount + '")';
+            var queryString = 'INSERT INTO tweets (twitterHandle, username, tweet, timeZone, language, followers, statuses) values("' + twitterHandle + '", "' + username + '", "' + text + '", "' + timeZone + '", "' + language + '", "' + followerCount + '", "' + statusCount + '")';
             connection.query(queryString, function (err, result) {
                 if (err) {
                     return callback(err);

@@ -1,0 +1,71 @@
+{"created_at":"Tue May 05 01:43:59 +0000 2015"
+"id":595403535824490500
+"id_str":"595403535824490496"
+"text":"@FripX 05月05日に入ってからリプライ数11を受け取りました"
+"source":"<a href=\"http://gumu-lab.com/replychecker/\" rel=\"nofollow\">リプライ数チェッカ</a>"
+"truncated":false
+"in_reply_to_status_id":null
+"in_reply_to_status_id_str":null
+"in_reply_to_user_id":2589139722
+"in_reply_to_user_id_str":"2589139722"
+"in_reply_to_screen_name":"FripX"
+"user":{"id":2589139722
+"id_str":"2589139722"
+"name":"異端者 Aria"
+"screen_name":"FripX"
+"location":"ブリテン、ラグズ、フェンリル極東支部、ルーンミッドガッツ王国"
+"url":"http://twpf.jp/FripX"
+"description":"リムった方には無償でスパブロキャンペーン中！\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　福音の魔煌団団長やってます。気軽に入団してくださいまし…！ PSO2@ship5\n　http://bit.ly/1xHmZSn"
+"protected":false
+"verified":false
+"followers_count":11960
+"friends_count":8733
+"listed_count":98
+"favourites_count":2983
+"statuses_count":28436
+"created_at":"Thu Jun 26 08:19:46 +0000 2014"
+"utc_offset":32400
+"time_zone":"Irkutsk"
+"geo_enabled":false
+"lang":"ja"
+"contributors_enabled":false
+"is_translator":false
+"profile_background_color":"000000"
+"profile_background_image_url":"http://pbs.twimg.com/profile_background_images/577067486241103872/F3OOGZSw.jpeg"
+"profile_background_image_url_https":"https://pbs.twimg.com/profile_background_images/577067486241103872/F3OOGZSw.jpeg"
+"profile_background_tile":false
+"profile_link_color":"ABB8C2"
+"profile_sidebar_border_color":"000000"
+"profile_sidebar_fill_color":"000000"
+"profile_text_color":"000000"
+"profile_use_background_image":true
+"profile_image_url":"http://pbs.twimg.com/profile_images/585460701734506496/JjcolsYV_normal.jpg"
+"profile_image_url_https":"https://pbs.twimg.com/profile_images/585460701734506496/JjcolsYV_normal.jpg"
+"profile_banner_url":"https://pbs.twimg.com/profile_banners/2589139722/1428420109"
+"default_profile":false
+"default_profile_image":false
+"following":null
+"follow_request_sent":null
+"notifications":null}
+"geo":null
+"coordinates":null
+"place":null
+"contributors":null
+"retweet_count":0
+"favorite_count":0
+"entities":{"hashtags":[]
+"trends":[]
+"urls":[]
+"user_mentions":[{"screen_name":"FripX"
+"name":"異端者 Aria"
+"id":2589139722
+"id_str":"2589139722"
+"indices":[0
+6]}]
+"symbols":[]}
+"favorited":false
+"retweeted":false
+"possibly_sensitive":false
+"filter_level":"low"
+"lang":"ja"
+"timestamp_ms":"1430790239660"}
