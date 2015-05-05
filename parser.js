@@ -22,7 +22,7 @@ function parser(count) {
     });
     
     connection.connect();
-    connection.query('create table if not exists tweets (tweetID int not null auto_increment, username varchar(250) null, tweet varchar(1500) null, primary key(tweetID) ) ', function (err, result) {
+    connection.query('create table if not exists tweets (tweetID int not null auto_increment, username varchar(250) null, tweet varchar(1500) null, followers int null, primary key(tweetID) ) ', function (err, result) {
             if (err) {
                 connection.rollback(function () {
                     throw err;
@@ -96,8 +96,9 @@ function parser(count) {
             var jason = JSON.parse(unParsed);
             var text = parseEncode(jason['text']);
             var username = parseEncode(jason['user']['name']);
+            var followerCount = jason['user']['followers_count'];
 
-            var queryString = 'INSERT INTO tweets (username, tweet) values("' + username + '", "' + text + '")';
+            var queryString = 'INSERT INTO tweets (username, tweet, followers) values("' + username + '", "' + text + '", "' + followerCount + '")';
             connection.query(queryString, function (err, result) {
                 if (err) {
                     return callback(err);
