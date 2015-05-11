@@ -17,6 +17,9 @@ https://www.mysql.com/
 
 
 
+Before running the program, you must change the net.js file to include
+the proper keys after creating an application on the Twitter app page.
+
 Before running the program, you have to create a new database
 called "twitterbot". The database must be able to hold special
 characters. Below is SQL that will generate that database.
